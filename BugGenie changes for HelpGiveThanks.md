@@ -26,7 +26,7 @@ http://thebuggenie.wordpress.com/2012/04/04/so-what-does-it-look-like-part-3/
 
 **NOTE:** All pictures below are hosted for free courtesy of imageshack.us, and sized to width 738px to maximize fit on this forum with one exception: the attached image below is too big to display legibly.  You must, and please do, click the link below to view it.  I posted a feature request to this forum to add an image re-sizer (with full size popup option): Image re-size MOD for forum to auto fit big images http://forum.thebuggenie.com/viewtopic.php?f=9&t=1690
 
-**FINAL NOTE:** :smiley:: Please comment if you have ideas that would make this post better:bulb:.
+**FINAL NOTE:smiley::** Please comment if you have ideas that would make this post better:bulb:.
 
 My redesign was made following Edward Tufte's (EdwardTufte.com) rules for graphic design as I understand them.  They are not for everyone and every website!  Here are a couple of choice quotes by Tufte on website and software interface design: [quote]If possible, design architectures should be spare, straightforward, conventional, and self- effacing; AND the evidence presented should be rich, complex, multivariate, causal. The idea is to maximize the viewer's content reasoning time, and to minimize the design figuring out time and to reduce impediments to content reasoning. 
 
