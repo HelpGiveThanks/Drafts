@@ -1,7 +1,8 @@
 *How to make a whole Bug Genie like website one seamless collaboration tool with a common look and feel for all parts of the website: A) Home/Brochure Web Pages; B) Project Manger (The Bug Genie Solution/Tool/Sofware); C) Forum; and D) Wiki.  Click on link below to see before and after image of non-uniform vs uniform theme for all aspects of a website centered around The Bug Genie.*
 [TBG Redesign.gif](http://forum.thebuggenie.com/download/file.php?id=230)
 
-NOTE: These changes have been tested in 3.2.5.2 and should work in 3.2.6.  If you have made some or all of these changes to your 3.2.5.2 install and do not want to make them again to fix the security issues that 3.2.6 fixes, then see this post "What files need replacing from 3.2.6 to fix 3.2.5.2 security" http://forum.thebuggenie.com/viewtopic.php?f=1&t=1751  
+NOTE: These changes have been tested in 3.2.5.2 and should work in 3.2.6.  If you have made some or all of these changes to your 3.2.5.2 install and do not want to make them again to fix the security issues that 3.2.6 fixes, then see this post "What files need replacing from 3.2.6 to fix 3.2.5.2 security" http://forum.thebuggenie.com/viewtopic.php?f=1&t=1751 
+
 **Post Overview**  
 1. **[Introduction](#introduction)**  
 2. **[Frontpage = Project Manager](#frontpage--project-manager)**    
@@ -10,11 +11,12 @@ NOTE: These changes have been tested in 3.2.5.2 and should work in 3.2.6.  If yo
 5. **[Home = Overview](#home--overview)**  
 6. **[Forum](#forum)**  
 7. **[Code Changes](#code-changes)**  
+
 HELP IMPROVE THIS POST: The working draft of this post is now on GitHub:  https://github.com/HelpGiveThanks/Wiki/blob/master/BugGenie%20changes%20for%20HelpGiveThanks.md  Please do comment and make changes to it OR fork it to create your alternative skin/redesign!
 ##Introduction
 The Bug Genie (TBG) 3.2.5 is the most well designed issue tracker I have found, and has enough project management tools to do the job I need done.  The fact that it is opensource (very, very much appreciated!), allowed me to redesign it to my liking.  I hope others will find my redesign ideas useful, and will improve upon them.  
 
-**NOTE:** thebuggenie.com website scope is for showing off The Bug Genie as a stand alone tool, not as a tool embedded in a larger website that to the average user appears to be part of an integrated website.  In my ignorance, I viewed the scope of the entire thebuggenie.com (A in the above image), issues/thebuggenie.com (B), and forum/thebuggenie.com (C) as one website. I wanted it, and was frustrated that by design it was not built to be integrated!  That is my frustration.  I am sure The Bug Genie team gave birth to The Bug Genie code out of frustration with existing bug trackers eleven years ago.  Point being, frustration is a good thing, and I am so very happy to join with other frustrated people in this open source movement to positively do something that results in a diversity of solutions (not one right way!).  In addition to my very small code contribution below, I donated money to thebuggenie.com project, and would encourage anyone reading this post to do the same, or buy a support ticket to help you (not do it for you) put the design changes I made below into your version of The Bug Genie: http://thebuggenie.com/support OR, Hey!, if you have loads of cash and are looking for a way to give back, hire The Bug Genie Team to make the design changes I made below an option offered with each new release of The Bug Genie!  I would if I could!* 
+*NOTE: thebuggenie.com website scope is for showing off The Bug Genie as a stand alone tool, not as a tool embedded in a larger website that to the average user appears to be part of an integrated website.  In my ignorance, I viewed the scope of the entire thebuggenie.com (A in the above image), issues/thebuggenie.com (B), and forum/thebuggenie.com (C) as one website. I wanted it, and was frustrated that by design it was not built to be integrated!  That is my frustration.  I am sure The Bug Genie team gave birth to The Bug Genie code out of frustration with existing bug trackers eleven years ago.  Point being, frustration is a good thing, and I am so very happy to join with other frustrated people in this open source movement to positively do something that results in a diversity of solutions (not one right way!).  In addition to my very small code contribution below, I donated money to thebuggenie.com project, and would encourage anyone reading this post to do the same, or buy a support ticket to help you (not do it for you) put the design changes I made below into your version of The Bug Genie: http://thebuggenie.com/support OR, Hey!, if you have loads of cash and are looking for a way to give back, hire The Bug Genie Team to make the design changes I made below an option offered with each new release of The Bug Genie!  I would if I could!* 
 
 Before I get to my redesign, which includes making the whole Bug Genie website one seamless collaboration tool, I must let my respect be known, my sense of “WOW!” for the current design, and enthusiasm for the real and positive difference this tool must be making in the businesses and organizations using it.   The Bug Genie is a very intelligently designed tool with a Team (from what I have seen) focused on making the most content focused, uncluttered, Tufte-esk *(see quotes after the notes below)* quality-improvement-collaboration solution of its kind.  I picked TBG over other tools like Bugzilla, Mantis, and Trac because of how much care has obviously gone into helping the user understand what is on each screen.  I believe, my contribution below is only advancing a little of what The Bug Genie Team has already been working to accomplish, as evidenced by their own recent and incredible redesign effort documented and wonderfully illustrated in the following three blog posts: 
 http://thebuggenie.wordpress.com/2012/03/15/so-what-does-it-look-like-part-1/  
@@ -27,11 +29,11 @@ NOTE: All pictures below are hosted for free courtesy of imageshack.us, and size
 
 My redesign was made following Edward Tufte's (EdwardTufte.com) rules for graphic design as I understand them.  They are not for everyone and every website!  Here are a couple of choice quotes by Tufte on website and software interface design: 
 
-**"**
-If possible, design architectures should be spare, straightforward, conventional, and self- effacing; AND the evidence presented should be rich, complex, multivariate, causal. The idea is to maximize the viewer's content reasoning time, and to minimize the design figuring out time and to reduce impediments to content reasoning. [Edward Tufte, Analytical design and human factors. retrieved 2/22/13 from http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000KI]
+**"**  
+If possible, design architectures should be spare, straightforward, conventional, and self- effacing; AND the evidence presented should be rich, complex, multivariate, causal. The idea is to maximize the viewer's content reasoning time, and to minimize the design figuring out time and to reduce impediments to content reasoning. **[Edward Tufte, Analytical design and human factors. retrieved 2/22/13 from http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000KI]**
 
-**"**
-Nearly all users come to a website for a content experience, not a designer experience. [Edward Tufte, Good web design, web standards, user testing.  retrieved 2/22/13 from http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000P9]
+**"**  
+Nearly all users come to a website for a content experience, not a designer experience. **[Edward Tufte, Good web design, web standards, user testing.  retrieved 2/22/13 from http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000P9]**
     
 Following from Tufte's design principles, two general design/usage problems with The Bug Genie tool and website focused my redesign efforts.  
 
