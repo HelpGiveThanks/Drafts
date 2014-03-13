@@ -3,6 +3,8 @@
 
 NOTE: These changes have been tested in 3.2.5.2 and should work in 3.2.6.  If you have made some or all of these changes to your 3.2.5.2 install and do not want to make them again to fix the security issues that 3.2.6 fixes, then see this post "What files need replacing from 3.2.6 to fix 3.2.5.2 security" http://forum.thebuggenie.com/viewtopic.php?f=1&t=1751 
 
+NOTE: The working draft of this post is now on GitHub:  https://github.com/HelpGiveThanks/Wiki/blob/master/BugGenie%20changes%20for%20HelpGiveThanks.md  Please do comment and make changes to it OR fork it to create your alternative skin/redesign!
+
 **Post Overview**  
 1. **[Introduction](#introduction)**  
 2. **[Frontpage = Project Manager](#frontpage--project-manager)**    
@@ -22,11 +24,9 @@ http://thebuggenie.wordpress.com/2012/03/15/so-what-does-it-look-like-part-1/
 http://thebuggenie.wordpress.com/2012/04/02/so-what-does-it-look-like-part-2/
 http://thebuggenie.wordpress.com/2012/04/04/so-what-does-it-look-like-part-3/  
 
-**NOTE:** All red letters and numbers added to screenshots relate to the lettered and numbered items below.  These lettered and numbered comments below may not make sense if you do not look at the screenshot pictures before reading them and while reading them. [Idea for labels came to me from here: Reinhold, Sealth (n.d.). Tufte’s Rules: 5 Use Labels [webpage]. Tufte’s Rules.  Copyright 2013 by the website. All rights reserved. Retrieved 6/12/2013 from http://www.sealthreinhold.com/tuftes-rules/rule_five.php] 
+NOTE: All red letters and numbers added to screenshots relate to the lettered and numbered items below.  These lettered and numbered comments below may not make sense if you do not look at the screenshot pictures before reading them and while reading them. [Idea for labels came to me from here: Reinhold, Sealth (n.d.). Tufte’s Rules: 5 Use Labels [webpage]. Tufte’s Rules.  Copyright 2013 by the website. All rights reserved. Retrieved 6/12/2013 from http://www.sealthreinhold.com/tuftes-rules/rule_five.php] 
 
-**NOTE:** All pictures below are hosted for free courtesy of imageshack.us, and sized to width 738px to maximize fit on this forum with one exception: the attached image below is too big to display legibly.  You must, and please do, click the link below to view it.  I posted a feature request to this forum to add an image re-sizer (with full size popup option): Image re-size MOD for forum to auto fit big images http://forum.thebuggenie.com/viewtopic.php?f=9&t=1690
-
-**FINAL NOTE:smiley::** Please comment if you have ideas that would make this post better:bulb:.
+NOTE: All pictures below are hosted for free courtesy of imageshack.us, and sized to width 738px to maximize fit on this forum with one exception: the attached image below is too big to display legibly.  You must, and please do, click the link below to view it.  I posted a feature request to this forum to add an image re-sizer (with full size popup option): Image re-size MOD for forum to auto fit big images http://forum.thebuggenie.com/viewtopic.php?f=9&t=1690
 
 My redesign was made following Edward Tufte's (EdwardTufte.com) rules for graphic design as I understand them.  They are not for everyone and every website!  Here are a couple of choice quotes by Tufte on website and software interface design: [quote]If possible, design architectures should be spare, straightforward, conventional, and self- effacing; AND the evidence presented should be rich, complex, multivariate, causal. The idea is to maximize the viewer's content reasoning time, and to minimize the design figuring out time and to reduce impediments to content reasoning. 
 
