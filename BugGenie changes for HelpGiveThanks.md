@@ -4,13 +4,13 @@
 NOTE: These changes have been tested in 3.2.5.2 and should work in 3.2.6.  If you have made some or all of these changes to your 3.2.5.2 install and do not want to make them again to fix the security issues that 3.2.6 fixes, then see this post "What files need replacing from 3.2.6 to fix 3.2.5.2 security" http://forum.thebuggenie.com/viewtopic.php?f=1&t=1751 
 
 **Post Overview**  
-1. **Introduction**  
-2. **[Project Manager = Frontpage](#project-manager--frontpage)**   
-3. **Issue Page**  
-4. **Wiki**  
-5. **Home/Brochure Pages**  
-6. **Forum**  
-7. **Code Changes**
+1. **[Introduction](#introduction)**  
+2. **[Frontpage = Project Manager](#frontpage--project-manager)**    
+3. **[Issue Pages](#issue-pages)**  
+4. **[Wiki](#wiki)**  
+5. **[Home = Overview](#home--overview)**  
+6. **[Forum](#forum)**  
+7. **[Code Changes](#code-changes)**
 
 ##Introduction
 The Bug Genie (TBG) 3.2.5 is the most well designed issue tracker I have found, and has enough project management tools to do the job I need done.  The fact that it is opensource (very, very much appreciated!), allowed me to redesign it to my liking.  I hope others will find my redesign ideas useful, and will improve upon them.  
@@ -37,16 +37,17 @@ My redesign was made following Edward Tufte's (EdwardTufte.com) rules for graphi
 Following from Tufte's design principles, two general design/usage problems with The Bug Genie tool and website focused my redesign efforts.  
 
 First, The Bug Genie tool design while very appealing, draws my eye to unnecessary icons and columns of information, and to beautiful but unnecessary graphic elements that make it harder than necessary for me to focus on any page’s content.  Please click the image link below to see the overall changes I made to The Bug Genie design.  Top view is composed of four screenshots taken from the four areas of thebuggenie.com website that I redesigned, and the bottom view is screenshots of the same four areas on my website after the redesign.
-[attachment=1]TBG Redesign.gif[/attachment]
+[TBG Redesign.gif](http://forum.thebuggenie.com/download/file.php?id=230)
+
 Second, four essential elements at thebuggenie.com required to make the website work do not look like they are part of the same website and lack a standardized navigation interface (which frustrated me during my first few visits to the site when I was trying to learn about The Bug Genie).  These four essential elements are A) webpages describing what The Bug Genie is and what users can do on thebuggenie.com (essentially a brochure and a map of the entire website),  B) The Bug Genie tool itself (the star of the website), C) a forum to build community among Bug Genie users, and D) a wiki to provide documentation.  I’m not sure what to call a Brochure-Project Manger-Forum-Wiki website application, but a label is needed like CMS (content management system) to encourage the packaging of such a necessary suite of tools together.  Note that the redesign (click picture link above) allows for more content to be displayed in the same amount of space in addition to a uniform look and feel for all four elements.  It is more boring than the original, but perhaps some additional functionality could be added to the text box areas to spice things up with the ability to add youtube videos, image sliders, etc.?
 
 The rest of this topic will be about each of the four elements before and after my redesigned to make them uniform, improve website navigation,  and focus users on content.  All the code changes I made to accomplish this redesign are posted last.  I’m a hack, and learned a lot while doing this, and in some cases redid my coding after learning of better ways, but my time is limited and with 192 hours invested in this redesign, I simply had to stop once it was working well and looked good, so please, improve my coding if you have the time (and critique my design changes too)!  
 
-##Project Manager = Frontpage
+##Frontpage = Project Manager
 Because The Bug Genie is the star of thebuggenie.com website, I am starting my redesign story with its Frontpage, followed by the Wiki, the Home page, and then the Forum. 
  
-[img]http://imageshack.us/a/img832/3829/62626328.gif[/img]
-[img]http://imageshack.us/a/img688/1893/92442432.gif[/img]
+![alt text](http://imageshack.us/a/img832/3829/62626328.gif)
+![alt text](http://imageshack.us/a/img688/1893/92442432.gif)
 1) The Bug Genie logo is awesome and the name is really big.  Both are unnecessary to let users know what site they are on once they get past the home page.  So I removed the logo and name in my redesign to free up valuable top-menu space for essential navigation buttons.
 2) The icons, like the home icon, duplicate the function of the text buttons.  They along with the logo distract my eyes from any page’s content.  I eliminated them to reduce distractions and to free up space.  
 3) The ‘Frontpage’ button has a confusing name as the actual frontpage of the website is thebuggenie.com home page.  I changed the name of this button to ‘Project Manager’, which describes what this part of the website does. The Bug Genie’s powerful management tools make it much more than a bug tracker!  Mmm… perhaps that should be its tag line: The Bug Genie *much more than a bug tracker!*  In the code below, you’ll see I actually removed the frontpage button code, and created a new button that is [u]always[/u] available from the top menu, unlike the ‘Frontpage’ button which frustratingly disappears from the top-menu on some page views.  Perhaps this was due to a lack of space on the top-menu bar as some pages do require more buttons than other pages.  Plenty of space is created for all page buttons by removing the logo, website name, and unnecessary navigation menu-bar icons.  It is a boring solution, but as a user, I really like having primary-navigation buttons always available, especially when I am first learning to use and fall-in-love with a program.  
@@ -68,11 +69,11 @@ Serif text blocks = more easily-readable content in less space (on high resoluti
 Serif fonts are very useful for titles, headers, and small blocks of text.  Combining san-serif titles and serif body text, helps me to better scan through headers on a page to find information blocks, and I think this combination looks really good.  Perhaps a toggle could be added to the configuration section to allow users to select serif or sans-serif fonts for body text, titles, etc?   
 11) In the redesign, project descriptions appear below project names, instead of links to project websites and documentation.  At the thebuggenie.com below its main project name is a website link pointing to its home page, which is redundant navigation (thebuggenie.com ‘Home’ page button is also provided in its ‘Quick links’ column).  The documentation link wrongly informs users, “No documentation URL provided,” when documentation for the Bug Genie Project can be found by clicking the top-menu bar ‘Wiki’ button.  Perhaps in future versions these links and the project description could be toggled off and on project by project?
 
-##**Issue Page**
+##Issue Pages
 12) The screenshots below contrast the top-menu bar and title area of the issue page before and after the redesign.  The primary three website buttons remain in view on the redesign (bottom), while on the default Bug Genie 3.2.5 issue page the #3 ‘Frontpage’, #8 ‘Forum’ and #7 ‘Home’ buttons are not available.  I removed the unnecessary #2 icon indicating issue type (next to the star) along with the other unnecessary icons, which made necessary space for the first three buttons on the top-menu bar. With these unnecessary icons and the #5 gradient removed, my eye focuses easily on the issue.  *NOTE: Even though there are more buttons on the top-menu bar in the redesign, the last button in the re-design 'Project Wiki' is further back then the same button in the current release of The Bug Genie.  More buttons! Less space!*
 [img]http://img546.imageshack.us/img546/2135/51623631.gif[/img]
 
-##**Wiki**
+##Wiki
 This is a wonderful feature allowing for searches that include both documentation and issues!  Forum integration would put all information related to projects in one searchable place, but would no doubt be a huge programming effort, and I am very grateful to have the Bug Genie as it is right now!  On to minor design changes to the wiki …
 [img]http://imageshack.us/a/img825/9086/84007975.gif[/img]
 [img]http://imageshack.us/a/img825/3145/49656269.gif[/img]
@@ -81,7 +82,7 @@ This is a wonderful feature allowing for searches that include both documentatio
 14) I changed the color of the ‘Table of contents’ box to light grey (showing up white due to the low resolution of the image).  The blue was much to good looking for its own good, drawing my eye away from the primary content.  I also changed the name of the box to ‘Page Overview’ as I think of a table of contents as referring to items on other pages of a book or magazine; not items on the table of contents page itself.  Also, I already used the word ‘Overview’ as a primary button for the website ‘Overview’ (aka’ Home’) page, so it made sense to refer to this box giving an overview of the page the name ‘Page Overview’.
 15 and 16) For my needs, and to keep my community wiki-page creation uniform, I changed the code so that there are only two choices for header styles: ‘h1’ and ‘h2’.  I only point this out because you can see them in the screen shot, so I figured I needed to explain why there are only two header buttons.  You can see how I hacked the code below to achieve this.  I know there must be a better way! 
 
-##**Home/Brochure Pages**
+##Home = Overview
 This was the hardest part of the design rethink on my part, because I felt a website requires a really amazing looking Home page (à la thebuggenie.com) and other brochure-like pages.  I tried to emulate the basic design of the buggenie.com by setting up my own website home page and brochure like webpages using Wordpress, Joomla, Doku Wiki (my favorite), and others.  It took me a while and several frustrating conversations with friends to figure out that the purpose of these webpages, no matter what tool renders them, is to provide users (especially first-time visitors and new users) a map of the site, brochure/executive summary of the site’s offerings, rules of participation (converse on the forum, report problems in the Bug Genie), etc.  Reluctantly, after setting up several mock home pages and not being satisfied with how they integrated with The Bug Genie, I decided to modify some Bug Genie Wiki pages to perform this function.  I ended up being very satisfied with the outcome.  The pages look good, look like part of my website, easily steer users to my Bug Genie, other collaboration tools, and to my software download links.  My 'Home' / 'Overview' wiki pages are not as exciting to view as say thebuggenie.com ‘Home’ and other brochure webpages, but I know that they will look better in the future as functionality is added to new versions of the The Bug Genie Wiki.  In addition, all the information on these pages is searchable by the Bug Genie, and permission access is controlled by the Bug Genie (no need for another web-tool for community members to log into to help improve the welcome-matt portion of the website).
 
 *NOTE: I am using numbers I used above 3 ‘Project Manager’ or ‘Frontpage’,   4b release center via the project dashboard,   7 ‘Overview’ or ‘Home’,   8 ‘Forum’,   9 ‘Blog’ on the screenshots below, to show what buttons on thebuggenie.com home page need to be clicked to get to these essential parts of the website.*
@@ -96,7 +97,7 @@ This was the hardest part of the design rethink on my part, because I felt a web
 17) ‘Features’ goes to a beautifully designed brochure page at thebuggenie.com.  This page could be a wiki page.  I hope the ability to create columns in wiki pages is someday added to the text-creation tool for the Wiki.  Doku Wiki allows for html code to be used in its text areas.  Perhaps permissions to add html code by user type could be added to future versions of The Bug Genie, to insure security and allow for more imaginative wiki page creation by trusted users? 
 18) Guest users in my redesign see a traditional home page, in that a more home page looking title with logo graphic is shown and the last author info and edit, history, etc. tabs are hidden.  Logged in users see a normal, editable, commentable wiki page.  I thought it important that new comers to the site feel like they are looking at a traditional home page, while logged in users feel invited to help improve the site by seeing that the site is about the business of continual quality improvement to both the projects and the website.  
 
-##**Forum**
+##Forum
 19) The only real design change is to the top-menu bar making the forum look and feel like a part the overall website.  
 [img]http://imageshack.us/a/img600/4894/10sh.gif[/img]
 [img]http://imageshack.us/a/img849/6848/11s.gif[/img]
@@ -118,7 +119,7 @@ David Matson
 
 My code hacks are below.
 
-##**Code Changes**
+##Code Changes
 I learned a lot customizing The Bug Genie for my website.  Here is what I did to customize Bug Genie version 3.2.5.  If you want lots of help using this code for your site, I would recommend buying a support ticket from The Bug Genie Team.   
 
 *NOTE: I used all caps sentences in the code to comment on what I discovered a section of code did or to comment on what my changes do.  Most of the time this all-caps text will be the only explanation provided for what I did.*
