@@ -29,10 +29,10 @@ NOTE: All pictures below are hosted for free courtesy of imageshack.us, and size
 
 My redesign was made following Edward Tufte's (EdwardTufte.com) rules for graphic design as I understand them.  They are not for everyone and every website!  Here are a couple of choice quotes by Tufte on website and software interface design: 
 
-**"**  
+**"QUOTE**  
 If possible, design architectures should be spare, straightforward, conventional, and self- effacing; AND the evidence presented should be rich, complex, multivariate, causal. The idea is to maximize the viewer's content reasoning time, and to minimize the design figuring out time and to reduce impediments to content reasoning. **[Edward Tufte, Analytical design and human factors. retrieved 2/22/13 from http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000KI]**
 
-**"**  
+**"QUOTE**  
 Nearly all users come to a website for a content experience, not a designer experience. **[Edward Tufte, Good web design, web standards, user testing.  retrieved 2/22/13 from http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000P9]**
     
 Following from Tufte's design principles, two general design/usage problems with The Bug Genie tool and website focused my redesign efforts.  
