@@ -42,7 +42,7 @@ Second, four essential elements at thebuggenie.com required to make the website 
 
 The rest of this topic will be about each of the four elements before and after my redesigned to make them uniform, improve website navigation,  and focus users on content.  All the code changes I made to accomplish this redesign are posted last.  I’m a hack, and learned a lot while doing this, and in some cases redid my coding after learning of better ways, but my time is limited and with 192 hours invested in this redesign, I simply had to stop once it was working well and looked good, so please, improve my coding if you have the time (and critique my design changes too)!  
 
-##Frontpage
+##Front Page
 Because The Bug Genie is the star of thebuggenie.com website, I am starting my redesign story with its Frontpage, followed by the Wiki, the Home page, and then the Forum. 
  
 [img]http://imageshack.us/a/img832/3829/62626328.gif[/img]
