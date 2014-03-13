@@ -1,7 +1,7 @@
 *How to make a whole Bug Genie like website one seamless collaboration tool with a common look and feel for all parts of the website: A) Home/Brochure Web Pages; B) Project Manger (The Bug Genie Solution/Tool/Sofware); C) Forum; and D) Wiki.  Click on link below to see before and after image of non-uniform vs uniform theme for all aspects of a website centered around The Bug Genie.*
 [TBG Redesign.gif](http://forum.thebuggenie.com/download/file.php?id=230)
 
-NOTE: These changes have been tested in 3.2.5.2 and should work in 3.2.6.  If you have made some or all of these changes to your 3.2.5.2 install and do not want to make them again to fix the security issues that 3.2.6 fixes, then see this post "What files need replacing from 3.2.6 to fix 3.2.5.2 security" http://forum.thebuggenie.com/viewtopic.php?f=1&t=1751 
+NOTE: These changes have been tested in 3.2.5.2 and should work in 3.2.6.  If you have made some or all of these changes to your 3.2.5.2 install and do not want to make them again to fix the security issues that 3.2.6 fixes, then see this post "What files need replacing from 3.2.6 to fix 3.2.5.2 security" http://forum.thebuggenie.com/viewtopic.php?f=1&t=1751  
 **Post Overview**  
 1. **[Introduction](#introduction)**  
 2. **[Frontpage = Project Manager](#frontpage--project-manager)**    
@@ -9,7 +9,7 @@ NOTE: These changes have been tested in 3.2.5.2 and should work in 3.2.6.  If yo
 4. **[Wiki](#wiki)**  
 5. **[Home = Overview](#home--overview)**  
 6. **[Forum](#forum)**  
-7. **[Code Changes](#code-changes)**
+7. **[Code Changes](#code-changes)**  
 HELP IMPROVE THIS POST: The working draft of this post is now on GitHub:  https://github.com/HelpGiveThanks/Wiki/blob/master/BugGenie%20changes%20for%20HelpGiveThanks.md  Please do comment and make changes to it OR fork it to create your alternative skin/redesign!
 ##Introduction
 The Bug Genie (TBG) 3.2.5 is the most well designed issue tracker I have found, and has enough project management tools to do the job I need done.  The fact that it is opensource (very, very much appreciated!), allowed me to redesign it to my liking.  I hope others will find my redesign ideas useful, and will improve upon them.  
@@ -27,10 +27,10 @@ NOTE: All pictures below are hosted for free courtesy of imageshack.us, and size
 
 My redesign was made following Edward Tufte's (EdwardTufte.com) rules for graphic design as I understand them.  They are not for everyone and every website!  Here are a couple of choice quotes by Tufte on website and software interface design: 
 
-#"
+**"**
 If possible, design architectures should be spare, straightforward, conventional, and self- effacing; AND the evidence presented should be rich, complex, multivariate, causal. The idea is to maximize the viewer's content reasoning time, and to minimize the design figuring out time and to reduce impediments to content reasoning. [Edward Tufte, Analytical design and human factors. retrieved 2/22/13 from http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000KI]
 
-#"
+**"**
 Nearly all users come to a website for a content experience, not a designer experience. [Edward Tufte, Good web design, web standards, user testing.  retrieved 2/22/13 from http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000P9]
     
 Following from Tufte's design principles, two general design/usage problems with The Bug Genie tool and website focused my redesign efforts.  
