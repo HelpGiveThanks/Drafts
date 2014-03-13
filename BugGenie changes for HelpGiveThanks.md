@@ -5,7 +5,7 @@ NOTE: These changes have been tested in 3.2.5.2 and should work in 3.2.6.  If yo
 
 **Post Overview**  
 1. **Introduction**  
-2. **[Project Manager = Frontpage](#Project-Manager-=-Frontpage)**   
+2. **[Project Manager = Frontpage](#Project-Manager--Frontpage)**   
 3. **Issue Page**  
 4. **Wiki**  
 5. **Home/Brochure Pages**  
