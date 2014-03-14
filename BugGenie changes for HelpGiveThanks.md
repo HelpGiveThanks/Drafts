@@ -445,7 +445,7 @@ Change 'Not a bug' TO 'Not an issue'
 
 
 **public_html/YOURBugGenieFolder/modules/publish/templates/_toc.inc.php**  
-Change spelling of 'Table' to 'Teble' in 2 strings so they match the strings in the English string file.  *logged this issue in main Bug Genie project forumhttp://forum.thebuggenie.com/viewtopic.php?f=11&t=1652*.
+Change spelling of 'Table' to 'Teble' in the code so they that match they spelling in the strings in the English string file.  *Logged this misspelling issue in the main Bug Genie project forum http://forum.thebuggenie.com/viewtopic.php?f=11&t=1652*.
 ```
 <?php // CHANGE SPELLING OF TABLE TO TEBLE TO CALL UP CORRECT STRINGS ?>
 	<div class="header"><a href="javascript:void(0);" onclick="$('publish_toc').toggle();"><?php echo __('Teble of contents'); ?></a></div>
@@ -453,9 +453,8 @@ Change spelling of 'Table' to 'Teble' in 2 strings so they match the strings in 
 ```
 
 
-
 **public_html/YOURBugGenieFolder/i18n/en_US/strings.inc.php**  
-Make the following changes to strings (Change spelling of 'Table' to 'Teble' in 2 strings so they match the strings in the _toc.ini.php file above.  ([http://forum.thebuggenie.com/viewtopic.php?f=11&t=1652 logged this issue] in main Bug Genie project forum).:
+Make the following changes to strings.  NOTE: It was necessary to change the spelling of 'Table' to 'Teble' in 2 strings below so that they match the spelling in the _toc.ini.php file above.  *Logged this necessary misspelling issue in the main Bug Genie project forum: http://forum.thebuggenie.com/viewtopic.php?f=11&t=1652*
 ```
 $strings['Move your mouse here to toggle the teble of contents'] = 'Move your mouse here to toggle page overview'; 
 
