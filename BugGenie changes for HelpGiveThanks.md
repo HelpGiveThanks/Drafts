@@ -1,3 +1,6 @@
+This is file is the work draft of The Bug Genie forum post, "icon-free, uniform theme/skin for TBG/Forum/Home"
+http://forum.thebuggenie.com/viewtopic.php?f=9&t=1691.
+___
 *How to make a whole Bug Genie like website one seamless collaboration tool with a common look and feel for all parts of the website: A) Home/Brochure Web Pages; B) Project Manger (The Bug Genie Solution/Tool/Sofware); C) Forum; and D) Wiki.  Click on link below to see before and after image of non-uniform vs uniform theme for all aspects of a website centered around The Bug Genie.*
 [TBG Redesign.gif](http://forum.thebuggenie.com/download/file.php?id=230)
 
