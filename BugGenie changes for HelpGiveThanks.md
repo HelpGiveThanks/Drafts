@@ -123,8 +123,6 @@ Cheers!
 
 David Matson
 
-My code hacks are below.
-
 ##Code Changes
 I learned a lot customizing The Bug Genie for my website.  Here is what I did to customize Bug Genie version 3.2.5.  If you want lots of help using this code for your site, I would recommend buying a support ticket from The Bug Genie Team.   
 
