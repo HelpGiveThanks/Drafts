@@ -216,7 +216,7 @@ Do not highlight the Wiki button if user is on Overview page
 ```
 
 
-###FrontPage = Project Manager Main Page)###
+###FrontPage = Project Manager Main Page###
 **public_html/YOURBugGenieFolder/modules/main/templates/index.html.php**  
 Remove side bar code below so the sidebar does not show up. This allows for more room for the page content.
 ```
