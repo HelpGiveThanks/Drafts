@@ -529,9 +529,10 @@ Change label spacing for a better fit, look, etc. from 180px to 160px for first 
 
 
 ###Language Changes MySQL###
-UPDATE MYSLQL Database `your_buggenie` TABLE`tbg3_listtypes` SET `name` = 'Not a bug' TO 'Not an issue' WHERE `tbg3_listtypes`.`id` =26;
+UPDATE MYSLQL Database `your_buggenie TABLE tbg3_listtypes SET 'name' = 'Not a bug' TO 'Not an issue' WHERE 'tbg3_listtypes'.'id' = 26`
 
-#####Vanilla Code Additions to Add Bug Genie Style Header and Main Navigation Buttons: Forum, Overview, Project Manager###
+###Vanilla Code Additions###
+Add Bug Genie style header and main navigation buttons to your Vanilla Forum: Forum, Overview, Project Manager
 
 **public_html/YOURVanillaForumFolder/themes/EmbedFriendly/views/default.master.tpl**  
 Add the table below right after the first body tag as shown below.
