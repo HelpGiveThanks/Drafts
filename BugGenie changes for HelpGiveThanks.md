@@ -571,3 +571,26 @@ Add the table below right after the first body tag as shown below.
 ```
 
 
+Replace default Vanilla link `<div><a href="{vanillaurl}"><span>Powered by Vanilla</span></a></div>` (just above the `{asset name="Foot"}` tag) with 5 links to your 1) terms of service file, 2) privacy file, (both of which I recommend using GitHub for as it is easier for everyone to help you improve these files using GitHub's tools), and to the 3) Vanilla and 4) The Bug Genie project websites, and finally to the 5) Creative Commons license or similar copyright notice covering the content for you websites.  Paste this code just after `{asset name="Foot"}` tag: 
+```
+<table cellpadding=0 cellspacing=0 style="table-layout: auto; margin: 0 auto 0 auto;">
+		<tr>
+			<td style="width: auto; font-size: 0.9em; color:#333333">
+							<a style="color:#00A400; href="https://github.com/YOURrepository/Privacy"  target="_blank">Privacy </a>|	
+				<a style="color:#00A400; href="https://github.com/YOURrepository/TermsOfUse"  target="_blank">Terms of Use </a>|	
+			Project manager and wiki by <a style="color:#00A400;"  href="http://YOURSITE.COM/YOURBugGenieFolder/thebuggenie/about"  target="_blank">The Bug Genie</a>.
+			Forum by <a style="color:#00A400;" href="http://vanillaforums.org/"  target="_blank" >Vanilla.org</a>. 	Content copyright (except where noted) = <a style="color:#00A400;" href="http://creativecommons.org/licenses/by/3.0/"   target="_blank">Creative Commons Attribution 3.0 License</a>.
+			</td>
+		</tr>
+	</table>
+```
+
+
+**public_html/forum/themes/EmbedFriendly/design/custom.css** 
+Change Vanilla's top menu-bar background color to The Bug Genie yellow:
+```
+    .Banner ul {
+    background: #FAF3B8;
+    padding: 0;
+    margin: 0;
+```
