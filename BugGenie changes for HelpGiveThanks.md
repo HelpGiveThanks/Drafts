@@ -29,11 +29,11 @@ NOTE: All red letters and numbers added to screenshots relate to the lettered an
 NOTE: All pictures below are hosted for free courtesy of imageshack.us, and sized to width 738px to maximize fit on this forum with one exception: the attached image below is too big to display legibly.  You must, and please do, click the link below to view it.  I posted a feature request to this forum to add an image re-sizer (with full size popup option): Image re-size MOD for forum to auto fit big images http://forum.thebuggenie.com/viewtopic.php?f=9&t=1690
 ##Introduction
 My redesign was made following Edward Tufte's (EdwardTufte.com) rules for graphic design as I understand them.  They are not for everyone and every website!  Here are a couple of choice quotes by Tufte on website and software interface design: 
->If possible, design architectures should be spare, straightforward, conventional, and self- effacing; AND the evidence presented should be rich, complex, multivariate, causal. The idea is to maximize the viewer's content reasoning time, and to minimize the design figuring out time and to reduce impediments to content reasoning. *[Edward Tufte, Analytical design and human factors. retrieved 2/22/13 from http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000KI]*  
+>**If possible, design architectures should be spare, straightforward, conventional, and self- effacing; AND the evidence presented should be rich, complex, multivariate, causal. The idea is to maximize the viewer's content reasoning time, and to minimize the design figuring out time and to reduce impediments to content reasoning.** *[Edward Tufte, Analytical design and human factors. retrieved 2/22/13 from http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000KI]*  
 
 AND  
 
->Nearly all users come to a website for a content experience, not a designer experience. 
+>**Nearly all users come to a website for a content experience, not a designer experience.** 
 *[Edward Tufte, Good web design, web standards, user testing.  retrieved 2/22/13 from http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000P9]*
     
 Following from Tufte's design principles, two general design/usage problems with The Bug Genie tool and website focused my redesign efforts.  
@@ -127,8 +127,10 @@ I learned a lot customizing The Bug Genie for my website.  Here is what I did to
 
 *NOTE: I used all caps sentences in the code to comment on what I discovered a section of code did or to comment on what my changes do.  Most of the time this all-caps text will be the only explanation provided for what I did.*
 
-**Top Menu Bar**
-*public_html/YOURBugGenieFolder/core/templates/headertop.inc.php*: do the following in this flie:
+
+###Top Menu Bar###
+**public_html/YOURBugGenieFolder/core/templates/headertop.inc.php**  
+Do the following in this flie:
 
 Replace the logo code which is the first few lines of code with the following code to create the Forum, Overview and Project Management buttons:
 
@@ -152,55 +154,84 @@ Replace the logo code which is the first few lines of code with the following co
 			<div><a href="http://YOURSITE.COM/YOURBugGenieFolder/thebuggenie">Project Manager</a> </div></li>
 </div>
 ```
-Delete png tags from the word image_tag to the period = image_tag($issuetype->getIcon() . '_tiny.png' ) .
+
+
+
+Delete png tags from the word `image_tag to the period = image_tag($issuetype->getIcon() . '_tiny.png' )`.
 
 Delete this line of code for all pulldown menus.  This action gets rid of triangle to right of menu items with pulldowns:
 ```
 		<?php echo javascript_link_tag(image_tag('tabmenu_dropdown.png', array('class' => 'menu_dropdown'))); ?>
 ```
+
+
 Delete this line of code to remove the Frontpage menu item:
 ```
 		<li<?php if ($tbg_response->getPage() == 'home'): ?> class="selected"<?php endif; ?>>
 		<div><?php echo link_tag(make_url('home'), __('Frontpage')); ?></div></li>
 ```
+
+
 Change dashboard button:
-```<?php // CHANGE STRING DASHBOARD TO MY DASHBOARD SO USER CAN SEE DIFFERENCE BETWEEN THEIR DASHBOARD BUTTON AND PROJECT DASHBOARD BUTTON ON BUG GENIE FRONTPAGE ?>
+```
+<?php // CHANGE STRING DASHBOARD TO MY DASHBOARD SO USER CAN SEE DIFFERENCE BETWEEN THEIR DASHBOARD BUTTON AND PROJECT DASHBOARD BUTTON ON BUG GENIE FRONTPAGE ?>
 				<?php if (!$tbg_user->isThisGuest() && !TBGSettings::isSingleProjectTracker() && !TBGContext::isProjectContext()): ?>
 					<li<?php if ($tbg_response->getPage() == 'dashboard'): ?> class="selected"<?php endif; ?>><div><?php echo link_tag(make_url('dashboard'),  __('My Dashboard')); ?> </div></li>
 				<?php endif; ?>
 ```
-*public_html/YOURBugGenieFolder/i18n/en_US/strings.inc.php* Add string My Dashboard and call it for User Dashboard button on main page (/ core / templates / headertop.inc.php) so user can see a difference between project and user dashboard buttons:
-``` $strings['My Dashboard'] = 'My Dashboard';
-````
-*public_html/YOURBugGenieFolder/modules/publish/templates/_menustriplinks.inc.php* remove this code from the file to get rid of wiki icon on menu header: 
+
+
+**public_html/YOURBugGenieFolder/i18n/en_US/strings.inc.php**  
+Add string `My Dashboard` and call it for `User Dashboard` button on main page (/ core / templates / headertop.inc.php) so user can see a difference between project and user dashboard buttons:
+```
+ $strings['My Dashboard'] = 'My Dashboard';
+```
+
+
+**public_html/YOURBugGenieFolder/modules/publish/templates/_menustriplinks.inc.php**  
+Remove this code from the file to get rid of wiki icon on menu header: 
 ```
 image_tag('tab_publish.png', array(), false, 'publish')  .
 ```
+
+
 and change the top line of code to this
 ```
 <li<?php if (($_SERVER["REQUEST_URI"] != '/YOURBugGenieFolder/thebuggenie/wiki/Overview') && ($selected_tab == 'wiki')): ?> class="selected"<?php endif; ?>>
 ```
+
+
 Delete this line of code in the file.  This action gets rid of triangle to right of menu items with pulldowns:
 ```
 			<?php echo javascript_link_tag(image_tag('tabmenu_dropdown.png', array('class' => 'menu_dropdown'))); ?>
 ```
+
+
 Do not highlight the Wiki button if user is on Overview page
-```<?php // changed first line of code adding in the url if question to keep the Overview wiki page from higlighting the wiki button in the header menu. ?>
+```
+<?php // changed first line of code adding in the url if question to keep the Overview wiki page from higlighting the wiki button in the header menu. ?>
 <li<?php if (($_SERVER["REQUEST_URI"] != '/YOURBugGenieFolder/thebuggenie/wiki/Overview') && ($selected_tab == 'wiki')): ?> class="selected"<?php endif; ?>>
 ```
 
-**Bug Genie !FrontPage (Project Manager main page)**
-*public_html/YOURBugGenieFolder/modules/main/templates/index.html.php* Remove side bar code below so the sidebar does not show up. This allows for more room for the page content.
+
+###FrontPage = Project Manager Main Page)###
+**public_html/YOURBugGenieFolder/modules/main/templates/index.html.php**  
+Remove side bar code below so the sidebar does not show up. This allows for more room for the page content.
 ```
 		<td class="side_bar">
 			<?php include_template('main/menulinks', array('links' => $links, 'target_type' => 'main_menu', 'target_id' => 0, 'title' => __('Quick links'))); ?>
 			<?php TBGEvent::createNew('core', 'index_left')->trigger(); ?>
 		</td>
 ```
-*public_html/YOURBugGenieFolder/modules/project/templates/_overview.inc.php* delete this line of code to remove project icons:
+
+
+**public_html/YOURBugGenieFolder/modules/project/templates/_overview.inc.php**  
+Delete this line of code to remove project icons:
 ```
  		<?php echo image_tag($project->getSmallIconName(), array('style' => 'float: left; margin: 3px 5px 0 0; width: 16px; height: 16px;'), $project->hasSmallIcon()); ?>
 ```
+
+
 Then delete this code to remove text about external project websites.
 ```
 			<?php if ($project->hasHomepage()): ?>
@@ -215,22 +246,38 @@ Then delete this code to remove text about external project websites.
 			<span class="faded_out" style="font-weight: normal;"><?php echo __('No documentation URL provided'); ?></span>
 		<?php endif; ?>
 ```
+
+
 Add this code to show project descriptions:
-```<?php   // ADD getDescription CODE TO ADD PROJECT DESCRIPTION TO EACH PROJECT ON MAIN PAGE TO SHOW PROJECT DESCRIPTION 
+```
+<?php   // ADD getDescription CODE TO ADD PROJECT DESCRIPTION TO EACH PROJECT ON MAIN PAGE TO SHOW PROJECT DESCRIPTION 
 		?>
 		<span class="faded_out" style="font-weight: normal;"> <?php echo ($project->getDescription()); ?> </span>
 ```
-On the !FrontPage if Bug Genie is set to show summary status per issue types, then !FireFox displays the closed and reported project number totals aligned left instead of relative to the green bars.  
-I found the following article at [http://stackoverflow.com/questions/5148041/does-firefox-support-position-relative-on-table-elements StackOverflow] explaining that Firefox requires a <div style> tag instead of the <td style> tag currently in line 51 of the modules/project/templates/_overview.inc.php file released with version 3.2.5 ([http://issues.thebuggenie.com/thebuggenie/issues/1924 filed this as issue 1924 with main Bug Genie project]).   
+
+
+On the FrontPage if Bug Genie is set to show summary status per issue types, then FireFox displays the closed and reported project number totals aligned left instead of relative to the green bars.  
+
+I found the following article at StackOverflow http://stackoverflow.com/questions/5148041/does-firefox-support-position-relative-on-table-elements explaining that Firefox requires a `<div style>` tag instead of the `<td style>` tag currently in line 51 of the **modules/project/templates/_overview.inc.php** file released with version 3.2.5 *Filed this as issue 1924 with main Bug Genie projecthttp://issues.thebuggenie.com/thebuggenie/issues/1924.*   
+
 Current code for line 51 is
-```<td style="padding-bottom: 2px; width: auto; position: relative;">
 ```
+<td style="padding-bottom: 2px; width: auto; position: relative;">
+```
+
+
 Fixed code for line 51 is
-```<td><div style="padding-bottom: 2px; width: auto; position: relative;">
 ```
+<td><div style="padding-bottom: 2px; width: auto; position: relative;">
+```
+
+
 And then a </div> tag needs to be added to line 63
-```</div></td>
 ```
+</div></td>
+```
+
+
 Add the follow code to the div style tag for project_names as shown below: padding: 8px 0 0 0
 ```
 	<div class="rounded_box <?php if (!($project->isIssuelistVisibleInFrontpageSummary() && count($project->getVisibleIssuetypes()))): ?>invisible <?php else: ?> white borderless <?php endif; ?>project_strip">
@@ -239,9 +286,10 @@ Add the follow code to the div style tag for project_names as shown below: paddi
 ```
 
 
-**Footer**
-*public_html/YOURBugGenieFolder/core/templates/footer.inc.php* 
-```<?php // BEGIN ADD CONTENT AND LINKS TO FOOTER ?>
+###Footer###
+**public_html/YOURBugGenieFolder/core/templates/footer.inc.php** 
+```
+<?php // BEGIN ADD CONTENT AND LINKS TO FOOTER ?>
 				<?php echo __('Project manager and wiki by %thebuggenie%', array('%thebuggenie%' => '<a href="http://YOURSITE.COM/YOURBugGenieFolder/thebuggenie/about"  target="_blank">The Bug Genie</a>')); ?>.
 				<?php echo __('Forum by %link_to_MPL%', array('%link_to_MPL%' => '<a href="http://vanillaforums.org/"  target="_blank">Vanilla.org</a>')); ?>.
 				
@@ -251,18 +299,23 @@ Add the follow code to the div style tag for project_names as shown below: paddi
 ```
 
 
-**Wiki Pages**
-*public_html/YOURBugGenieFolder/modules/publish/templates/_articledisplay.inc.php* Put in code so author and last update only shows if user is logged in.  This makes guest users see a more traditional looking website information page.
-```<?php // DO NOT SHOW AUTHOR AND UPDATE INFO IF USER IS NOT LOGGED IN ?>
+###Wiki Pages###
+**public_html/YOURBugGenieFolder/modules/publish/templates/_articledisplay.inc.php**  
+Put in code so author and last update only shows if user is logged in.  This makes guest users see a more traditional looking website information page.
+```
+<?php // DO NOT SHOW AUTHOR AND UPDATE INFO IF USER IS NOT LOGGED IN ?>
 <?php if (!$tbg_user->isGuest()): ?>
 <?php // CHANGE WORDING Last updated at TO Updated ?>			
 			<?php echo __('Updated %time%, by %user%', array('%time%' => tbg_formatTime($article->getPostedDate(), 3), '%user%' => '<b>'.(($article->getAuthor() instanceof TBGIdentifiable) ? '<a href="javascript:void(0);" onclick="TBG.Main.Helpers.Backdrop.show(\'' . make_url('get_partial_for_backdrop', array('key' => 'usercard', 'user_id' => $article->getAuthor()->getID())) . '\');" class="faded_out">' . $article->getAuthor()->getName() . '</a>' : __('System')).'</b>')); ; ?>
 <?php	
 //removed category code lines 21 to 66 in version 3.2 4 for wiki pages so user does not see grey box before comments section telling them the article is not in any categories. Leave this in if you plan on using the category feature.  I am building such links into my wikipages and find the category feature to be just anohter navigation interface that migh confuse users.
-?>[/code]
+?>
+```
 
-*public_html/YOURBugGenieFolder/modules/publish/templates/_header.inc.php* 
-```<?php $article = (isset($article)) ? $article : null; ?>
+
+**public_html/YOURBugGenieFolder/modules/publish/templates/_header.inc.php** 
+```
+<?php $article = (isset($article)) ? $article : null; ?>
 <?php // CHANGE STYLE OF WIKI TITLE IF USER IS GUEST ?>
 <?php if (!$tbg_user->isGuest()): ?> <div class="header tab_menu"   > 
 <?php else: ?>
@@ -301,29 +354,40 @@ link_tag(make_url('publish_article_permissions', array('article_name' => $articl
 <?php endif; ?>
 <?php
  // END IF USER IS LOGGED IN SHOW OVERVIEW WIKI TITLE AND IF GUEST SHOW TITLE BELOW 
-?>[/code]
+?>
+```
 
-*public_html/YOURBugGenieFolder/modules/publish/templates/showarticle.html.php*  Remove side bar when showing wiki articles.
-```<?php
+
+**public_html/YOURBugGenieFolder/modules/publish/templates/showarticle.html.php**  
+Remove side bar when showing wiki articles.
+```
+<?php
 // TURNED OFF SIDER BAR				
 //				<td class="side_bar">
 //			<?php include_component('leftmenu', array('article' => $article)); TOOK OUT QUESTION MARK SYMBOL > 
 //		</td> ?>[/code]
+```
 
 
-**Issue Page**
-public_html/YOURBugGenieFolder/modules/main/templates/viewissue.html.php
-```					<?php /* DO NOT SHOW ISSUE TYPE IMAGE ?>
+###Issue Page###
+**public_html/YOURBugGenieFolder/modules/main/templates/viewissue.html.php**  
+```
+					<?php /* DO NOT SHOW ISSUE TYPE IMAGE ?>
 					<td class="title_left_images">
 						<?php echo image_tag((($issue->hasIssueType()) ? $issue->getIssueType()->getIcon() : 'icon_unknown') . '_small.png', array('id' => 'issuetype_image')); ?>
-					</td>  < */ ?>[/code]
+					</td>  < */ ?>
+```
 
 
-**Text Editor Header Buttons**
-*public_html/YOURBugGenieFolder/thebuggenie/iconsets/oxygen/markitup* in this folder comment out h2.png, h4.png, and h5.png files adding 'OLD' to file name.  Change image of h3 file to h2 files image = H2.  This will show user only the h1 and h2 buttons, which helps to define headers to two possibilities, which I find to be enough to keep things uniform.
 
-*public_html/YOURBugGenieFolder/thebuggenie/js/thebuggenie.js* change what header buttons do in textbox editor by changing code to:
-```TBG.Main.Helpers.MarkitUp = function(element) {
+###Text Editor Header Buttons###
+**public_html/YOURBugGenieFolder/thebuggenie/iconsets/oxygen/markitup**  
+In this folder comment out h2.png, h4.png, and h5.png files adding 'OLD' to file name.  Change image of h3 file to h2 files image = H2.  This will show user only the h1 and h2 buttons, which helps to define headers to two possibilities, which I find to be enough to keep things uniform.
+
+**public_html/YOURBugGenieFolder/thebuggenie/js/thebuggenie.js**  
+Change what header buttons do in textbox editor by changing code to:
+```
+TBG.Main.Helpers.MarkitUp = function(element) {
 	element.markItUp({
 		previewParserPath:	'', // path to your Wiki parser
 		onShiftEnter:		{keepDefault:false, replaceWith:'\n\n'},
@@ -332,41 +396,57 @@ public_html/YOURBugGenieFolder/modules/main/templates/viewissue.html.php
 			{name:'Heading 1', key:'2', openWith:'====== ', closeWith:' ======', placeHolder:'Your title here...'},
 			{name:'Heading 2', key:'3', openWith:'======= ', closeWith:' =======', placeHolder:'Your title here...'},
 			{name:'Heading 2', key:'4', openWith:'======= ', closeWith:' =======', placeHolder:'Your title here...'},
-			{name:'Heading 2', key:'5', openWith:'======= ', closeWith:' =======', placeHolder:'Your title here...'},[/code]
+			{name:'Heading 2', key:'5', openWith:'======= ', closeWith:' =======', placeHolder:'Your title here...'},
+```
 
 
-**Main CSS File Changes = oxygen.css**
-*public_html/YOURBugGenieFolder/thebuggenie/themes/oxygen/oxygen.css* Changes made to this file are indicated in attached file below.
+
+###Main CSS File Changes = oxygen.css###
+**public_html/YOURBugGenieFolder/thebuggenie/themes/oxygen/oxygen.css**  
+Changes made to this file are indicated in attached file below.
 
 
-**Wiki CSS File Changes = publish.css**
-*public_html/YOURBugGenieFolder/thebuggenie/themes/oxygen/publish.css* made the following changes to the formatting specified in the file:
+###Wiki CSS File Changes = publish.css###
+**public_html/YOURBugGenieFolder/thebuggenie/themes/oxygen/publish.css**  
+ade the following changes to the formatting specified in the file:
 
-```.toc .publish_toc_3 { margin: 0 0 3px 7px; font-weight: bold; font-size: 1.2em; font-family: 'Open Sans', sans-serif;} /*changed font family and size for wiki table of conents primary items*/ 
+```
+.toc .publish_toc_3 { margin: 0 0 3px 7px; font-weight: bold; font-size: 1.2em; font-family: 'Open Sans', sans-serif;} /*changed font family and size for wiki table of conents primary items*/ 
 
 .toc .publish_toc_6 { margin: 0 0 3px 26px; font-size: 1.2em; font-family: 'Open Sans', sans-serif;} /*changed font family and size for wiki table of conents secondary items*/ 
 
 .article h6 { font-size: 1.0em; padding: 3px 3px 3px 0; } /*changed font size for wiki secondary article titles*/ 
 
-#article_comments h4 { color: #888; border-top: 1px solid #CCC ; padding: 5px 5px 5px 0; } /* Changed: added line (border) */
+ #article_comments h4 { color: #888; border-top: 1px solid #CCC ; padding: 5px 5px 5px 0; } /* Changed: added line (border) */
 
-.article .header { margin: 2px 0 5px 0; color: #777; padding: 0px; font-weight: bold; font-size: 17px; border-bottom: 1px solid #CCC; } /*changed font color and padding indent*/[/code]
+.article .header { margin: 2px 0 5px 0; color: #777; padding: 0px; font-weight: bold; font-size: 17px; border-bottom: 1px solid #CCC; } /*changed font color and padding indent*/
+```
 
 
-**Language Changes PHP**
-*public_html/YOURBugGenieFolder/modules/publish/fixtures/DefaultWorkflow* change 'Not a bug' TO 'Not an issue'
 
-*public_html/YOURBugGenieFolder/modules/publish/fixtures/WorkflowDefault* change 'Not a bug' TO 'Not an issue'
+###Language Changes PHP###
+**public_html/YOURBugGenieFolder/modules/publish/fixtures/DefaultWorkflow**  
+Change 'Not a bug' TO 'Not an issue'
 
-*public_html/YOURBugGenieFolder/core/classes/TBGStatus.class.php* 'Not a bug' TO 'Not an issue'
+**public_html/YOURBugGenieFolder/modules/publish/fixtures/WorkflowDefault**  
+Change 'Not a bug' TO 'Not an issue'
 
-*public_html/YOURBugGenieFolder/modules/publish/templates/_toc.inc.php* Change spelling of 'Table' to 'Teble' in 2 strings so they match the strings in the English string file.  ([http://forum.thebuggenie.com/viewtopic.php?f=11&t=1652 logged this issue] in main Bug Genie project forum).
-```<?php // CHANGE SPELLING OF TABLE TO TEBLE TO CALL UP CORRECT STRINGS ?>
+**public_html/YOURBugGenieFolder/core/classes/TBGStatus.class.php**  
+'Not a bug' TO 'Not an issue'
+
+**public_html/YOURBugGenieFolder/modules/publish/templates/_toc.inc.php**  
+Change spelling of 'Table' to 'Teble' in 2 strings so they match the strings in the English string file.  *logged this issue in main Bug Genie project forumhttp://forum.thebuggenie.com/viewtopic.php?f=11&t=1652*.
+```
+<?php // CHANGE SPELLING OF TABLE TO TEBLE TO CALL UP CORRECT STRINGS ?>
 	<div class="header"><a href="javascript:void(0);" onclick="$('publish_toc').toggle();"><?php echo __('Teble of contents'); ?></a></div>
-	<div class="faded_out"><?php echo __('Move your mouse here to toggle the teble of contents'); ?></div>[/code]
-*public_html/YOURBugGenieFolder/i18n/en_US/strings.inc.php* Make the following changes to strings (Change spelling of 'Table' to 'Teble' in 2 strings so they match the strings in the _toc.ini.php file above.  ([http://forum.thebuggenie.com/viewtopic.php?f=11&t=1652 logged this issue] in main Bug Genie project forum).:
+	<div class="faded_out"><?php echo __('Move your mouse here to toggle the teble of contents'); ?></div>
+```
 
-```$strings['Move your mouse here to toggle the teble of contents'] = 'Move your mouse here to toggle page overview'; 
+
+**public_html/YOURBugGenieFolder/i18n/en_US/strings.inc.php**  
+Make the following changes to strings (Change spelling of 'Table' to 'Teble' in 2 strings so they match the strings in the _toc.ini.php file above.  ([http://forum.thebuggenie.com/viewtopic.php?f=11&t=1652 logged this issue] in main Bug Genie project forum).:
+```
+$strings['Move your mouse here to toggle the teble of contents'] = 'Move your mouse here to toggle page overview'; 
 
 $strings['Teble of contents'] = 'Page Overview';
 
@@ -383,10 +463,14 @@ $strings['Your dashboard'] = 'My dashboard';
 $strings['Your drafts'] = 'My drafts';
 
 $strings['Your issues'] = 'My issues';
+```
+
 
 Include this string if you want the following help to appear below your text boxes for reminding users how to create internal links to issues and wiki project pages:
-  
-$strings['To auto-link to an existing issue, write "issue", "bug", "ticket" or the issue type (like "bug report" or "enhancement") followed by the issue number (ex: "%ticket_example_1%" or "%ticket_example_2%"). Enclose sourcecode samples in <source></source> tags.'] = 'Link to an existing issue = issue + space + alpha-# OR issue HGTS-8. Link to wiki page (which will create a new page when clicked if it does not yet exist) = TwoOrMoreCapitalizedWordsStuckTogether OR [[double bracketed word]]. Link to project wiki page = [[ + Project Name + : + WikiPageName + ]] OR [[Project Name:Name]] USE double brackets ONLY for single word names, as you will get_words_with_lines_between_them! DoubleWord names with no space will get a space between words when wiki page is created (and_no_lines).';[/code]
+```
+$strings['To auto-link to an existing issue, write "issue", "bug", "ticket" or the issue type (like "bug report" or "enhancement") followed by the issue number (ex: "%ticket_example_1%" or "%ticket_example_2%"). Enclose sourcecode samples in <source></source> tags.'] = 'Link to an existing issue = issue + space + alpha-# OR issue HGTS-8. Link to wiki page (which will create a new page when clicked if it does not yet exist) = TwoOrMoreCapitalizedWordsStuckTogether OR [[double bracketed word]]. Link to project wiki page = [[ + Project Name + : + WikiPageName + ]] OR [[Project Name:Name]] USE double brackets ONLY for single word names, as you will get_words_with_lines_between_them! DoubleWord names with no space will get a space between words when wiki page is created (and_no_lines).';
+```
+
 
 Triage Question for Prioritizing Problem Issues
 ```
@@ -407,7 +491,8 @@ Triage Question for Prioritizing Problem Issues
   $strings['Will affect average number of users'] = '3 Affects 50%.  Problem will happen to about half those using the solution.';
   $strings['Will only affect a few users'] = '2 Affects a few.  Problem is somewhat difficult to encounter, etc. and only a 1/3 will see it.';
   $strings['Will affect almost no one'] = '1 Affects almost no one.  Problem is very well hidden.  Only a teeny, tiny fraction will be unlucky enough to be troubled by it.';
-[/code]
+```
+
 
 Triage Question Labels for Prioritizing Problem Issues
 ```
@@ -417,11 +502,14 @@ Triage Question Labels for Prioritizing Problem Issues
   $strings['How likely are users to experience the bug?'] = 'How likely is someone to encounter this problem? Will everyone run into it?';
   $strings['Triaging: Effect'] = 'How Painful is this problem?';
   $strings['Of the people who experience the bug, how badly does it affect their experience?'] = 'Of the people who experience the problem, how painful is this experience?';
-[/code]
+```
+
 
 Spacing of Triage Questions for Priortizing Problem Issues
-*public_html/YOURSITE.COM/YOURBugGenieFolder/modules/main/templates/_reportissue.inc.php* change label spacing for a better fit, look, etc. from 180px to 160px for first label, 320px for second, and 260px for third label.  You'll see change after update label text in the $string file below.
+**public_html/YOURSITE.COM/YOURBugGenieFolder/modules/main/templates/_reportissue.inc.php**  
+Change label spacing for a better fit, look, etc. from 180px to 160px for first label, 320px for second, and 260px for third label.  You'll see change after update label text in the $string file below.
 ```
+
 
 <td style="width: 160px;"><label for="pain_bug_type_id" id="pain_bug_type_label"><span>* </span><?php echo __('Triaging: Bug type'); ?></label></td>
 
@@ -429,18 +517,19 @@ Spacing of Triage Questions for Priortizing Problem Issues
 
 <td style="width: 260px;"><label for="pain_effect_id" id="pain_effect_label"><span>* </span><?php echo __('Triaging: Effect'); ?></label></td>
 
-[/code]
+```
 
 
-
-**Language Changes MySQL**
+###Language Changes MySQL###
 UPDATE MYSLQL Database `your_buggenie` TABLE`tbg3_listtypes` SET `name` = 'Not a bug' TO 'Not an issue' WHERE `tbg3_listtypes`.`id` =26;
 
-**##Vanilla Code Additions to Add Bug Genie Style Header and Main Navigation Buttons: Forum, Overview, Project Manager**
+#####Vanilla Code Additions to Add Bug Genie Style Header and Main Navigation Buttons: Forum, Overview, Project Manager###
 
-*public_html/YOURVanillaForumFolder/themes/EmbedFriendly/views/default.master.tpl* add the table below right after the first body tag as shown below.
+**public_html/YOURVanillaForumFolder/themes/EmbedFriendly/views/default.master.tpl**  
+Add the table below right after the first body tag as shown below.
 
-```<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+```
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-ca">
 <head>
   {asset name='Head'}
@@ -469,4 +558,7 @@ UPDATE MYSLQL Database `your_buggenie` TABLE`tbg3_listtypes` SET `name` = 'Not a
 		<a style="margin-left: 20px; color: white;" href="http://YOURSITE.COM/YOURBugGenieFolder/thebuggenie">Project Manager &nbsp;  &nbsp; </a>
 		</div>
 	</td>
-</table>[/code]
+</table>
+```
+
+
