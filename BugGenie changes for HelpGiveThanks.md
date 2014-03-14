@@ -589,8 +589,20 @@ Replace default Vanilla link `<div><a href="{vanillaurl}"><span>Powered by Vanil
 **public_html/forum/themes/EmbedFriendly/design/custom.css** 
 Change Vanilla's top menu-bar background color to The Bug Genie yellow:
 ```
-    .Banner ul {
-    background: #FAF3B8;
-    padding: 0;
-    margin: 0;
+.Banner ul {
+	background: #FAF3B8;
+	padding: 0;
+	margin: 0;
+}
+.Banner ul li {
+	display: inline;
+	padding: 0;
+	margin: 0;
+}
+.Banner ul li a {
+	font-weight: bold;
+	padding: 3px 6px;
+	font-size: 11px;
+	color: #000;
+	display: inline-block;
 ```
