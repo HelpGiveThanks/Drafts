@@ -181,11 +181,13 @@ Change dashboard button:
 ```
 
 
+
 **public_html/YOURBugGenieFolder/i18n/en_US/strings.inc.php**  
 Add string `My Dashboard` and call it for `User Dashboard` button on main page (/ core / templates / headertop.inc.php) so user can see a difference between project and user dashboard buttons:
 ```
  $strings['My Dashboard'] = 'My Dashboard';
 ```
+
 
 
 **public_html/YOURBugGenieFolder/modules/publish/templates/_menustriplinks.inc.php**  
@@ -223,6 +225,7 @@ Remove side bar code below so the sidebar does not show up. This allows for more
 			<?php TBGEvent::createNew('core', 'index_left')->trigger(); ?>
 		</td>
 ```
+
 
 
 **public_html/YOURBugGenieFolder/modules/project/templates/_overview.inc.php**  
@@ -313,6 +316,7 @@ Put in code so author and last update only shows if user is logged in.  This mak
 ```
 
 
+
 **public_html/YOURBugGenieFolder/modules/publish/templates/_header.inc.php** 
 ```
 <?php $article = (isset($article)) ? $article : null; ?>
@@ -358,6 +362,7 @@ link_tag(make_url('publish_article_permissions', array('article_name' => $articl
 ```
 
 
+
 **public_html/YOURBugGenieFolder/modules/publish/templates/showarticle.html.php**  
 Remove side bar when showing wiki articles.
 ```
@@ -383,6 +388,7 @@ Remove side bar when showing wiki articles.
 ###Text Editor Header Buttons###
 **public_html/YOURBugGenieFolder/thebuggenie/iconsets/oxygen/markitup**  
 In this folder comment out h2.png, h4.png, and h5.png files adding 'OLD' to file name.  Change image of h3 file to h2 files image = H2.  This will show user only the h1 and h2 buttons, which helps to define headers to two possibilities, which I find to be enough to keep things uniform.
+
 
 **public_html/YOURBugGenieFolder/thebuggenie/js/thebuggenie.js**  
 Change what header buttons do in textbox editor by changing code to:
@@ -428,11 +434,14 @@ ade the following changes to the formatting specified in the file:
 **public_html/YOURBugGenieFolder/modules/publish/fixtures/DefaultWorkflow**  
 Change 'Not a bug' TO 'Not an issue'
 
+
 **public_html/YOURBugGenieFolder/modules/publish/fixtures/WorkflowDefault**  
 Change 'Not a bug' TO 'Not an issue'
 
+
 **public_html/YOURBugGenieFolder/core/classes/TBGStatus.class.php**  
 'Not a bug' TO 'Not an issue'
+
 
 **public_html/YOURBugGenieFolder/modules/publish/templates/_toc.inc.php**  
 Change spelling of 'Table' to 'Teble' in 2 strings so they match the strings in the English string file.  *logged this issue in main Bug Genie project forumhttp://forum.thebuggenie.com/viewtopic.php?f=11&t=1652*.
@@ -441,6 +450,7 @@ Change spelling of 'Table' to 'Teble' in 2 strings so they match the strings in 
 	<div class="header"><a href="javascript:void(0);" onclick="$('publish_toc').toggle();"><?php echo __('Teble of contents'); ?></a></div>
 	<div class="faded_out"><?php echo __('Move your mouse here to toggle the teble of contents'); ?></div>
 ```
+
 
 
 **public_html/YOURBugGenieFolder/i18n/en_US/strings.inc.php**  
@@ -504,8 +514,6 @@ Triage Question Labels for Prioritizing Problem Issues
   $strings['Of the people who experience the bug, how badly does it affect their experience?'] = 'Of the people who experience the problem, how painful is this experience?';
 ```
 
-
-Spacing of Triage Questions for Priortizing Problem Issues
 **public_html/YOURSITE.COM/YOURBugGenieFolder/modules/main/templates/_reportissue.inc.php**  
 Change label spacing for a better fit, look, etc. from 180px to 160px for first label, 320px for second, and 260px for third label.  You'll see change after update label text in the $string file below.
 ```
