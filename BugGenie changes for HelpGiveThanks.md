@@ -259,7 +259,7 @@ Add this code to show project descriptions:
 ```
 
 
-On the FrontPage if Bug Genie is set to show summary status per issue types, then FireFox displays the closed and reported project number totals aligned left instead of relative to the green bars.  
+On the Frontpage if Bug Genie is set to show summary status per issue types, then FireFox displays the closed and reported project number totals aligned left instead of relative to the green bars.  
 
 I found the following article at StackOverflow http://stackoverflow.com/questions/5148041/does-firefox-support-position-relative-on-table-elements explaining that Firefox requires a `<div style>` tag instead of the `<td style>` tag currently in line 51 of the **modules/project/templates/_overview.inc.php** file released with version 3.2.5 *Filed this as issue 1924 with main Bug Genie projecthttp://issues.thebuggenie.com/thebuggenie/issues/1924.*   
 
