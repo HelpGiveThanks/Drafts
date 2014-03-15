@@ -534,7 +534,7 @@ UPDATE MYSLQL Database `your_buggenie TABLE tbg3_listtypes SET 'name' = 'Not a b
 ###Vanilla Code Additions###
 Add Bug Genie style header and main navigation buttons to your Vanilla Forum: Forum, Overview, Project Manager
 
-**public_html/YOURVanillaForumFolder/themes/EmbedFriendly/views/default.master.tpl**  
+**http://YOURWEBSITE.com/YOURVanillaForumFolder/themes/EmbedFriendly/views/default.master.tpl**  
 Add the table below right after the first body tag as shown below.
 
 ```
@@ -586,11 +586,11 @@ Replace default Vanilla link `<div><a href="{vanillaurl}"><span>Powered by Vanil
 ```
 
 
-**public_html/forum/themes/EmbedFriendly/design/custom.css** 
-Change Vanilla's top menu-bar background color to The Bug Genie yellow:
-```
+**http://YOURWEBSITE.com/VanillaFolder/themes/EmbedFriendly/design/custom.css** 
+Change Vanilla's top menu-bar colors to match The Bug Genie color scheme as indicated in this final code block with the comment `/* Top Menu Bar Colors */`.  NOTE: If you do not see a change after doing this, delete all the files in the http://YOURWEBSITE.com/VanillaFolder/cache/Minify folder, and then refresh the browser. 
+``` 
 .Banner ul {
-	background: #FAF3B8;
+	background: #FAF3B8; /* Top Menu Bar Colors */
 	padding: 0;
 	margin: 0;
 }
@@ -603,6 +603,10 @@ Change Vanilla's top menu-bar background color to The Bug Genie yellow:
 	font-weight: bold;
 	padding: 3px 6px;
 	font-size: 11px;
-	color: #000;
+	color: #000;   /* Top Menu Bar Colors */
 	display: inline-block;
+}
+.Banner ul li a:hover {
+	background: #396ba7;  /* Top Menu Bar Color */
+	color: #fff;  /* Top Menu Bar Color */
 ```
