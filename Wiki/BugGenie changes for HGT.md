@@ -40,7 +40,7 @@ AND
 >**Nearly all users come to a website for a content experience, not a designer experience.** 
 *[Edward Tufte, Good web design, web standards, user testing.  retrieved 2/22/13 from http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000P9]*
     
-To remake The Bug Genie tool and website following Tufte's rules as I understand them, I focused on modifying two aspects of its design and use.  
+To remake The Bug Genie tool and website following Tufte's rules as I understand them, I focused on modifying two aspects of their design and utility.  
 
 First, The Bug Genie tool design while very appealing, draws my eye to unnecessary (but appealing) icons and columns of information, and to beautiful but unnecessary graphic elements that make it harder than necessary for me to focus on any page’s content.  Please click the image link below to see the overall changes I made to The Bug Genie design.  Top view is composed of four screenshots taken from the four areas of thebuggenie.com website that I redesigned, and the bottom view is screenshots of the same four areas on my website after the redesign.
 [TBG Redesign.gif](http://forum.thebuggenie.com/download/file.php?id=230)
