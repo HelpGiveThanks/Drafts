@@ -40,12 +40,12 @@ What you need to improve solutions describe improvements commit improvements:
 8. Select All and paste copied Chrome PDF text into open script file. 
 
 *9 minutes*    
-```
+
 NOTE: In rare cases where a hyphen ends up at the end of a line of text, the paste will not work due to this known issue in Chrome: https://code.google.com/p/chromium/issues/detail?id=327349&can=1&q=copy%  If this happens, TO fix this problem, just add some spaces in the script before the hyphen, so in the PDF it moves to another line.
-``` 
+ 
 *11 minutes, 30 seconds*  
 
-**Why Use Chrome, and ONLY Chrome to View Script PDFs?**
+**Why Use Chrome, and ONLY Chrome to View Script PDFs?**  
 We all must use Chrome to document script changes to Help Give Thanks solutions because formatting is lost when you copy from any other PDF viewer that I tested, AND because each PDF viewer parses PDF text differently.  If we all use the same viewer then we only see changes we actually make to these scripts.  If we use different viewers, then we see many fake changes, that are actually just differences in the way different PDF viewers parse PDF text.  So, please use Chrome.  If you know of a better PDF parser for FileMaker script PDFs, comment below or here, and we'll all test it, and if it is better than I'll replace all scripts with this new PDF viewers rendition of them, and we will use it going forward.  But, until a better solution is found, please use Chrome.
 
 *18 minutes, 35 seconds* 
