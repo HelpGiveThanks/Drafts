@@ -1,11 +1,19 @@
-##How to Describe and Show Changes to HelpGiveThanks Solution Files on GitHub, v1.0 Notes
+###How to Describe and Show Changes to HelpGiveThanks Solution Files on GitHub, v1.0 Notes
  
 Copyright 2014 by David Matson
 Creative Commons 
 Attribution-ShareAlike 3.0
 
 *15 Seconds*  
-What you need to improve solutions describe improvements commit improvements: 1) FileMaker 10, 2) Chrome, 3) Clone of HelpGiveThanks GitHub Solution Repositories (click the 'clone in desktop' button on GitHub to get these), 4) TextMate or Notepad++, 5) GitHub for Mac or Windows, and 6) a GitHub user account.
+
+What you need to improve solutions describe improvements commit improvements: 
+
+* FileMaker 10 
+* Chrome
+* Clone of HelpGiveThanks GitHub Solution Repositories (click the 'clone in desktop' button on GitHub to get these)
+* TextMate or Notepad++, 
+* GitHub for Mac or Windows 
+* GitHub user account
 
 *1 minute*  
 ###A. Create a Specific Action Log entry describing basic improvements to screens/layouts, buttons, and scripts.   
@@ -43,12 +51,12 @@ We all must use Chrome to document script changes to Help Give Thanks solutions 
 *18 minutes, 35 seconds* 
 
 **Commit file changes to GitHub**  
-9. Copy Specific Action description.
+9. Copy Specific Action description.  
 10. Open GitHub application on your computer and go to solution's repository.  
 11. Paste Specific Action description into description box and summarize changes. 
 12. Commit changes. 
-13. Sync changes with GitHub repository on the web.
-14. Confirm changes on www.GitHub.com 
+13. Sync changes with GitHub repository on the web.  
+14. Confirm changes on www.GitHub.com  
 
 *25 minutes, 42 seconds* 
 
