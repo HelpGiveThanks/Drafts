@@ -26,14 +26,14 @@ What you need to improve solutions describe improvements commit improvements:
  *5 minutes, 10 seconds* 
  
 ####B. Commit script changes to GitHub 
-   **Create PDF of FileMaker script**  
+**Create PDF of FileMaker script**  
 
 1. Select a script in FileMaker.  
 2. From the file menu select print.  
 3. In the print dialogue box choose to save the script as a PDF.  
 4. Save or replace (don't change the name) the  file on the Desktop or other place where you can easily remember to delete these PDF files when finished with the commit process.
 
-   *6 minutes, 30 seconds* 
+   *6 minutes, 30 seconds*  
 
    **Update script file in GitHub Mac/Windows Folder**  
 5. Open PDF in Chrome or if Chrome is already open showing a previous FileMaker PDF file then just refresh Chrome, and any replaced file of the same name will now show up in Chrome.  
@@ -63,13 +63,13 @@ What you need to improve solutions describe improvements commit improvements:
 13. Sync changes with GitHub repository on the web.  
 14. Confirm changes on www.GitHub.com  
 
-   *25 minutes, 42 seconds* 
+*25 minutes, 42 seconds* 
 
-   **Documenting Layout/Screen Changes**  
-   Take and annotate a screenshot of your layout change, making sure to include 
+**Documenting Layout/Screen Changes**  
+Take and annotate a screenshot of your layout change, making sure to include 
 solution window titles in your screenshots. *Annotate your screenshots using the Mac Preview program or Evernote Skitch, which is a free screenshot annotation tool for both Mac and Windows.* Place your screenshot in the changed solution's layoutChanges folder and commit them to GitHub along with any script changes that are part of a commit.   
 
-   If conditional formatting was added or changed, log the addition or change in the conditionalFormattingChangeLog.c file located in all solutions' layoutChanges folders.  Instructions for how to log changes are at the top of each conditionalFormattingChangeLog.c file.  
+If conditional formatting was added or changed, log the addition or change in the conditionalFormattingChangeLog.c file located in all solutions' layoutChanges folders.  Instructions for how to log changes are at the top of each conditionalFormattingChangeLog.c file.  
 
 *29 minutes, 50 seconds* 
 ####C. Commit updated FileMaker files to GitHub
