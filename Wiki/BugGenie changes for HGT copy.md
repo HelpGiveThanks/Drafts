@@ -1,4 +1,4 @@
-###How to Describe and Show Changes to HelpGiveThanks Solution Files on GitHub, v1.0 Notes
+###Movie Notes for How to Describe and Show Changes to HelpGiveThanks Solution Files on GitHub, v1.0 
  
 Copyright 2014 by David Matson
 Creative Commons 
@@ -6,12 +6,12 @@ Attribution-ShareAlike 3.0
 
 *15 Seconds*  
 
-What you need to improve solutions describe improvements commit improvements: 
+What you need to improve solutions, describe, and commit improvements to GitHub: 
 
-* FileMaker 10 
+* FileMaker 10 or above 
 * Chrome
 * Clone of HelpGiveThanks GitHub Solution Repositories (click the 'clone in desktop' button on GitHub to get these)
-* TextMate or Notepad++, 
+* TextMate for Mac or Notepad++ for Windows, 
 * GitHub for Mac or Windows 
 * GitHub user account
 
@@ -47,7 +47,7 @@ What you need to improve solutions describe improvements commit improvements:
  
    *11 minutes, 30 seconds*  
 
-   **Why Use Chrome, and ONLY Chrome to View Script PDFs?**  
+   **Why Use Chrome and ONLY Chrome to render FileMaker script PDFs?**  
    We all must use Chrome to document script changes to Help Give Thanks solutions because formatting is lost when you copy from any other PDF viewer that I tested, AND because each PDF viewer parses PDF text differently.  If we all use the same viewer then we only see changes we actually make to these scripts.  If we use different viewers, then we see many fake changes, that are actually just differences in the way different PDF viewers parse PDF text.  So, please use Chrome.  
    
    If you know of a better PDF parser for FileMaker script PDFs, comment below or here, and we'll all test it, and if it is better than I'll replace all scripts with this new PDF viewers rendition of them, and we will use it going forward.  But, until a better solution is found, please use Chrome.
