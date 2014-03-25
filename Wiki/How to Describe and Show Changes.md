@@ -1,4 +1,4 @@
-###Movie Notes for How to Describe and Show Changes to HelpGiveThanks Solution Files on GitHub, v1.0 
+###Movie Notes for How to Describe and Show Changes to HelpGiveThanks Solution Files on GitHub (movie version 1.0) 
  
 Copyright 2014 by David Matson
 Creative Commons 
@@ -55,9 +55,9 @@ What you need to improve solutions, describe, and commit improvements to GitHub:
    *18 minutes, 35 seconds* 
 
    **Commit file changes to GitHub**
-   
-9. Copy Specific Action description.  
-10. Open GitHub application on your computer and go to solution's repository.  
+
+9. Copy Specific Action description.
+10. Open GitHub application on your computer and go to solution's repository.
 11. Paste Specific Action description into description box and summarize changes. 
 12. Commit changes. 
 13. Sync changes with GitHub repository on the web.  
@@ -73,3 +73,41 @@ If conditional formatting was added or changed, log the addition or change in th
 
 *29 minutes, 50 seconds* 
 ####C. Commit updated FileMaker files to GitHub
+Committing a solution's new FileMaker version with all recent changes allows for easy copy/paste of scripts, layout objects, etc. into previous versions for testing and approval.
+
+**Library**
+
+1. Log into Library file as admin user: username = admin, password = 4/1/2012beta
+2. Run creatEmptyLibrary script.
+  1. Name new file with latest Library commit number at https://github.com/HelpGiveThanks/Library.
+  2. Save file into your local GitHub Library repository folder.
+  3. Close the open Library file.
+  4. Go to new Library file and open it. Ignore inability to find reference file: click cancel button.
+  5. Click proceed button to proceed with emptying of copied Library file (do make sure that you are indeed emptying the new copy of your Library file and not your original!).
+  6. Close copy.  FYI: When opened again, this newly created empty Library asks if you want to start a new Library or import a Library from older version of the Library solution. 
+3. Compress/Zip file.
+4. Delete uncompressed file.
+5. Go to GitHub App and type reason for new FileMaker file including copied commit number.
+6. Commit new file.
+7. Sync commit.
+8. Go to GitHub on the web to confirm commit. 
+  
+*34 minutes, 37 seconds* 
+
+**ActionLog**
+
+1. Copy most recent commit number from https://github.com/HelpGiveThanks/ActionLog
+2. Copy your improved ActionLog file.
+3. Paste it into your local GitHub ActionLog repository ActionLog sub folder.  The ActionLog consists of three related databases each with their own folder in the main ActionLog repository folder: ActionLog, MyData, Reference. 
+4. Replace file name with copied, most-recent commit number (only need first part of number for identification purposes). 
+5. Compress/Zip file.
+6. Delete uncompressed file.
+7. Go to GitHub App and type reason for new FileMaker file including the full, copied, commit number.
+8. Commit new file.
+9. Sync commit.
+10. Go to GitHub on the web to confirm commit. 
+  
+**Other Solutions: Help, HeartWhisperer, Budget Planner, IQ Raiser**  
+At this time, I have not created an import script and process for these solutions, which like the Library are one database containing both layouts, scripts, and user data.  So, if you improve them, please do what you can to reduce their file size such as removing user data if it will help, compress/zip them, and delete the unzipped file before making your commit.  
+  
+
