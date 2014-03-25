@@ -16,7 +16,7 @@ What you need to improve solutions describe improvements commit improvements:
 * GitHub user account
 
 *1 minute*  
-###A. Create a Specific Action Log entry describing basic improvements to screens/layouts, buttons, and scripts.   
+####A. Create a Specific Action Log entry describing basic improvements to screens/layouts, buttons, and scripts.   
  Create a description of your changes in the Specific Action Log.  Doing this helps you not only keep track of changes as you work toward fixing some problem or adding a new feature, but creating a Specific Action entry also allows you to track your time toward this fix/feature.
  
  Note in [brackets] any layout objects affected by changes.
@@ -24,7 +24,7 @@ What you need to improve solutions describe improvements commit improvements:
  Go to Help to look up any screen/window object's number.  Window/screen names are at the top of each window/screen.
  
  *5 minutes, 10 seconds* 
-###B. Commit script changes to GitHub 
+####B. Commit script changes to GitHub 
 **Create PDF of FileMaker script**  
 1. Select a script in FileMaker.  
 2. From the file menu select print.  
@@ -41,7 +41,7 @@ What you need to improve solutions describe improvements commit improvements:
 
 *9 minutes*    
 
-NOTE: In rare cases where a hyphen ends up at the end of a line of text, the paste will not work due to this known issue in Chrome: https://code.google.com/p/chromium/issues/detail?id=327349&can=1&q=copy%  If this happens, TO fix this problem, just add some spaces in the script before the hyphen, so in the PDF it moves to another line.
+NOTE: In rare cases where a hyphen ends up at the end of a line of text, the paste will not work due to this known issue in Chrome: https://code.google.com/p/chromium/issues/detail?id=327349&can=1&q=copy%  To fix this problem, just add some spaces in the script before the hyphen, so in the PDF it moves to another line.
  
 *11 minutes, 30 seconds*  
 
@@ -66,4 +66,4 @@ solution window titles in your screenshots. *Annotate your screenshots using the
 * If conditional formatting was added or changed, log the addition or change in the conditionalFormattingChangeLog.c file located in all solutions' layoutChanges folders.  Instructions for how to log changes are at the top of each conditionalFormattingChangeLog.c file.  
 
 *29 minutes, 50 seconds* 
-###C. Commit updated FileMaker files to GitHub
+####C. Commit updated FileMaker files to GitHub
