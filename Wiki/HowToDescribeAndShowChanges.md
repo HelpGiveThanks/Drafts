@@ -1,4 +1,4 @@
-###Movie Notes for How to Describe and Show Changes to HelpGiveThanks Solution Files on GitHub
+###Overview/Outline of Movie How to Describe and Show Changes to HelpGiveThanks Solution Files on GitHub
 Version 1, Copyright 2014 by David Matson. Creative Commons Attribution-ShareAlike 3.0
 
 *15 Seconds*  
