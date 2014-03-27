@@ -376,18 +376,18 @@ Greek Philosopher, Student of Plato, etc.     <br>
 
 
 The light of meaning comes from within,      <br>
-illuminating the fabric of Aquinas's tent.       <br><br>
+illuminating the fabric of Aquinas's tent.       <br>
 <i>     Brains create ideas, hypothesis, imaginings, etc.     </i>     <br><br>
-We push this fabric out against objects in the world.     <br><br>
+We push this fabric out against objects in the world.     <br>
 <i>     Brains create behaviors to provoke sensory input.     </i>     <br><br>
-The tent’s fabric conforms around these objects.     <br><br>
+The tent’s fabric conforms around these objects.     <br>
 <i>     Sensory input pass/fails brains’ ideas, imaginings, etc.     </i>     <br><br>
 Thus, we learn what these objects might look like if      <br>
-the impenetrable barrier of the tent,     <br><br>
+the impenetrable barrier of the tent,     <br>
 <i>     the solipsistic isolation of our brains,     </i>     <br><br>
-did not separate the fabric encased shapes,     <br><br>
+did not separate the fabric encased shapes,     <br>
 <i>     did not separate the imagined objects, people, etc,     </i>     <br><br>
-from the actual objects, people, etc. outside the tent,     <br><br>
+from the actual objects, people, etc. outside the tent,     <br>
 <i>     from actual objects, people, etc. in reality.      </i>     <br><br>
 
 01:36:18     <br>
