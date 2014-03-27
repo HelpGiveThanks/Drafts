@@ -724,7 +724,7 @@ closer and closer attention,“...NOT clouds!” to fail      <br>
 how our brains imagine, predict, categorize, etc.     <br>
 Push/wheel/drive/etc. your wheelchair!      <br>     <br>
 
-1 02.04.26     <br>
+02.04.26     <br>
 
 <br><hr><br>
 
@@ -762,7 +762,7 @@ true friendships and partnerships.      <br>
 what other people will do, and we achieve that     <br>
 by repeated cooperative actions.     <br>
 ...We create our own joys,     <br>
-and we feel happiest in learning to trust each other.”     <br>
+and we feel happiest in learning to trust each other.”     <br>     <br>
 — Walter J Freeman MD     <br>
 
 <br><hr><br>
