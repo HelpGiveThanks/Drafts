@@ -315,7 +315,7 @@ div.centered table
 
 
 <div class="centered">
-<table>
+<table width="200" style="margin-left:auto;margin-right:auto">
   <col align="center">
   <col align="center">
 <tr>
