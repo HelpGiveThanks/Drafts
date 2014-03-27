@@ -66,6 +66,7 @@ shared experiences, and help us to create trust.     <br>
 <br><hr><br>
 
 <div align="center">
+	
 Time code numbers on note slides     <br>
 reference an outtake's starting position     <br>
 on the 133 minute source video.     <br> <br>
@@ -302,8 +303,19 @@ EEG recording of      <br>
 a rabbit smelling air.     <br>
 
 <br><hr><br>
+div.centered 
+{
+    text-align: center;
+}
+div.centered table 
+{
+    margin: 0 auto; 
+    text-align: left;
+}
 
-<table align="center">
+
+<div class="centered">
+<table>
   <col align="center">
   <col align="center">
 <tr>
@@ -316,6 +328,7 @@ a rabbit smelling air.     <br>
 </tr>
 
 </table>
+</div>
 
 <br><hr><br>
 
