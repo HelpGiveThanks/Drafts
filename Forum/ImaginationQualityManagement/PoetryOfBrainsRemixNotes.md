@@ -1,5 +1,11 @@
 Below are my notes from  YouTube video
 <dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 	<center>
 Amazing Ideas from  
 
@@ -335,4 +341,3 @@ Push these ideas around for yourself. Present them using your words, images, ski
 learned remixing the original video to create this one!
 The YouTube description has links to the full talk, and to more talks and papers by Dr. Freeman and other scientists investigating the ideas presented in this video.
 </center>
-</dl>
