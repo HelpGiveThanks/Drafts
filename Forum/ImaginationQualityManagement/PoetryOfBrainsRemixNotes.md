@@ -232,21 +232,19 @@ image: Jordi March i Nogué CC BY-SA 3.0 remixed by David Matson     <br>
 
 Feel each of the 3 parts of your balance system at work.     <br>
 <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/RollYawPitch.png">     <br>
-lean left then right = roll     <br>
-rotate torso left then right = yaw     <br>
-lean forward then backward = pitch     <br>
+GREEN lean left then right = roll     <br>
+RED rotate torso left then right = yaw     <br>
+BLUE lean forward then backward = pitch     <br>
 
 <br><hr><br>
 
 Dual-axis Accelerometer Electronic Balance System     <br>
+<img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/Accelerometer.png">     <br>
 image: CC BY-SA 3.0 learn.parallax.com/KickStart/28017     <br>
 
 <br><hr><br>
 
-Input to wafer on tongue from Accelerometer     <br>
-lean back     <br>
-tilt left upright tilt right      <br>
-lean forward     <br>
+<img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/Wafer.png">     <br>
 
 <br><hr><br>
 
