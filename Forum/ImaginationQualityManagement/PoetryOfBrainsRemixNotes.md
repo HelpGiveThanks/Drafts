@@ -656,7 +656,7 @@ that B) also demand attention = “Learn this!”     <br>
 1) An energy pattern failing to fit any existing attractor,       <br>
 2) falls into a waste-basket attractor, which 3) if the       <br>
 orienting response is also triggered, 4) causes the       <br>
-brain to grow a new attractor = learn, <u> but only if </u>     <br>
+brain to grow a new attractor = learn, <U> but only if </U>     <br>
 5) the brain can test the new attractor.     <br>      <br>
 
 For example, dogs' orienting responses may be       <br>
