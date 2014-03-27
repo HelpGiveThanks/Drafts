@@ -191,81 +191,142 @@ eyes to see, ears to hear, etc.!     <br> <br>
 
 <br><hr><br>
 
-Sensory Substitution Theory     <br>
-Brains use sensory organs to test their imagined ideas of the world, not to sense (to see, hear, feel, etc.) the world,     <br>
-and, so, are able to use one sense to do the job of another.     <br>
-Sensory Substitution Use — Substitute a sense that is not working for one that is = see with your ears!     <br>
-1) Capture information that the lost sense evolved to detect with artificial sensors like cameras, for example. 2) Use a computer to translate the camera’s     <br>
-information into patterns that the substituted sensory organ can detect: patterns of sound.     <br>
+<i>     Sensory Substitution Theory     <br>
+Brains use sensory organs to test their imagined ideas of      <br>
+the world, not to sense (to see, hear, feel, etc.) the world,     <br>
+and, so, are able to use one sense to do the job of another.     </i>     <br>
+Sensory Substitution Use — Substitute a sense that is       <br>
+not working for one that is = see with your ears!     <br>
+1) Capture information that the lost sense evolved to       <br>
+detect with artificial sensors like cameras, for example.       <br>
+2) Use a computer to translate the camera’s     <br>
+information into patterns that the substituted sensory       <br>
+organ can detect: patterns of sound.     <br>
 3) Allow the brain to test (pass/fail) its predicted     <br>
-patterns of imagined visual experience, against real patterns of light translated into patterns of sound.     <br>
-Dr. Freeman will now give an example of how brains learn to imagine the experience of balance and test it against felt patterns of information     <br>
-supplied to the tongue by digital balance sensors, instead of disease damaged vestibular systems (balance sensory systems) located in the inner ears.     <br>
+patterns of imagined visual experience, against real       <br>
+patterns of light translated into patterns of sound.     <br>
+
+<br><hr><br>
+
+Dr. Freeman will now give an example of how      <br>
+brains learn to imagine the experience of balance      <br>
+and test it against felt patterns of information     <br>
+supplied to the tongue by digital balance sensors,      <br>
+instead of disease damaged vestibular systems      <br>
+(balance sensory systems) located in the inner ears.     <br>
 00.55.48     <br>
 
 <br><hr><br>
 
+Paul Bach-y-Rita (1934-2006)      <br>
+University of Wisconsin      <br>
+Department of Biomedical Engineering     <br>
 
-Paul Bach-y-Rita (1934-2006) University of Wisconsin Department of Biomedical Engineering     <br>
+<br><hr><br>
+
 Vestibular/Balance System     <br>
 image: Jordi March i Nogué CC BY-SA 3.0 remixed by David Matson     <br>
+
+<br><hr><br>
+
 Feel each of the 3 parts of your balance system at work.     <br>
 lean left then right = roll     <br>
 rotate torso left then right = yaw     <br>
 lean forward then backward = pitch     <br>
-     <br>
+
+<br><hr><br>
+
 Dual-axis Accelerometer Electronic Balance System     <br>
 image: CC BY-SA 3.0 learn.parallax.com/KickStart/28017     <br>
+
+<br><hr><br>
+
 Input to wafer on tongue from Accelerometer     <br>
 lean back     <br>
-tilt left upright tilt right lean forward     <br>
-     <br>
-Brains can learn to substitute information coming from the eyes, ears, vestibular (balance) system, etc.     <br>
-for patterns of tactile/felt information coming from, for example, a wafer on the tongue fed information     <br>
-by a computer hooked up to cameras, microphones, accelerometers (balance sensors), etc.     <br>
-“We don't see with our eyes, or feel with our hands; we see and feel with our brain.” — Paul Bach-y-Rita Brower, Vicki. “When Mind Meets Machine.” EMBO Reports 6.2 (2005): 108 - 110. Retrieved 4/4/13 from nature.com/embor/journal/v6/n2/full/7400344.html     <br>
+tilt left upright tilt right      <br>
+lean forward     <br>
+
+<br><hr><br>
+
+
+Brains can learn to substitute information coming      <br>
+from the eyes, ears, vestibular (balance) system, etc.     <br>
+for patterns of tactile/felt information coming from,      <br>
+for example, a wafer on the tongue fed information     <br>
+by a computer hooked up to cameras, microphones,      <br>
+accelerometers (balance sensors), etc.     <br>     <br>
+
+“We don't see with our eyes, or feel with our hands;      <br>
+we see and feel with our brain.” — Paul Bach-y-Rita      <br>     <br>
+
+Brower, Vicki. “When Mind Meets Machine.” EMBO      <br>
+Reports 6.2 (2005): 108 - 110. Retrieved 4/4/13 from nature.com/embor/journal/v6/n2/full/7400344.html     <br>     <br>
+
 00.55.48     <br>
 
 <br><hr><br>
 
 
-Brains only create meaning if the stimulus (information) coming into the senses     <br>
-is significant (rewarding, dangerous, etc.) to the organism (human, rabbit, mouse, etc.).     <br>
-One of the most important things that brains do is screen out MOST of the information coming into the senses. Information that is of no significance to the animal.     <br>
+Brains only create meaning if the stimulus      <br>
+(information) coming into the senses     <br>
+is significant (rewarding, dangerous, etc.)      <br>
+to the organism (human, rabbit, mouse, etc.).     <br>     <br>
+
+One of the most important things that brains do      <br>
+is screen out MOST of the information      <br>
+coming into the senses. Information that is of      <br>
+no significance to the animal.     <br>     <br>
+
 01.10.33     <br>
 
 <br><hr><br>
 
 
-Spatial pattern generated from EEG recordings     <br>
+Spatial pattern generated      <br>
+from EEG recordings     <br>
 of a rabbit smelling banana.     <br>
-     <br>
 
 <br><hr><br>
 
 
 All diagrams taken from:     <br>
 A neurobiological theory of meaning in perception.     <br>
-Part 1. Information and meaning in nonconvergent and nonlocal brain dynamics     <br>
-International Journal of Bifurcation & Chaos [2003] 13: 2493-2511. Walter J Freeman     <br>
+Part 1. Information and meaning in nonconvergent      <br>
+and nonlocal brain dynamics     <br>
+International Journal of Bifurcation & Chaos      <br>
+[2003] 13: 2493-2511. Walter J Freeman     <br>
 
 <br><hr><br>
 
+EEG recording of      <br>
+a rabbit smelling air.     <br>
 
-EEG recording of a rabbit smelling air.     <br>
-     <br>
-Reward No Reward Banana Air     <br>
-     <br>
-Banana     <br>
-Air     <br>
-Consistent     <br>
-patterns before reward switch     <br>
-Banana     <br>
-Air     <br>
+<br><hr><br>
+
+<table>
+  <col align="center">
+  <col align="center">
+<tr>
+  <td>Reward</td>
+  <td>No Reward</td>
+</tr>
+<tr>
+  <td>Banana</td>
+  <td>Air</td>
+</tr>
+
+</table>
+
+<br><hr><br>
+
+Banana     Air     <br>
+Consistent patterns before reward switch     <br>
+Banana     Air     <br>
 Consistent patterns after reward switch     <br>
-     <br>
-Banana     <br>
-Air     <br>
+
+
+
+Banana     Air     <br>
 The information/scents coming into the nose cannot be responsible for the patterns/ meanings generated by the brain, otherwise as with the symbols for (spelling of) ‘banana’ and ‘air’, the brain patterns too should have remained static when the association of a reward (green) was     <br>
 Banana     <br>
 Air     <br>
