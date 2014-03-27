@@ -1,9 +1,10 @@
 Below are my notes from YouTube video
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=o_x2RVnlTZs)
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=o_x2RVnlTZs" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=o_x2RVnlTZs
 
 <div align="center">
+	
+	<iframe width="420" height="315" src="//www.youtube.com/embed/o_x2RVnlTZs" frameborder="0" allowfullscreen></iframe>
 	
 Amazing Ideas from     <br> <br>
 
