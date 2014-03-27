@@ -213,7 +213,8 @@ brains learn to imagine the experience of balance      <br>
 and test it against felt patterns of information     <br>
 supplied to the tongue by digital balance sensors,      <br>
 instead of disease damaged vestibular systems      <br>
-(balance sensory systems) located in the inner ears.     <br>
+(balance sensory systems) located in the inner ears.     <br>      <br>
+
 00.55.48     <br>
 
 <br><hr><br>
@@ -399,64 +400,105 @@ In other words ...     <br>
 
 <br><hr><br>
 
-The whole science of neural representation, stimulus/response, input/output, etc.     <br>
+The whole science of neural representation,      <br>
+stimulus/response, input/output, etc.     <br>
 is disproven     <br>
-by the evidence of neural dynamics.     <br>
+by the evidence of       <br>
+neural dynamics.     <br>      <br>
+
 01.10.33     <br>
 
 <br><hr><br>
 
 
-All that brains can know is what they hypothesize and through testing determine useful-to-the-organism hypotheses, meanings, imaginings, etc.     <br>
+All that brains can know is what they hypothesize       <br>
+and through testing determine       <br>
+useful-to-the-organism hypotheses,       <br>
+meanings, imaginings, etc.     <br>      <br>
+
 The action-perception theory     <br>
 replaces the stimulus-response theory     <br>
-as the evidence from neural dynamics shows that brains create behavior in response to their own     <br>
-hypotheses, meanings, imaginings, etc.     <br>
+as the evidence from neural dynamics shows that       <br>
+brains create behavior in response to their own     <br>
+hypotheses, meanings, imaginings, etc.     <br>      <br>
+
 Brains do not respond to stimuli coming from reality.     <br>
-Brains are solipsistic.     <br>
+Brains are solipsistic.     <br>      <br>
+
 01.10.33     <br>
 
 <br><hr><br>
 
 
-Does a test based on the brain’s imagination (hypothesis) of reality fail or not fail when tested?     <br>
-The results of such tests are ALL that any brain can know about the usefulness of its     <br>
-imaginings, created meanings, self-generated hypothesis, etc.     <br>
+Does a test based on the brain’s imagination       <br>
+(hypothesis) of reality fail or not fail when tested?     <br>      <br>
+
+The results of such tests are ALL       <br>
+that any brain can know       <br>
+about the usefulness of its     <br>
+imaginings, created meanings,       <br>
+self-generated hypothesis, etc.     <br>      <br>
+
 ALL that any brain knows     <br>
-is what it has created within itself, and how well its creations have tested.     <br>
+is what it has created within itself,       <br>
+and how well its creations have tested.     <br>      <br>
+
 01:12:49     <br>
 
 <br><hr><br>
 
-
 Brains are continually engaged in     <br>
-1) predicting the future (creating hypotheses), 2) testing their predictions to determine their reliability to successfully guide behavior toward reward, away from danger, etc., and then 3) changing their predictions (hypotheses) as required by the results of their tests.     <br>
+1) predicting the future (creating hypotheses),      <br>
+2) testing their predictions to determine their      <br>
+reliability to successfully guide behavior      <br>
+toward reward, away from danger, etc., and then      <br>
+3) changing their predictions (hypotheses) as      <br>
+required by the results of their tests.     <br>     <br>
+
 The action-perception theory     <br>
-is replacing the stimulus-response theory as science experiments show that brains create behavior (actions) to test their own hypotheses (meanings), not to respond to information     <br>
-coming into the senses from reality.     <br>
+is replacing the stimulus-response theory as      <br>
+science experiments show that brains create behavior      <br>
+(actions) to test their own hypotheses (meanings),      <br>
+not to respond to information     <br>
+coming into the senses from reality.     <br>     <br>
+
 01:14:30     <br>
 
 <br><hr><br>
 
+John von Neumann (1903–1957)      <br>
+University of Berlin      <br>
+Princeton University      <br>
+Institute for Advanced Study      <br>
+Site Y, Los Alamos     <br>
 
-John von Neumann (1903–1957) University of Berlin Princeton University Institute for Advanced Study Site Y, Los Alamos     <br>
+<br><hr><br>
+
 Brains are dynamical systems     <br>
-that do not use a language of any kind.     <br>
+that do not use a language of any kind.     <br>     <br>
+
 01.33.19     <br>
 
 <br><hr><br>
 
 
 Brains’ dynamic systems     <br>
-(sometimes called chaotic systems) give rise to speech (like Dr. Freeman’s), and text (like this text) without using a language of any kind to create them     <br>
-or to understand them.     <br>
-‘Language’ in this sense is not really a thing at all, but rather a set of relationships among a     <br>
+(sometimes called chaotic systems) give rise to      <br>
+speech (like Dr. Freeman’s), and text (like this text)      <br>
+without using a language of any kind to create them     <br>
+or to understand them.     <br>     <br>
+
+‘Language’ in this sense is not really a thing at all,      <br>
+but rather a set of relationships among a     <br>
 1) dynamic system = brain,     <br>
 2) behavior = speech and writing,     <br>
 3) artifacts = speech sounds and texts, and     <br>
 4) senses = eyes, ears, etc.     <br>
-By continually cycling thru this set of relationships (aka language), the brain tests and refines its ability to     <br>
-produce useful language artifacts. 01:33:19     <br>
+By continually cycling thru this set of relationships      <br>
+(aka language), the brain tests and refines its ability to     <br>
+produce useful language artifacts.      <br>     <br>
+
+01:33:19     <br>
 
 <br><hr><br>
 
@@ -493,125 +535,205 @@ from the actual objects, people, etc. outside the tent,     <br>
 
 <br><hr><br>
 
+Brains are intentional creators of meaning,       <br>
+not passive receivers of information.     <br>      <br>
 
-Brains are intentional creators of meaning, not passive receivers of information.     <br>
 01.36.18     <br>
 
 <br><hr><br>
 
 
-Jean Piaget (1896 - 1980) Swiss Developmental Psychologist and Philosopher     <br>
+Jean Piaget (1896 - 1980)      <br>
+Swiss Developmental Psychologist      <br>
+and Philosopher     <br>
+
+<br><hr><br>
+
 The light of meaning comes from within,     <br>
-1) creating an array of attractors predictions/hypotheses/meanings which the brain     <br>
+1) creating an array of attractors      <br>
+predictions/hypotheses/meanings which the brain     <br>
 2) tests by provoking a response from reality,     <br>
 an action which results in     <br>
 3) energy impacting our senses, and then     <br>
 4) hitting one of these attractors, and causing possibly     <br>
-an accommodation/change to the attractor or not. This prediction, action, perception, accommodation cycle builds our knowledge of what is outside the     <br>
-impenetrable barrier separating our attractors, the brain’s meanings,     <br>
+an accommodation/change to the attractor or not.      <br>
+This prediction, action, perception, accommodation      <br>
+cycle builds our knowledge of what is outside the     <br>
+impenetrable barrier separating our attractors,      <br>
+the brain’s meanings,     <br>
 from the energy impacting our senses,     <br>
-reality’s information.     <br>
+reality’s information.     <br>      <br>
+
 01:38:00     <br>
 
 <br><hr><br>
-
 
 We know only by imagining     <br>
 and doing what we imagine is right,     <br>
-not by experiencing and responding to what is real.     <br>
-We are essentially insane: [inˈsān] – in a state of mind (in a tent with impenetrable walls)     <br>
-that prevents normal perception.     <br>
+not by experiencing and responding to what is real.     <br>     <br>
+
+We are essentially insane: [inˈsān] – in a state of mind      <br>
+(in a tent with impenetrable walls)     <br>
+that prevents normal perception.     <br>     <br>
+
 But everyone is equal in this their inability     <br>
 to experience things as they are,     <br>
-to experience only what they imagine, never what is.     <br>
+to experience only what they imagine, never what is.     <br>     <br>
+
 01:38:00     <br>
 
 <br><hr><br>
 
 
-The first layer of cortex in our ears, eyes, skin, etc. puts up attractor landscapes like craters on the Moon. Each attractor (crater) is a prediction of what     <br>
-patterns of information/energy might hit our senses. When a patten of energy hits, what gets transmitted to the rest of the brain is which attractor/prediction/ meaning/etc. has been hit, not the actual pattern, and not where or how well the patten hit the attractor.     <br>
-This is easy to see in toddlers, as they have very small attractor landscapes. The image of a cat hits their one attractor for four-legged animals; it spirals to the bottom, and the toddler points, and says, “dog!”     <br>
-Brains can only experience what they create (dog), not what the senses sense (cat). 1:45:16     <br>
+The first layer of cortex in our ears, eyes, skin, etc.      <br>
+puts up attractor landscapes like craters on the      <br>
+Moon. Each attractor (crater) is a prediction of what     <br>
+patterns of information/energy might hit our senses.      <br>
+When a patten of energy hits, what gets transmitted      <br>
+to the rest of the brain is which attractor/prediction/      <br>
+meaning/etc. has been hit, not the actual pattern, and      <br>
+not where or how well the patten hit the attractor.     <br>     <br>
+
+This is easy to see in toddlers, as they have very small      <br>
+attractor landscapes. The image of a cat hits their one      <br>
+attractor for four-legged animals; it spirals to the      <br>
+bottom, and the toddler points, and says, “dog!”     <br>
+Brains can only experience what they create (dog),      <br>
+not what the senses sense (cat). 1:45:16     <br>
 
 <br><hr><br>
 
 
-Friedrich Nietzsche (1844 – 1900) German philosopher, poet, composer, cultural critic, etc.     <br>
+Friedrich Nietzsche (1844 – 1900)      <br>
+German philosopher, poet, composer,      <br>
+cultural critic, etc.     <br>
 
 <br><hr><br>
 
 
 Everyone is equal in their inability     <br>
 to experience things as they are,     <br>
-to experience only what they imagine, never what is. So how do we share knowledge?     <br>
-We share knowledge when predicting, acting/testing, sensing, and accommodating together, thus causing our brains to generate     <br>
+to experience only what they imagine, never what is.      <br>
+So how do we share knowledge?     <br>     <br>
+
+We share knowledge when predicting,      <br>
+acting/testing, sensing, and accommodating together,      <br>
+thus causing our brains to generate     <br>
 similar meanings. The more action required     <br>
 in our relating to each other     <br>
 (dancing versus watching TV together)     <br>
 the more similar and useful will grow     <br>
 our meanings, our “shared” knowledge,     <br>
-our imagined experiences of what is real.     <br>
+our imagined experiences of what is real.     <br>     <br>
+
 01:50:40     <br>
 
 <br><hr><br>
 
+Our excess focus on individual achievement is a      <br>
+denial of our brains’ core need to have others      <br>
+actively participate in our lives (act with us)     <br>
+rather than watch and judge us.      <br>
+We need others to practice with us,      <br>
+not preach at us.     <br>     <br>
 
-Our excess focus on individual achievement is a denial of our brains’ core need to have others actively participate in our lives (act with us)     <br>
-rather than watch and judge us. We need others to practice with us, not preach at us.     <br>
-Brains are social organs.     <br>
-We “share” knowledge ONLY when predicting, acting/testing, sensing, and accommodating together, causing our brains to generate similar meanings. Failure to act together (to preach, but not practice)     <br>
+Brains are social organs.     <br>     <br>
+
+We “share” knowledge ONLY when predicting,      <br>
+acting/testing, sensing, and accommodating <u> together </u> ,      <br>
+causing our brains to generate similar meanings.      <br>
+Failure to act together (to preach, but not practice)     <br>
 isolates us from each other, making us feel apart,     <br>
-even when we are together.     <br>
+even when we are together.     <br>     <br>
+
 01:58:45     <br>
 
 <br><hr><br>
 
+Brains create new categories/attractors/meanings/etc.       <br>
+in response to A) failures by their existing attractors       <br>
+that B) also demand attention = “Learn this!”     <br>
+1) An energy pattern failing to fit any existing attractor,       <br>
+2) falls into a waste-basket attractor, which 3) if the       <br>
+orienting response is also triggered, 4) causes the       <br>
+brain to grow a new attractor = learn, <u> but only if </u>     <br>
+5) the brain can test the new attractor.     <br>      <br>
 
-Brains create new categories/attractors/meanings/etc. in response to A) failures by their existing attractors that B) also demand attention = “Learn this!”     <br>
-1) An energy pattern failing to fit any existing attractor, 2) falls into a waste-basket attractor, which 3) if the orienting response is also triggered, 4) causes the brain to grow a new attractor = learn, but only if     <br>
-5) the brain can test the new attractor.     <br>
-For example, dogs' orienting responses may be triggered for unknown words, "Learn this!" But, unable to test words, to speak, most words heard will never make it out of dogs’ waste-basket attractors.     <br>
-The inability to push their vocabulary wheelchairs, to speak, limits the size of word-attractor arrays for dogs.     <br>
+For example, dogs' orienting responses may be       <br>
+triggered for unknown words, "Learn this!" But,       <br>
+unable to test words, to speak, most words heard       <br>
+will never make it out of dogs’ waste-basket attractors.     <br>
+The inability to push their vocabulary wheelchairs, to       <br>
+speak, limits the size of word-attractor arrays for dogs.     <br>      <br>
+
 2:00:27     <br>
 
 <br><hr><br>
 
 
-To facilitate new learning you must open up your mind. Perhaps one way to do this is to move     <br>
+To facilitate new learning you must open up your      <br>
+mind. Perhaps one way to do this is to move     <br>
 in a novel way, and in so doing force your     <br>
-brain into creating new attractors, meanings, predictions, etc. to handle the novel movements that you are asking it to make, and that at first, using its existing attractors, it will fail to do. Repeated practice of the novel movements, will continually create new attractors until the movements are     <br>
-easily handled by the brain. Forcing the brain to focus on new experiences increases the overall plasticity of the brain to learn anything as noted in the book The Brain That Changes Itself by Norman Doidge     <br>
-(2007 New York:Viking, pages 85-87).     <br>
+brain into creating new attractors, meanings,      <br>
+predictions, etc. to handle the novel movements that      <br>
+you are asking it to make, and that at first, using its      <br>
+existing attractors, it will fail to do. Repeated practice      <br>
+of the novel movements, will continually create      <br>
+new attractors until the movements are     <br>
+easily handled by the brain. Forcing the brain to focus      <br>
+on new experiences increases the overall plasticity of      <br>
+the brain to learn anything as noted in the book      <br>
+The Brain That Changes Itself by Norman Doidge     <br>
+(2007 New York:Viking, pages 85-87).     <br>     <br>
+
 02.03.27     <br>
 
 <br><hr><br>
 
+The difference between learning that A) we already      <br>
+know something and B) we don’t know something,      <br>
+is a cyclical process of repeated, focused failures.     <br>     <br>
 
-The difference between learning that A) we already know something and B) we don’t know something, is a cyclical process of repeated, focused failures.     <br>
 1) Invoke the orienting response to concentrate     <br>
 all available brain power on the     <br>
-2) predict/imagine > act/test > sense > learn cycle. 3) The object/event/etc. focused upon must continually     <br>
-overcome capture by any existing attractor, predictions, imaginings put up by the brain. 4) Only after repeated, focused failure cycles to predict/imagine > act/test > sense > learn     <br>
-will the brain generate a new attractor, prediction, imagining and thus begin to learn something new!     <br>
+2) predict/imagine > act/test > sense > learn cycle.      <br>
+3) The object/event/etc. focused upon must continually     <br>
+overcome capture by any existing attractor,      <br>
+predictions, imaginings put up by the brain.      <br>
+4) Only after repeated, focused failure cycles to      <br>
+predict/imagine > act/test > sense > learn     <br>
+will the brain generate a new attractor, prediction,      <br>
+imagining and thus begin to learn something new!     <br>     <br>
+
 02.03.27     <br>
 
 <br><hr><br>
 
+The brain has to orient, focus, and fail to predict a      <br>
+novel stimulus to create a new attractor,      <br>
+hypothesis, category, meaning, etc.     <br>
+The brains’ of the natives imagined distant ships to be      <br>
+low clouds, because the images of distant ships on      <br>
+their retinas were not rejected by their cloud      <br>
+attractors. But, as the ships got closer, their cloud     <br>
+attractors did reject the images of ships and crews ...      <br>
+“Hey, those are NOT clouds!”     <br>
+We don’t see ships or clouds. We imagine them.      <br>
+One way to get our brains to imagine better is to pay      <br>
+closer and closer attention,“...NOT clouds!” to fail      <br>
+how our brains imagine, predict, categorize, etc.     <br>
+Push/wheel/drive/etc. your wheelchair!      <br>     <br>
 
-The brain has to orient, focus, and fail to predict a novel stimulus to create a new attractor, hypothesis, category, meaning, etc.     <br>
-The brains’ of the natives imagined distant ships to be low clouds, because the images of distant ships on their retinas were not rejected by their cloud attractors. But, as the ships got closer, their cloud     <br>
-attractors did reject the images of ships and crews ... “Hey, those are NOT clouds!”     <br>
-We don’t see ships or clouds. We imagine them. One way to get our brains to imagine better is to pay closer and closer attention,“...NOT clouds!” to fail how our brains imagine, predict, categorize, etc.     <br>
-Push/wheel/drive/etc. your wheelchair! 1 02.04.26     <br>
+1 02.04.26     <br>
 
 <br><hr><br>
 
-
 Act/Test!     <br>
-Drive in life’s traffic using your brain’s manufactured experience and figure out ways to test it,     <br>
+Drive in life’s traffic using your brain’s      <br>
+manufactured experience and figure out ways to test it,     <br>
 to flip the input coming into your senses,     <br>
-to challenge your balance with novel movements, to pay closer attention,     <br>
+to challenge your balance with novel movements,      <br>
+to pay closer attention,     <br>
 to force your brain to learn,     <br>
 to accommodate,     <br>
 to empathize,     <br>
@@ -619,19 +741,25 @@ to dance without stepping on other’s toes!     <br>
 
 <br><hr><br>
 
+In Dr. Freeman's 1996 *editorial      <br>
+"Happiness Doesn't Come in Bottles:      <br>
+Neuroscientists learn that joy comes through dancing,     <br>
+not drugs," he writes ...     <br>     <br>
 
-In Dr. Freeman's 1996 *editorial "Happiness Doesn't Come in Bottles: Neuroscientists learn that joy comes through dancing,     <br>
-not drugs," he writes ...     <br>
 *available online as of 4/9/13 from sulcus.berkeley.edu/freemanwww/manuscripts/ IE10/97.html     <br>
 
 <br><hr><br>
 
-
 “ Where we humans find joy is in surmounting [the]     <br>
 solipsistic barrier between us     <br>
 and sharing our feelings and comforts.     <br>
-We cannot ever really cross it, but, a bit like neighbors chatting over a fence, we can be together.     <br>
-However, there is more to this communion than mere talking.There is trust, which underlies true friendships and partnerships. ...Trust comes when we are able to predict what other people will do, and we achieve that     <br>
+We cannot ever really cross it, but, a bit like      <br>
+neighbors chatting over a fence, we can be together.     <br>
+However, there is more to this communion      <br>
+than mere talking.There is trust, which underlies      <br>
+true friendships and partnerships.      <br>
+...Trust comes when we are able to predict      <br>
+what other people will do, and we achieve that     <br>
 by repeated cooperative actions.     <br>
 ...We create our own joys,     <br>
 and we feel happiest in learning to trust each other.”     <br>
@@ -641,9 +769,14 @@ and we feel happiest in learning to trust each other.”     <br>
 
 
 I hope this remix and my notes where helpful to you!     <br>
-Push these ideas around for yourself. Present them using your words, images, skits, dances, music, etc. They are very strange, but also very humane, which I     <br>
-learned remixing the original video to create this one!     <br>
-The YouTube description has links to the full talk, and to more talks and papers by Dr. Freeman and other scientists investigating the     <br>
+Push these ideas around for yourself. Present them      <br>
+using your words, images, skits, dances, music, etc.      <br>
+They are very strange, but also very humane, which I     <br>
+learned remixing the original video to create this one!     <br>     <br>
+
+The YouTube description has links to the full talk,      <br>
+and to more talks and papers by Dr. Freeman      <br>
+and other scientists investigating the     <br>
 ideas presented in this video.     <br>
 
 </div>
