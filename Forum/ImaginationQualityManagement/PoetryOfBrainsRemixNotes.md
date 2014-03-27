@@ -308,7 +308,7 @@ a rabbit smelling air.     <br>
   <col align="center">
 <tr>
   <td>Reward     <br>     Banana</td>
-  <td>No Reward     <br>     Air     <img src="https://github.com/HelpGiveThanks/Documentation/blob/master/Forum/ImaginationQualityManagement/PoetryImages/airNO.png"></td>
+  <td>No Reward     <br>     Air     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/airNO.png"></td>
 </tr>
 <tr>
   <td>Banana</td>
