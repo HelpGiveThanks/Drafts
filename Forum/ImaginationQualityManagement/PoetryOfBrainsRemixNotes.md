@@ -303,7 +303,7 @@ a rabbit smelling air.     <br>
 
 <br><hr><br>
 
-<table>
+<table align="center">
   <col align="center">
   <col align="center">
 <tr>
