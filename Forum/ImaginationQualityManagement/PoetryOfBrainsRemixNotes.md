@@ -325,7 +325,7 @@ a rabbit smelling air.     <br>
 	
   <td>Reward = Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/bananaYES.png"></td>
   
-    <td> Consistent <br> patterns <br> before <br> reward <br> switch <br> </td>
+    <td> <u> Consistent </u> <br> patterns <br> before <br> reward <br> switch <br> </td>
 
   <td>No Reward = Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/airNO.png"></td>
   
@@ -334,7 +334,7 @@ a rabbit smelling air.     <br>
 	
   <td>No Reward = Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/bananaNO.png"></td>
   
-    <td> Consistent <br> patterns <br> after <br> reward <br> switch <br> </td>
+    <td> <u> Consistent </u> <br> patterns <br> after <br> reward <br> switch <br> </td>
 
   <td>Reward = Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/airYES.png"></td>
   
