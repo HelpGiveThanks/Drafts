@@ -225,7 +225,7 @@ Department of Biomedical Engineering     <br>
 <br><hr><br>
 
 Vestibular/Balance System     <br>
-<img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/VestibularSystem.svg">     <br>
+<img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/VestibularSystem.png">     <br>
 image: Jordi March i Nogué CC BY-SA 3.0 remixed by David Matson     <br>
 
 <br><hr><br>
