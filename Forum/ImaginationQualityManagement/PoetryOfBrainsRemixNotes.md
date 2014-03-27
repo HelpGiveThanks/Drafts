@@ -376,19 +376,19 @@ Greek Philosopher, Student of Plato, etc.     <br>
 
 
 The light of meaning comes from within,      <br>
-illuminating the fabric of Aquinas's tent. 
-<p style="color:#3EA055">Brains create ideas, hypothesis, imaginings, etc.     </p>
-We push this fabric out against objects in the world.     <br>
-<p style="color:#3EA055">Brains create behaviors to provoke sensory input.     </p>
-The tent’s fabric conforms around these objects.     <br>
-<p style="color:#3EA055">Sensory input pass/fails brains’ ideas, imaginings, etc.     </p>
-Thus, we learn what these objects might look like if       <br>
-the impenetrable barrier of the tent,     <br>
-<p style="color:#3EA055">the solipsistic isolation of our brains,     </p>
-did not separate the fabric encased shapes,     <br>
-<p style="color:#3EA055">did not separate the imagined objects, people, etc,     </p>
-from the actual objects, people, etc. outside the tent,     <br>
-<p style="color:#3EA055">from actual objects, people, etc. in reality.     </p>
+illuminating the fabric of Aquinas's tent.       <br><br>
+<i>     Brains create ideas, hypothesis, imaginings, etc.     </i>     <br><br>
+We push this fabric out against objects in the world.     <br><br>
+<i>     Brains create behaviors to provoke sensory input.     </i>     <br><br>
+The tent’s fabric conforms around these objects.     <br><br>
+<i>     Sensory input pass/fails brains’ ideas, imaginings, etc.     </i>     <br><br>
+Thus, we learn what these objects might look like if      <br>
+the impenetrable barrier of the tent,     <br><br>
+<i>     the solipsistic isolation of our brains,     </i>     <br><br>
+did not separate the fabric encased shapes,     <br><br>
+<i>     did not separate the imagined objects, people, etc,     </i>     <br><br>
+from the actual objects, people, etc. outside the tent,     <br><br>
+<i>     from actual objects, people, etc. in reality.      </i>     <br><br>
 
 01:36:18     <br>
 
