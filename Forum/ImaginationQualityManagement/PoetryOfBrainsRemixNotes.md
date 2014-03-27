@@ -762,7 +762,7 @@ true friendships and partnerships.      <br>
 what other people will do, and we achieve that     <br>
 by repeated cooperative actions.     <br>
 ...We create our own joys,     <br>
-and we feel happiest in learning to trust each other.”     <br>     <br>
+and we feel happiest in learning to trust each other. ”     <br>     <br>
 — Walter J Freeman MD     <br>
 
 <br><hr><br>
