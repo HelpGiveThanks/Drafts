@@ -403,8 +403,8 @@ In other words ...     <br>
 The whole science of neural representation,      <br>
 stimulus/response, input/output, etc.     <br>
 is disproven     <br>
-by the evidence of       <br>
-neural dynamics.     <br>      <br>
+by the evidence       <br>
+of neural dynamics.     <br>      <br>
 
 01.10.33     <br>
 
