@@ -1,6 +1,7 @@
 Below are my notes from YouTube video
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=o_x2RVnlTZs)
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=o_x2RVnlTZs)
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=o_x2RVnlTZs" frameborder="0" allowfullscreen></iframe>
 
 <div align="center">
 	
