@@ -1,176 +1,196 @@
-Below are my notes from  YouTube video
-<dl>
-	<center>
-Amazing Ideas from  
+Below are my notes from     <br>YouTube video
 
-Poetry of Brains  
+<div align="center">
+	
+Amazing Ideas from     <br> <br>
 
-A Talk Given by Walter Freeman
-To Future Salon (futuresalon.org)  
-August 2005 at SAP Labs - Palo Alto, California  
+Poetry of Brains     <br> <br>
+
+A Talk Given by Walter Freeman     <br>
+To Future Salon (futuresalon.org)     <br>
+August 2005 at SAP Labs - Palo Alto, California     <br> <br>
 
 
-available as of March 4, 2013 from  
-sulcus.berkeley.edu/FreemanWWW/Videos/POB/POB.html  
+available as of March 4, 2013 from     <br>
+sulcus.berkeley.edu/FreemanWWW/Videos/POB/POB.html     <br> <br>
 
-Talk Remix and Notes on Talk by David Matson  
-Created 1/09, last update 4/13 - Sacramento, California  
-Creative Commons Attribution-ShareAlike 3.0
-***
-Permission given for non-commercial,  
-attributed uses of Dr. Freeman's work by  
-The Freeman Laboratory  
-for Nonlinear Neurodynamics  
-Department of Molecular & Cell Biology  
-Division of Neurobiology, Donner 101  
-University of California at Berkeley  
-Berkeley CA 94720-3206 USA  
-http://sulcus.berkeley.edu  
+Talk Remix and Notes on Talk by David Matson     <br>
+Created 1/09, last update 4/13 - Sacramento, California     <br>
+Creative Commons Attribution-ShareAlike 3.0     <br>
 
-Permission ≠ Endorsement or Agreement
-***
-PLEASE NOTE  
-There were audio problems  
-on the original video.  
+<br><hr><br>
 
-When there is a loss of audio,  
-a caption box will appear supplying  
-the missing words.  
-</center>
-***
+Permission given for non-commercial,     <br>
+attributed uses of Dr. Freeman's work by     <br>
+The Freeman Laboratory     <br>
+for Nonlinear Neurodynamics     <br>
+Department of Molecular & Cell Biology     <br>
+Division of Neurobiology, Donner 101     <br>
+University of California at Berkeley     <br>
+Berkeley CA 94720-3206 USA     <br>
+http://sulcus.berkeley.edu     <br> <br>
+
+Permission ≠ Endorsement or Agreement      <br>
+
+<br><hr><br>
+
+PLEASE NOTE     <br>
+There were audio problems     <br>
+on the original video.     <br> <br>
+
+When there is a loss of audio,     <br>
+a caption box will appear supplying     <br>
+the missing words.     <br>
+
+</div>
+
+<br><hr><br>
+
 Preview of Ideas 
 
 1. Brains are illogical.
-2. All we know is an illusion created by our brains.  
-Sensing (seeing, hearing, smelling, tasting, etc.) is  
-impossible.The idea of neural representation,  
+2. All we know is an illusion created by our brains.     <br>
+Sensing (seeing, hearing, smelling, tasting, etc.) is     <br>
+impossible.The idea of neural representation,     <br>
 stimulus/response, input/output, etc. is false.
-3. Our illusion of reality is updated as we move our  
-bodies, provoking responses from reality that  
-impact our senses, which then pass/fails the  
-current illusion, causing the brain to keep it,  
-update it, or create a new one = learn.  
-4. To share experiences is impossible, but if we  
-move, test, act together we can force our brains to  
-create similar illusions of reality that feel like  
-shared experiences, and help us to create trust.  
-***
-<center>
-Time code numbers on note slides  
-reference an outtake's starting position  
-on the 133 minute source video.  
+3. Our illusion of reality is updated as we move our     <br>
+bodies, provoking responses from reality that     <br>
+impact our senses, which then pass/fails the     <br>
+current illusion, causing the brain to keep it,     <br>
+update it, or create a new one = learn.     <br>
+4. To share experiences is impossible, but if we     <br>
+move, test, act together we can force our brains to     <br>
+create similar illusions of reality that feel like     <br>
+shared experiences, and help us to create trust.     <br>
 
-The first outtake starts 39 minutes  
-and 4 seconds into the source video.  
+<br><hr><br>
 
-Let's watch it now.  
+<div align="center">
+Time code numbers on note slides     <br>
+reference an outtake's starting position     <br>
+on the 133 minute source video.     <br> <br>
 
-00.39.04  
-***
+The first outtake starts 39 minutes     <br>
+and 4 seconds into the source video.     <br> <br>
 
-Brains are not logical.  
+Let's watch it now.     <br> <br>
 
-Brain activity is not like binary digits  
-that can be rendered into logic gates  
-and Boolean algebra (algebraic notation  
-for representing logical propositions). 
+00.39.04     <br>
 
-Brain activity is instead rather  
-wicked looking, noisy, and trashy.  
+<br><hr><br>
 
-00.39.04  
-***
+Brains are not logical.     <br> <br>
 
-Brains are dynamic systems that learn by testing,  
-acting, moving their bodies, etc.,  
-which Dr. Freeman will illustrate  
-in the next two examples.  
+Brain activity is not like binary digits     <br>
+that can be rendered into logic gates     <br>
+and Boolean algebra (algebraic notation     <br>
+for representing logical propositions).     <br>
 
-The first example comes from the work of  
-Jean Pierre Flourens (1794-1867)  
-French physiologist, founder of experimental  
-brain science, discoverer of chloroform anesthesia,  
-and more ...  
+Brain activity is instead rather     <br>
+wicked looking, noisy, and trashy.     <br> <br>
 
-*Please see en.wikipedia.org for more info on all the  
-people Dr. Freeman gives credit to during his talk.*  
+00.39.04     <br>
 
-00.39.04  
-***
+<br><hr><br>
 
-Hans-Lukas Teuber (1916-1977)  
-from MIT: Massachusetts Institute of Technology  
-Head of the Department of Psychology (1961-1977)  
+Brains are dynamic systems that learn by testing,     <br>
+acting, moving their bodies, etc.,     <br>
+which Dr. Freeman will illustrate     <br>
+in the next two examples.     <br> <br>
 
-00.39.04  
-***
+The first example comes from the work of     <br>
+Jean Pierre Flourens (1794-1867)     <br>
+French physiologist, founder of experimental     <br>
+brain science, discoverer of chloroform anesthesia,     <br>
+and more ...     <br> <br>
 
-Professor Teuber spoke about  
-his upside-down, prism-glasses experiment at  
-a symposium held in Poland in 1971:  
+*Please see en.wikipedia.org for more info on all the     <br>
+people Dr. Freeman gives credit to during his talk.*     <br> <br>
 
-"In fact in one version of the basic experiment, two   
-men are exposed to a normal environment wearing  
-identical prismatic spectacles; one walks actively  
-about while pushing the other over the same path  
-in a wheelchair. At the end of the hour the active  
-observer has almost fully adapted [functions normally],  
-whereas the passive observer has not adapted at all."  
+00.39.04     <br>
 
-Teuber, Hans-Lukas. "Unity and diversity of frontal lobe  
-functions." Acta Neurobiologiae Experimentalis (The  
-Polish neuroscience quarterly) 32.2 (1972): 615-656.  
-Retrieved 4/8/13 from ane.pl/pdf/3236.pdf 
-***
+<br><hr><br>
 
-The cortex of Professor Teuber's star student  
-learned to adapt to quick flips of the prism glasses,  
-allowing him to predict Cambridge traffic flipped  
-upside-down, right-side-up, upside-down, etc. as he  
-drove thru this traffic on a speeding motorcycle!  
-***
 
-Brains learn by predicting what is going to happen  
-as a result of their own actions, actions that provoke  
-sensory input to pass/fail said predictions = learning.  
+Hans-Lukas Teuber (1916-1977)     <br>
+from MIT: Massachusetts Institute of Technology     <br>
+Head of the Department of Psychology (1961-1977)     <br> <br>
 
-1) Brains imagine/predict the results of an action.  
-2) Brains make the body act to test a prediction.  
-3) Sensory information pass/fails the prediction.  
-4) Brains learn by continually cycling thru steps 1- 3.  
+00.39.04     <br>
 
-The reverse stimulus/response cycle is false:  
-1) Sense information. 2) Learn. 3) Respond/React to it.  
+<br><hr><br>
 
-Those (active) pushing the wheelchairs learned,  
-while the (passive) pushed did not learn anything.  
+Professor Teuber spoke about     <br>
+his upside-down, prism-glasses experiment at     <br>
+a symposium held in Poland in 1971:     <br> <br>
 
-Predict/Imagine > Act/Test > Sense > Learn!  
-NOT Sense > Learn > React  
+"In fact in one version of the basic experiment, two     <br> 
+men are exposed to a normal environment wearing     <br>
+identical prismatic spectacles; one walks actively     <br>
+about while pushing the other over the same path     <br>
+in a wheelchair. At the end of the hour the active     <br>
+observer has almost fully adapted [functions normally],     <br>
+whereas the passive observer has not adapted at all."     <br> <br>
 
-00.39.04
-***
+Teuber, Hans-Lukas. "Unity and diversity of frontal lobe     <br>
+functions." Acta Neurobiologiae Experimentalis (The     <br>
+Polish neuroscience quarterly) 32.2 (1972): 615-656.     <br>
+Retrieved 4/8/13 from ane.pl/pdf/3236.pdf     <br>
 
-Sensory Substitution  
+<br><hr><br>
 
-The brains of the wheelchair-pushed participants failed  
-to adapt to an upside-down world.  For example, passive-  
-prism-glass wearers’ know logically that dropped balls fall  
-down, but their unadapted brains predict that dropped  
-balls go up in an upside-down world, and so when first  
-allowed to become active, to test, these individuals with  
-unadapted brains will reach up to catch dropped balls.  
+The cortex of Professor Teuber's star student     <br>
+learned to adapt to quick flips of the prism glasses,     <br>
+allowing him to predict Cambridge traffic flipped     <br>
+upside-down, right-side-up, upside-down, etc. as he     <br>
+drove thru this traffic on a speeding motorcycle!     <br>
 
-Brains are not logical, and use the senses <u>not to inform  
-themselves,</u> but to test their imaginings/predictions/etc.  
+<br><hr><br>
 
-Given that our brains <u>only use our senses</u> to pass/fail  
-imagined experiences during active tests, we can make  
-the scientific prediction that brains do not need  
-eyes to see, ears to hear, etc.!  
+Brains learn by predicting what is going to happen     <br>
+as a result of their own actions, actions that provoke     <br>
+sensory input to pass/fail said predictions = learning.     <br> <br>
 
-00.55.48
-***
+1) Brains imagine/predict the results of an action.     <br>
+2) Brains make the body act to test a prediction.     <br>
+3) Sensory information pass/fails the prediction.     <br>
+4) Brains learn by continually cycling thru steps 1- 3.     <br> <br>
+
+The reverse stimulus/response cycle is false:     <br>
+1) Sense information. 2) Learn. 3) Respond/React to it.     <br> <br>
+
+Those (active) pushing the wheelchairs learned,     <br>
+while the (passive) pushed did not learn anything.     <br> <br>
+
+Predict/Imagine > Act/Test > Sense > Learn!     <br>
+NOT Sense > Learn > React     <br> <br>
+
+00.39.04     <br>
+
+<br><hr><br>
+
+Sensory Substitution     <br> <br>
+
+The brains of the wheelchair-pushed participants failed     <br>
+to adapt to an upside-down world. For example, passive-     <br>
+prism-glass wearers’ know logically that dropped balls fall     <br>
+down, but their unadapted brains predict that dropped     <br>
+balls go up in an upside-down world, and so when first     <br>
+allowed to become active, to test, these individuals with     <br>
+unadapted brains will reach up to catch dropped balls.     <br> <br>
+
+Brains are not logical, and use the senses <u>not to inform     <br>
+themselves,</u> but to test their imaginings/predictions/etc.     <br> <br>
+
+Given that our brains <u>only use our senses</u> to pass/fail     <br>
+imagined experiences during active tests, we can make     <br>
+the scientific prediction that brains do not need     <br>
+eyes to see, ears to hear, etc.!     <br> <br>
+
+00.55.48     <br>
+
+<br><hr><br>
+
 Sensory Substitution Theory Brains use sensory organs to test their imagined ideas of the world, not to sense (to see, hear, feel, etc.) the world,
 and, so, are able to use one sense to do the job of another.
 Sensory Substitution Use — Substitute a sense that is not working for one that is = see with your ears!
@@ -334,5 +354,4 @@ I hope this remix and my notes where helpful to you!
 Push these ideas around for yourself. Present them using your words, images, skits, dances, music, etc. They are very strange, but also very humane, which I
 learned remixing the original video to create this one!
 The YouTube description has links to the full talk, and to more talks and papers by Dr. Freeman and other scientists investigating the ideas presented in this video.
-</center>
-</dl>
+</div>
