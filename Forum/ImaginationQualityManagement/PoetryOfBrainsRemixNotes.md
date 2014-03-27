@@ -1,5 +1,7 @@
 Below are my notes from YouTube video
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=o_x2RVnlTZs)
+
 <div align="center">
 	
 Amazing Ideas from     <br> <br>
@@ -191,12 +193,15 @@ eyes to see, ears to hear, etc.!     <br> <br>
 
 <br><hr><br>
 
-<i>     Sensory Substitution Theory     <br>
+<i>     Sensory Substitution Theory     <br>     <br>
+	
 Brains use sensory organs to test their imagined ideas of      <br>
 the world, not to sense (to see, hear, feel, etc.) the world,     <br>
-and, so, are able to use one sense to do the job of another.     </i>     <br>
+and, so, are able to use one sense to do the job of another.     </i>     <br>     <br>
+
 Sensory Substitution Use — Substitute a sense that is       <br>
-not working for one that is = see with your ears!     <br>
+not working for one that is = see with your ears!     <br>     <br>
+
 1) Capture information that the lost sense evolved to       <br>
 detect with artificial sensors like cameras, for example.       <br>
 2) Use a computer to translate the camera’s     <br>
@@ -261,7 +266,7 @@ accelerometers (balance sensors), etc.     <br>     <br>
 we see and feel with our brain.” — Paul Bach-y-Rita      <br>     <br>
 
 Brower, Vicki. “When Mind Meets Machine.” EMBO      <br>
-Reports 6.2 (2005): 108 - 110. Retrieved 4/4/13 from nature.com/embor/journal/v6/n2/full/7400344.html     <br>     <br>
+Reports 6.2 (2005): 108 - 110. Retrieved 4/4/13 from     <br> nature.com/embor/journal/v6/n2/full/7400344.html     <br>     <br>
 
 00.55.48     <br>
 
