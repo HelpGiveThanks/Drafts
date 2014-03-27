@@ -1,5 +1,6 @@
 Below are my notes from  YouTube video
-<center>
+<dl>
+	<center>
 Amazing Ideas from  
 
 Poetry of Brains  
@@ -334,3 +335,4 @@ Push these ideas around for yourself. Present them using your words, images, ski
 learned remixing the original video to create this one!
 The YouTube description has links to the full talk, and to more talks and papers by Dr. Freeman and other scientists investigating the ideas presented in this video.
 </center>
+</dl>
