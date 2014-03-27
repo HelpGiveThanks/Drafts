@@ -231,6 +231,7 @@ image: Jordi March i Nogué CC BY-SA 3.0 remixed by David Matson     <br>
 <br><hr><br>
 
 Feel each of the 3 parts of your balance system at work.     <br>
+<img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/RollYawPitch.png">     <br>
 lean left then right = roll     <br>
 rotate torso left then right = yaw     <br>
 lean forward then backward = pitch     <br>
