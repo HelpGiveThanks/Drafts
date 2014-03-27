@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Below are my notes from     <br>YouTube video
 
 <div align="center">
@@ -46,6 +47,54 @@ the missing words.     <br>
 
 <br><hr><br>
 
+=======
+Below are my notes from  YouTube video
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+	<center>
+Amazing Ideas from  
+
+Poetry of Brains  
+
+A Talk Given by Walter Freeman
+To Future Salon (futuresalon.org)  
+August 2005 at SAP Labs - Palo Alto, California  
+
+
+available as of March 4, 2013 from  
+sulcus.berkeley.edu/FreemanWWW/Videos/POB/POB.html  
+
+Talk Remix and Notes on Talk by David Matson  
+Created 1/09, last update 4/13 - Sacramento, California  
+Creative Commons Attribution-ShareAlike 3.0
+***
+Permission given for non-commercial,  
+attributed uses of Dr. Freeman's work by  
+The Freeman Laboratory  
+for Nonlinear Neurodynamics  
+Department of Molecular & Cell Biology  
+Division of Neurobiology, Donner 101  
+University of California at Berkeley  
+Berkeley CA 94720-3206 USA  
+http://sulcus.berkeley.edu  
+
+Permission ≠ Endorsement or Agreement
+***
+PLEASE NOTE  
+There were audio problems  
+on the original video.  
+
+When there is a loss of audio,  
+a caption box will appear supplying  
+the missing words.  
+</center>
+***
+>>>>>>> FETCH_HEAD
 Preview of Ideas 
 
 1. Brains are illogical.
@@ -354,4 +403,8 @@ I hope this remix and my notes where helpful to you!
 Push these ideas around for yourself. Present them using your words, images, skits, dances, music, etc. They are very strange, but also very humane, which I
 learned remixing the original video to create this one!
 The YouTube description has links to the full talk, and to more talks and papers by Dr. Freeman and other scientists investigating the ideas presented in this video.
+<<<<<<< HEAD
 </div>
+=======
+</center>
+>>>>>>> FETCH_HEAD
