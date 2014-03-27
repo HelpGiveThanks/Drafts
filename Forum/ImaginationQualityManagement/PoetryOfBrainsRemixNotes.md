@@ -303,6 +303,7 @@ EEG recording of      <br>
 a rabbit smelling air.     <br>
 
 <br><hr><br>
+<style>
 div.centered 
 {
     text-align: center;
@@ -312,15 +313,15 @@ div.centered table
     margin: 0 auto; 
     text-align: left;
 }
-
+</style>
 
 <div class="centered">
-<table width="200" style="margin-left:auto;margin-right:auto">
+<table>
   <col align="center">
   <col align="center">
 <tr>
-  <td>Reward     <br>     Banana</td>
-  <td>No Reward     <br>     Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/airNO.png"></td>
+  <td  class="centered">Reward     <br>     Banana</td>
+  <td  class="centered">No Reward     <br>     Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/airNO.png"></td>
 </tr>
 <tr>
   <td>Banana</td>
