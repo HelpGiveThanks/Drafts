@@ -1,7 +1,5 @@
-Below are my notes from YouTube video
+<div align="center">
 
-https://www.youtube.com/watch?v=o_x2RVnlTZs
-	
 Amazing Ideas from     <br> <br>
 
 Poetry of Brains     <br> <br>
