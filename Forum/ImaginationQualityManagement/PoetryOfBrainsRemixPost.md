@@ -1,4 +1,4 @@
-Please let me know what you think of the ideas in this talk!
+Please let me know what you think of the ideas in this talk on the HelpGiveThanks Forum http://helpgivethanks.org/forum/discussion/14/poetry-of-brains-remix !
 https://www.youtube.com/watch?v=o_x2RVnlTZs  
 Read, edit, rewrite, reuse my notes seen in the movie and here:  
 Notes — https://github.com/HelpGiveThanks/Documentation/blob/master/Forum/ImaginationQualityManagement/PoetryOfBrainsRemixNotes.md  
