@@ -1,9 +1,8 @@
 Please let me know what you think of the ideas in this talk!
 https://www.youtube.com/watch?v=o_x2RVnlTZs  
-Read, edit, rewrite, reuse my notes seen in the movie and this initial forum post:  
+Read, edit, rewrite, reuse my notes seen in the movie and this post:  
 Notes — https://github.com/HelpGiveThanks/Documentation/blob/master/Forum/ImaginationQualityManagement/PoetryOfBrainsRemixNotes.md  
 Post — https://github.com/HelpGiveThanks/Documentation/blob/master/Forum/ImaginationQualityManagement/PoetryOfBrainsRemixPost.md   
-
 "The whole science of neural representation [the stimulus response theory] is disproven by the evidence of neural dynamics," Walter Freeman demonstrates in his talk (last link below) with compelling evidence from years of painstaking research by him and his colleagues at his UC Berkeley lab: The Freeman Laboratory for Nonlinear Neurodynamics.  The talk and even more helpful Q and A session following it, will provide many insights into Freeman's work about how our solipsistic brains work.  
 
 The maps of brain activity, shown in the remix that Freeman referrers to during his talk, not only disprove the science of neural representation, but are the foundation, I believe, of a scientific revolution greater than Copernicus's.  Freeman's evidence shows that rather than our species (or any species with brains) revolving around the same perceived truth, each brain instead makes up its own imaginary reality (solipsism).  To learn, and to share knowledge, we must work together (dance together notes Freeman) to fail our imaginary realities faster, and faster in order to conform better and better to what is actually real (to where our toes — while dancing — actually are).  
@@ -11,9 +10,9 @@ The maps of brain activity, shown in the remix that Freeman referrers to during 
 It is truly, truly, truly amazing to think that each of us has the brain power to actually create a populated three-dimensional world so realistically that we cannot help but be fooled into believing that we are seeing, not creating, not imagining everything and everyone!  Freeman's and his laboratory colleagues' work in biology and medicine, and the supporting work of many others like Paul Cisek in computer science and artificial intelligence, demands that we become a lot more forgiving of ourselves and all others, and lot more engaged in our own and each others lives: more activity less passivity.  (I especially recommend visiting http://www.cisek.org/pavel and downloading Cisek's paper: Beyond the computer metaphor: Behaviour as interaction (link on this webpage good as of March 5, 2013). 
 
 LINKS TO PAPERS AND ORIGINAL VIDEO
-Among Freeman's papers of great relevance to this talk is his paper HAPPINESS DOESN'T COME IN BOTTLES: Neuroscientists learn that joy comes through dancing, not drugs.  You can download it from his lab's website along with many other interesting papers and talks and find out about his many books (my favorite is How Brains Make Up Their Minds): http://sulcus.berkeley.edu.
+Among Freeman's papers of great relevance to this talk is his paper HAPPINESS DOESN'T COME IN BOTTLES: Neuroscientists learn that joy comes through dancing, not drugs.  Download it from his lab's website along with many other interesting papers, books (my favorite is How Brains Make Up Their Minds), and talks: http://sulcus.berkeley.edu.
 
-Happiness paper (fun and relatively easy read for anyone with a greater than high school education / science/non-fiction reader for life / etc.): link valid as of March 5, 2013: http://sulcus.berkeley.edu/freemanwww/manuscripts/IE10/97.html
+Happiness paper direct link valid as of March 5, 2013: http://sulcus.berkeley.edu/freemanwww/manuscripts/IE10/97.html
 
 Neural representation is disproven paper with amazing evidence (difficult but satisfying read with a greater than high school education / science/non-fiction reader for life / etc.): A NEUROBIOLOGICAL THEORY OF MEANING IN PERCEPTION. PART I: INFORMATION AND MEANING IN NONCONVERGENT AND NONLOCAL BRAIN DYNAMICS: link valid as of March 5, 2013: http://sulcus.berkeley.edu/wjf/AN_Part1_Intro_Preprint.pdf.
 
