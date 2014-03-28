@@ -2,7 +2,7 @@ Please let me know what you think of the ideas in this talk!
 https://www.youtube.com/watch?v=o_x2RVnlTZs  
 Read, edit, rewrite, reuse my notes seen in the movie and this initial forum post:  
 Notes — https://github.com/HelpGiveThanks/Documentation/blob/master/Forum/ImaginationQualityManagement/PoetryOfBrainsRemixNotes.md  
-Post — https://github.com/HelpGiveThanks/Documentation/blob/master/Forum/ImaginationQualityManagement/PoetryOfBrainsRemixYouTubeDescriptiony.md  
+Post — https://github.com/HelpGiveThanks/Documentation/blob/master/Forum/ImaginationQualityManagement/PoetryOfBrainsRemixPost.md   
 
 "The whole science of neural representation [the stimulus response theory] is disproven by the evidence of neural dynamics," Walter Freeman demonstrates in his talk (last link below) with compelling evidence from years of painstaking research by him and his colleagues at his UC Berkeley lab: The Freeman Laboratory for Nonlinear Neurodynamics.  The talk and even more helpful Q and A session following it, will provide many insights into Freeman's work about how our solipsistic brains work.  
 
