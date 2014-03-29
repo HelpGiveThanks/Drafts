@@ -227,13 +227,13 @@ Department of Biomedical Engineering     <br>
 <br><hr><br>
 
 Vestibular/Balance System     <br>
-<img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/VestibularSystem.png">     <br>
+<img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/VestibularSystem.png">     <br>
 image: Jordi March i Nogué CC BY-SA 3.0 remixed by David Matson     <br>
 
 <br><hr><br>
 
 Feel each of the 3 parts of your balance system at work.     <br>
-<img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/RollYawPitch.png">     <br>
+<img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/RollYawPitch.png">     <br>
 GREEN lean left then right = roll     <br>
 RED rotate torso left then right = yaw     <br>
 BLUE lean forward then backward = pitch     <br>
@@ -241,12 +241,12 @@ BLUE lean forward then backward = pitch     <br>
 <br><hr><br>
 
 Dual-axis Accelerometer Electronic Balance System     <br>
-<img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/Accelerometer.png">     <br>
+<img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/VestibularSystem.pngAccelerometer.png">     <br>
 image: CC BY-SA 3.0 learn.parallax.com/KickStart/28017     <br>
 
 <br><hr><br>
 
-<img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/Wafer.png">     <br>
+<img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/Wafer.png">     <br>
 
 <br><hr><br>
 
@@ -310,9 +310,9 @@ a rabbit smelling air.     <br>
   <col align="center">
 <tr>
 	
-  <td>Reward     <br>     Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/bananaYES.png"></td>
+  <td>Reward     <br>     Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/bananaYES.png"></td>
 
-  <td>No Reward     <br>     Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/airNO.png"></td>
+  <td>No Reward     <br>     Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/airNO.png"></td>
   
 </tr>
 </table>
@@ -325,20 +325,20 @@ a rabbit smelling air.     <br>
   <col align="center">
 <tr>
 	
-  <td>Reward = Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/bananaYES.png"></td>
+  <td>Reward = Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/bananaYES.png"></td>
   
     <td> <u> Consistent </u> <br> patterns <br> before <br> reward <br> switch <br> </td>
 
-  <td>No Reward = Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/airNO.png"></td>
+  <td>No Reward = Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/airNO.png"></td>
   
 </tr>
 <tr>
 	
-  <td>No Reward = Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/bananaNO.png"></td>
+  <td>No Reward = Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/bananaNO.png"></td>
   
     <td> <u> Consistent </u> <br> patterns <br> after <br> reward <br> switch <br> </td>
 
-  <td>Reward = Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/airYES.png"></td>
+  <td>Reward = Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/airYES.png"></td>
   
 </tr>
 </table>
@@ -351,9 +351,9 @@ a rabbit smelling air.     <br>
   <col align="center">
 <tr>
 	
-  <td>Reward = Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/bananaYES.png"></td>
+  <td>Reward = Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/bananaYES.png"></td>
 
-  <td>No Reward = Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/airNO.png"></td>
+  <td>No Reward = Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/airNO.png"></td>
   
   <td rowspan="2"> The information/scents coming into the nose cannot be responsible for the patterns/meanings generated by the brain, otherwise as with the symbols for (spelling of)  ‘banana’ and ‘air’, the brain patterns too should have remained static when the association of a reward (green) was switched to air scents.     <br>      <br> 
   
@@ -362,9 +362,9 @@ a rabbit smelling air.     <br>
 </tr>
 <tr>
 	
-  <td>No Reward = Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/bananaNO.png"></td>
+  <td>No Reward = Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/bananaNO.png"></td>
 
-  <td>Reward = Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/airYES.png"></td>
+  <td>Reward = Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/airYES.png"></td>
   
 </tr>
 </table>
@@ -385,16 +385,16 @@ In other words ...     <br>
   
   These patterns did change after the reward switch, thus disproving the theory that brain patterns observed to be  consistently associated with sensory information are representations of sensory (smelled, seen, heard, etc.) information. </td>
 	
-  <td>Reward = Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/bananaYES.png"></td>
+  <td>Reward = Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/bananaYES.png"></td>
 
-  <td>No Reward = Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/airNO.png"></td>
+  <td>No Reward = Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/airNO.png"></td>
   
 </tr>
 <tr>
   
-  <td>No Reward = Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/bananaNO.png"></td>
+  <td>No Reward = Banana     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/bananaNO.png"></td>
 
-  <td>Reward = Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Documentation/master/Forum/ImaginationQualityManagement/PoetryImages/airYES.png"></td>
+  <td>Reward = Air     <br>     <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/airYES.png"></td>
   
 </tr>
 </table>
