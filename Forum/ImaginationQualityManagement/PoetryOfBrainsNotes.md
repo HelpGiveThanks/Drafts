@@ -31,7 +31,7 @@ http://sulcus.berkeley.edu     <br> <br>
 Permission ≠ Endorsement or Agreement      <br>
 
 <br><hr>
-28 seconds<br><br>
+https://www.youtube.com/watch?feature=player_detailpage&v=o_x2RVnlTZs#t=14<br><br>
 
 PLEASE NOTE     <br>
 There were audio problems     <br>
