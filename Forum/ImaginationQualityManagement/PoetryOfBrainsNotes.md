@@ -16,8 +16,8 @@ Talk Remix and Notes on Talk by David Matson     <br>
 Created 1/09, last update 4/13 - Sacramento, California     <br>
 Creative Commons Attribution-ShareAlike 3.0     <br>
 
-<br><hr><br>
-
+<br><hr>
+Movie Note Slide Time = 14 seconds<br><br>
 Permission given for non-commercial,     <br>
 attributed uses of Dr. Freeman's work by     <br>
 The Freeman Laboratory     <br>
@@ -30,7 +30,8 @@ http://sulcus.berkeley.edu     <br> <br>
 
 Permission ≠ Endorsement or Agreement      <br>
 
-<br><hr><br>
+<br><hr>
+28 seconds<br><br>
 
 PLEASE NOTE     <br>
 There were audio problems     <br>
@@ -42,7 +43,8 @@ the missing words.     <br>
 
 </div>
 
-<br><hr><br>
+<br><hr>
+42 seconds<br><br>
 
 Preview of Ideas 
 
@@ -61,9 +63,10 @@ move, test, act together we can force our brains to     <br>
 create similar illusions of reality that feel like     <br>
 shared experiences, and help us to create trust.     <br>
 
-<br><hr><br>
+<br><hr>
 
 <div align="center">
+1 minute 36 seconds<br><br>
 Time code numbers on note slides     <br>
 reference an outtake's starting position     <br>
 on the 133 minute source video.     <br> <br>
@@ -75,7 +78,8 @@ Let's watch it now.     <br> <br>
 
 00.39.04     <br>
 
-<br><hr><br>
+<br><hr>
+2 minutes 54 seconds<br><br>
 
 Brains are not logical.     <br> <br>
 
@@ -89,7 +93,8 @@ wicked looking, noisy, and trashy.     <br> <br>
 
 00.39.04     <br>
 
-<br><hr><br>
+<br><hr>
+3 minutes 12 seconds<br>
 
 Brains are dynamic systems that learn by testing,     <br>
 acting, moving their bodies, etc.,     <br>
@@ -107,7 +112,8 @@ people Dr. Freeman gives credit to during his talk.</i>     <br> <br>
 
 00.39.04     <br>
 
-<br><hr><br>
+<br><hr>
+4 minutes 23 seconds<br><br>
 
 
 Hans-Lukas Teuber (1916-1977)     <br>
@@ -116,7 +122,8 @@ Head of the Department of Psychology (1961-1977)     <br> <br>
 
 00.39.04     <br>
 
-<br><hr><br>
+<br><hr>
+4 minutes 58 seconds<br><br>
 
 Professor Teuber spoke about     <br>
 his upside-down, prism-glasses experiment at     <br>
@@ -135,7 +142,8 @@ functions." Acta Neurobiologiae Experimentalis (The     <br>
 Polish neuroscience quarterly) 32.2 (1972): 615-656.     <br>
 Retrieved 4/8/13 from ane.pl/pdf/3236.pdf     <br>
 
-<br><hr><br>
+<br><hr>
+5 minutes 51 seconds<br><br>
 
 The cortex of Professor Teuber's star student     <br>
 learned to adapt to quick flips of the prism glasses,     <br>
@@ -143,7 +151,8 @@ allowing him to predict Cambridge traffic flipped     <br>
 upside-down, right-side-up, upside-down, etc. as he     <br>
 drove thru this traffic on a speeding motorcycle!     <br>
 
-<br><hr><br>
+<br><hr>
+6 minutes 39 seconds<br><br>
 
 Brains learn by predicting what is going to happen     <br>
 as a result of their own actions, actions that provoke     <br>
@@ -165,7 +174,8 @@ NOT Sense > Learn > React     <br> <br>
 
 00.39.04     <br>
 
-<br><hr><br>
+<br><hr>
+7 minutes 29 seconds<br><br>
 
 Sensory Substitution     <br> <br>
 
@@ -187,7 +197,8 @@ eyes to see, ears to hear, etc.!     <br> <br>
 
 00.55.48     <br>
 
-<br><hr><br>
+<br><hr>
+8 minutes 15 seconds<br><br>
 
 <i>     Sensory Substitution Theory     <br>     <br>
 	
@@ -207,7 +218,8 @@ organ can detect: patterns of sound.     <br>
 patterns of imagined visual experience, against real       <br>
 patterns of light translated into patterns of sound.     <br>
 
-<br><hr><br>
+<br><hr>
+8 minutes 56 seconds<br><br>
 
 Dr. Freeman will now give an example of how      <br>
 brains learn to imagine the experience of balance      <br>
@@ -218,19 +230,22 @@ instead of disease damaged vestibular systems      <br>
 
 00.55.48     <br>
 
-<br><hr><br>
+<br><hr>
+9 minutes 45 seconds<br><br>
 
 Paul Bach-y-Rita (1934-2006)      <br>
 University of Wisconsin      <br>
 Department of Biomedical Engineering     <br>
 
-<br><hr><br>
+<br><hr>
+10 minutes 20 seconds<br><br>
 
 Vestibular/Balance System     <br>
 <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/VestibularSystem.png">     <br>
 image: Jordi March i Nogué CC BY-SA 3.0 remixed by David Matson     <br>
 
-<br><hr><br>
+<br><hr>
+10 minutes 37 seconds<br><br>
 
 Feel each of the 3 parts of your balance system at work.     <br>
 <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/RollYawPitch.png">     <br>
@@ -238,17 +253,20 @@ GREEN lean left then right = roll     <br>
 RED rotate torso left then right = yaw     <br>
 BLUE lean forward then backward = pitch     <br>
 
-<br><hr><br>
+<br><hr>
+11 minutes 39 seconds<br><br>
 
 Dual-axis Accelerometer Electronic Balance System     <br>
 <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/Accelerometer.png">     <br>
 image: CC BY-SA 3.0 learn.parallax.com/KickStart/28017     <br>
 
-<br><hr><br>
+<br><hr>
+11 minutes 53 seconds<br>
 
 <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/Wafer.png">     <br>
 
-<br><hr><br>
+<br><hr>
+13 minutes 11 seconds<br><br>
 
 
 Brains can learn to substitute information coming      <br>
@@ -266,7 +284,8 @@ Reports 6.2 (2005): 108 - 110. Retrieved 4/4/13 from     <br> nature.com/embor/j
 
 00.55.48     <br>
 
-<br><hr><br>
+<br><hr>
+14 minutes 21 seconds<br><br>
 
 
 Brains only create meaning if the stimulus      <br>
@@ -281,14 +300,16 @@ no significance to the animal.     <br>     <br>
 
 01.10.33     <br>
 
-<br><hr><br>
+<br><hr>
+14 minutes 51 seconds<br>
 
 
 Spatial pattern generated      <br>
 from EEG recordings     <br>
 of a rabbit smelling banana.     <br>
 
-<br><hr><br>
+<br><hr>
+15:01<br><br>
 
 
 All diagrams taken from:     <br>
@@ -298,12 +319,14 @@ and nonlocal brain dynamics     <br>
 International Journal of Bifurcation & Chaos      <br>
 [2003] 13: 2493-2511. Walter J Freeman     <br>
 
-<br><hr><br>
+<br><hr>
+15:19<br><br>
 
 EEG recording of      <br>
 a rabbit smelling air.     <br>
 
-<br><hr><br>
+<br><hr>
+15:35<br><br>
 
 <table>
   <col align="center">
@@ -317,7 +340,8 @@ a rabbit smelling air.     <br>
 </tr>
 </table>
 
-<br><hr><br>
+<br><hr>
+15:53<br><br>
 
 <table>
   <col align="center">
@@ -343,7 +367,8 @@ a rabbit smelling air.     <br>
 </tr>
 </table>
 
-<br><hr><br>
+<br><hr>
+16:21<br><br>
 
 <table>
   <col align="center">
@@ -369,11 +394,13 @@ a rabbit smelling air.     <br>
 </tr>
 </table>
 
-<br><hr><br>
+<br><hr>
+16:55<br><br>
 
 In other words ...     <br>
 
-<br><hr><br>
+<br><hr>
+16:58<br><br>
 
 <table>
   <col align="center">
@@ -399,7 +426,8 @@ In other words ...     <br>
 </tr>
 </table>
 
-<br><hr><br>
+<br><hr>
+17:33<br><br>
 
 The whole science of neural representation,      <br>
 stimulus/response, input/output, etc.     <br>
@@ -409,7 +437,8 @@ of neural dynamics.     <br>      <br>
 
 01.10.33     <br>
 
-<br><hr><br>
+<br><hr>
+17:44<br><br>
 
 
 All that brains can know is what they hypothesize       <br>
@@ -428,7 +457,8 @@ Brains are solipsistic.     <br>      <br>
 
 01.10.33     <br>
 
-<br><hr><br>
+<br><hr>
+18:53<br><br>
 
 
 Does a test based on the brain’s imagination       <br>
@@ -446,7 +476,8 @@ and how well its creations have tested.     <br>      <br>
 
 01:12:49     <br>
 
-<br><hr><br>
+<br><hr>
+19:53<br><br>
 
 Brains are continually engaged in     <br>
 1) predicting the future (creating hypotheses),      <br>
@@ -465,22 +496,26 @@ coming into the senses from reality.     <br>     <br>
 
 01:14:30     <br>
 
-<br><hr><br>
+<br><hr>
+21:42<br><br>
 
 John von Neumann (1903–1957)      <br>
 University of Berlin      <br>
 Princeton University      <br>
 Institute for Advanced Study      <br>
-Site Y, Los Alamos     <br>
+Site Y, Los Alamos     <br>     <br>
+The Computer and the Brain     <br>
 
-<br><hr><br>
+<br><hr>
+22:34<br><br>
 
 Brains are dynamical systems     <br>
 that do not use a language of any kind.     <br>     <br>
 
 01.33.19     <br>
 
-<br><hr><br>
+<br><hr>
+23:46<br><br>
 
 
 Brains’ dynamic systems     <br>
@@ -501,7 +536,8 @@ produce useful language artifacts.      <br>     <br>
 
 01:33:19     <br>
 
-<br><hr><br>
+<br><hr>
+24:31<br><br>
 
 
 Plato (428 – 348 BC)     <br>
@@ -509,12 +545,16 @@ Greek Philosopher, Student of Socrates, etc.     <br>
 Aristotle (384 – 322 BC)     <br>
 Greek Philosopher, Student of Plato, etc.     <br>
 
-<br><hr><br>
+<br><hr>
+25:49<br><br>
 
 
-Thomas Aquinas (1225–1274) Italian philosopher,Theologian, and Dominican Friar     <br>
+Thomas Aquinas (1225–1274)      <br>
+Italian philosopher,Theologian,      <br>
+and Dominican Friar     <br>
 
-<br><hr><br>
+<br><hr>
+26:33<br><br>
 
 
 The light of meaning comes from within,      <br>
@@ -534,21 +574,24 @@ from the actual objects, people, etc. outside the tent,     <br>
 
 01:36:18     <br>
 
-<br><hr><br>
+<br><hr>
+27:14<br><br>
 
 Brains are intentional creators of meaning,       <br>
 not passive receivers of information.     <br>      <br>
 
 01.36.18     <br>
 
-<br><hr><br>
+<br><hr>
+28:12<br><br>
 
 
 Jean Piaget (1896 - 1980)      <br>
 Swiss Developmental Psychologist      <br>
 and Philosopher     <br>
 
-<br><hr><br>
+<br><hr>
+28:21<br><br>
 
 The light of meaning comes from within,     <br>
 1) creating an array of attractors      <br>
@@ -567,7 +610,8 @@ reality’s information.     <br>      <br>
 
 01:38:00     <br>
 
-<br><hr><br>
+<br><hr>
+28:54<br><br>
 
 We know only by imagining     <br>
 and doing what we imagine is right,     <br>
@@ -583,7 +627,8 @@ to experience only what they imagine, never what is.     <br>     <br>
 
 01:38:00     <br>
 
-<br><hr><br>
+<br><hr>
+31:36<br><br>
 
 
 The first layer of cortex in our ears, eyes, skin, etc.      <br>
@@ -602,14 +647,16 @@ bottom, and the toddler points, and says, “dog!”     <br>
 Brains can only experience what they create (dog),      <br>
 not what the senses sense (cat). 1:45:16     <br>
 
-<br><hr><br>
+<br><hr>
+32:38<br><br>
 
 
 Friedrich Nietzsche (1844 – 1900)      <br>
 German philosopher, poet, composer,      <br>
 cultural critic, etc.     <br>
 
-<br><hr><br>
+<br><hr>
+34:27<br><br>
 
 
 Everyone is equal in their inability     <br>
@@ -629,7 +676,8 @@ our imagined experiences of what is real.     <br>     <br>
 
 01:50:40     <br>
 
-<br><hr><br>
+<br><hr>
+35:20<br><br>
 
 Our excess focus on individual achievement is a      <br>
 denial of our brains’ core need to have others      <br>
@@ -649,7 +697,8 @@ even when we are together.     <br>     <br>
 
 01:58:45     <br>
 
-<br><hr><br>
+<br><hr>
+38:32<br><br>
 
 Brains create new categories/attractors/meanings/etc.       <br>
 in response to A) failures by their existing attractors       <br>
@@ -669,7 +718,8 @@ speak, limits the size of word-attractor arrays for dogs.     <br>      <br>
 
 2:00:27     <br>
 
-<br><hr><br>
+<br><hr>
+40:15<br><br>
 
 
 To facilitate new learning you must open up your      <br>
@@ -689,7 +739,8 @@ The Brain That Changes Itself by Norman Doidge     <br>
 
 02.03.27     <br>
 
-<br><hr><br>
+<br><hr>
+41:43<br><br>
 
 The difference between learning that A) we already      <br>
 know something and B) we don’t know something,      <br>
@@ -708,7 +759,8 @@ imagining and thus begin to learn something new!     <br>     <br>
 
 02.03.27     <br>
 
-<br><hr><br>
+<br><hr>
+43:15<br><br>
 
 The brain has to orient, focus, and fail to predict a      <br>
 novel stimulus to create a new attractor,      <br>
@@ -727,7 +779,8 @@ Push/wheel/drive/etc. your wheelchair!      <br>     <br>
 
 02.04.26     <br>
 
-<br><hr><br>
+<br><hr>
+44:02<br><br>
 
 Act/Test!     <br>
 Drive in life’s traffic using your brain’s      <br>
@@ -740,7 +793,8 @@ to accommodate,     <br>
 to empathize,     <br>
 to dance without stepping on other’s toes!     <br>
 
-<br><hr><br>
+<br><hr>
+45:52<br><br>
 
 In Dr. Freeman's 1996 *editorial      <br>
 "Happiness Doesn't Come in Bottles:      <br>
@@ -749,7 +803,8 @@ not drugs," he writes ...     <br>     <br>
 
 *available online as of 4/9/13 from sulcus.berkeley.edu/freemanwww/manuscripts/ IE10/97.html     <br>
 
-<br><hr><br>
+<br><hr>
+45:07<br><br>
 
 “ Where we humans find joy is in surmounting [the]     <br>
 solipsistic barrier between us     <br>
@@ -766,7 +821,8 @@ by repeated cooperative actions.     <br>
 and we feel happiest in learning to trust each other. ”     <br>     <br>
 — Walter J Freeman MD     <br>
 
-<br><hr><br>
+<br><hr>
+45:49<br><br>
 
 
 I hope this remix and my notes where helpful to you!     <br>
