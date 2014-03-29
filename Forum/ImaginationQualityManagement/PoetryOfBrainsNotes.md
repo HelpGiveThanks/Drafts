@@ -17,7 +17,7 @@ Created 1/09, last update 4/13 - Sacramento, California     <br>
 Creative Commons Attribution-ShareAlike 3.0     <br>
 
 <br><hr>
-Start time of slide in remix = 14 secondst=14<br><br>
+Start time of slide in remix = 14 seconds<br><br>
 Permission given for non-commercial,     <br>
 attributed uses of Dr. Freeman's work by     <br>
 The Freeman Laboratory     <br>
