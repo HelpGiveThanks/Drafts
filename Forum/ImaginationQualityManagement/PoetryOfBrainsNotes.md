@@ -241,7 +241,7 @@ BLUE lean forward then backward = pitch     <br>
 <br><hr><br>
 
 Dual-axis Accelerometer Electronic Balance System     <br>
-<img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/VestibularSystem.pngAccelerometer.png">     <br>
+<img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/Accelerometer.png">     <br>
 image: CC BY-SA 3.0 learn.parallax.com/KickStart/28017     <br>
 
 <br><hr><br>
