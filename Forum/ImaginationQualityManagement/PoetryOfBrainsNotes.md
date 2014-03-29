@@ -17,7 +17,7 @@ Created 1/09, last update 4/13 - Sacramento, California     <br>
 Creative Commons Attribution-ShareAlike 3.0     <br>
 
 <br><hr>
-https://www.youtube.com/watch?feature=player_detailpage&v=o_x2RVnlTZs#t=14<br><br>
+Start time of slide in remix = 14 secondst=14<br><br>
 Permission given for non-commercial,     <br>
 attributed uses of Dr. Freeman's work by     <br>
 The Freeman Laboratory     <br>
@@ -30,7 +30,7 @@ http://sulcus.berkeley.edu     <br> <br>
 
 Permission ≠ Endorsement or Agreement      <br>
 
-https://www.youtube.com/watch?feature=player_detailpage&v=o_x2RVnlTZs#t=14<br><br>
+24 seconds<br><br>
 
 PLEASE NOTE     <br>
 There were audio problems     <br>
