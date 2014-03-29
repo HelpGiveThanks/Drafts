@@ -1,8 +1,8 @@
 Please let me know what you think of the ideas in this talk on the HelpGiveThanks Forum: http://helpgivethanks.org/forum/discussion/14/poetry-of-brains-remix  
 https://www.youtube.com/watch?v=o_x2RVnlTZs  
 Read, edit, rewrite, reuse my notes seen in the movie and here:  
-Notes — https://github.com/HelpGiveThanks/Drafts/blob/master/Forum/ImaginationQualityManagement/PoetryOfBrainsRemixNotes.md  
-Post — https://github.com/HelpGiveThanks/Drafts/blob/master/Forum/ImaginationQualityManagement/PoetryOfBrainsRemixPost.md   
+Notes — https://github.com/HelpGiveThanks/Drafts/blob/master/Forum/ImaginationQualityManagement/PoetryOfBrainsNotes.md  
+Post — https://github.com/HelpGiveThanks/Drafts/blob/master/Forum/ImaginationQualityManagement/PoetryOfBrainsPost.md   
 "The whole science of neural representation [the stimulus response theory] is disproven by the evidence of neural dynamics," Walter Freeman demonstrates in his talk (last link below) with compelling evidence from years of painstaking research by him and his colleagues at his UC Berkeley lab: The Freeman Laboratory for Nonlinear Neurodynamics.  The talk and even more helpful Q and A session following it, will provide many insights into Freeman's work about how our solipsistic brains work.  
 
 The maps of brain activity, shown in the remix that Freeman referrers to during his talk, not only disprove the science of neural representation, but are the foundation, I believe, of a scientific revolution greater than Copernicus's.  Freeman's evidence shows that rather than our species (or any species with brains) revolving around the same perceived truth, each brain instead makes up its own imaginary reality (solipsism).  To learn, and to share knowledge, we must work together (dance together notes Freeman) to fail our imaginary realities faster, and faster in order to conform better and better to what is actually real (to where our toes — while dancing — actually are).  
