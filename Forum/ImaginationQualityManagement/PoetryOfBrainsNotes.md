@@ -17,7 +17,7 @@ Created 1/09, last update 4/13 - Sacramento, California     <br>
 Creative Commons Attribution-ShareAlike 3.0     <br>
 
 <br><hr>
-Start time of slide in remix = 14 seconds<br><br>
+Start time of slide in remix = 00:14<br><br>
 Permission given for non-commercial,     <br>
 attributed uses of Dr. Freeman's work by     <br>
 The Freeman Laboratory     <br>
@@ -30,7 +30,8 @@ http://sulcus.berkeley.edu     <br> <br>
 
 Permission ≠ Endorsement or Agreement      <br>
 
-24 seconds<br><br>
+<br><hr>
+00:24<br><br>
 
 PLEASE NOTE     <br>
 There were audio problems     <br>
@@ -93,7 +94,7 @@ wicked looking, noisy, and trashy.     <br> <br>
 00.39.04     <br>
 
 <br><hr>
-3 minutes 12 seconds<br>
+3:12<br><br>
 
 Brains are dynamic systems that learn by testing,     <br>
 acting, moving their bodies, etc.,     <br>
@@ -112,7 +113,7 @@ people Dr. Freeman gives credit to during his talk.</i>     <br> <br>
 00.39.04     <br>
 
 <br><hr>
-4 minutes 23 seconds<br><br>
+4:23<br><br>
 
 
 Hans-Lukas Teuber (1916-1977)     <br>
@@ -122,7 +123,7 @@ Head of the Department of Psychology (1961-1977)     <br> <br>
 00.39.04     <br>
 
 <br><hr>
-4 minutes 58 seconds<br><br>
+458 seconds<br><br>
 
 Professor Teuber spoke about     <br>
 his upside-down, prism-glasses experiment at     <br>
