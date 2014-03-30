@@ -17,7 +17,8 @@ Created 1/09, last update 4/13 - Sacramento, California     <br>
 Creative Commons Attribution-ShareAlike 3.0     <br>
 
 <br><hr>
-Start time of slide in remix = 00:14<br><br>
+Start time of note slide in remix = 00:14<br><br>
+
 Permission given for non-commercial,     <br>
 attributed uses of Dr. Freeman's work by     <br>
 The Freeman Laboratory     <br>
@@ -44,7 +45,7 @@ the missing words.     <br>
 </div>
 
 <br><hr>
-42 seconds<br><br>
+00:42<br><br>
 
 Preview of Ideas 
 
@@ -66,7 +67,7 @@ shared experiences, and help us to create trust.     <br>
 <br><hr>
 
 <div align="center">
-1 minute 36 seconds<br><br>
+Top time = start time of note slide in remix = 1:36<br><br>
 Time code numbers on note slides     <br>
 reference an outtake's starting position     <br>
 on the 133 minute source video.     <br> <br>
@@ -76,10 +77,10 @@ and 4 seconds into the source video.     <br> <br>
 
 Let's watch it now.     <br> <br>
 
-00.39.04     <br>
+Bottom time = outake start time in source movie = 00.39.04     <br>
 
 <br><hr>
-2 minutes 54 seconds<br><br>
+2:54<br><br>
 
 Brains are not logical.     <br> <br>
 
@@ -123,7 +124,7 @@ Head of the Department of Psychology (1961-1977)     <br> <br>
 00.39.04     <br>
 
 <br><hr>
-458 seconds<br><br>
+4:58<br><br>
 
 Professor Teuber spoke about     <br>
 his upside-down, prism-glasses experiment at     <br>
@@ -143,7 +144,7 @@ Polish neuroscience quarterly) 32.2 (1972): 615-656.     <br>
 Retrieved 4/8/13 from ane.pl/pdf/3236.pdf     <br>
 
 <br><hr>
-5 minutes 51 seconds<br><br>
+5:51<br><br>
 
 The cortex of Professor Teuber's star student     <br>
 learned to adapt to quick flips of the prism glasses,     <br>
@@ -152,7 +153,7 @@ upside-down, right-side-up, upside-down, etc. as he     <br>
 drove thru this traffic on a speeding motorcycle!     <br>
 
 <br><hr>
-6 minutes 39 seconds<br><br>
+6:39<br><br>
 
 Brains learn by predicting what is going to happen     <br>
 as a result of their own actions, actions that provoke     <br>
@@ -175,7 +176,7 @@ NOT Sense > Learn > React     <br> <br>
 00.39.04     <br>
 
 <br><hr>
-7 minutes 29 seconds<br><br>
+7:29<br><br>
 
 Sensory Substitution     <br> <br>
 
@@ -198,7 +199,7 @@ eyes to see, ears to hear, etc.!     <br> <br>
 00.55.48     <br>
 
 <br><hr>
-8 minutes 15 seconds<br><br>
+8:15<br><br>
 
 <i>     Sensory Substitution Theory     <br>     <br>
 	
@@ -219,7 +220,7 @@ patterns of imagined visual experience, against real       <br>
 patterns of light translated into patterns of sound.     <br>
 
 <br><hr>
-8 minutes 56 seconds<br><br>
+8:56<br><br>
 
 Dr. Freeman will now give an example of how      <br>
 brains learn to imagine the experience of balance      <br>
@@ -231,21 +232,21 @@ instead of disease damaged vestibular systems      <br>
 00.55.48     <br>
 
 <br><hr>
-9 minutes 45 seconds<br><br>
+9:45<br><br>
 
 Paul Bach-y-Rita (1934-2006)      <br>
 University of Wisconsin      <br>
 Department of Biomedical Engineering     <br>
 
 <br><hr>
-10 minutes 20 seconds<br><br>
+10:20<br><br>
 
 Vestibular/Balance System     <br>
 <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/VestibularSystem.png">     <br>
 image: Jordi March i Nogué CC BY-SA 3.0 remixed by David Matson     <br>
 
 <br><hr>
-10 minutes 37 seconds<br><br>
+10:37<br><br>
 
 Feel each of the 3 parts of your balance system at work.     <br>
 <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/RollYawPitch.png">     <br>
@@ -254,19 +255,19 @@ RED rotate torso left then right = yaw     <br>
 BLUE lean forward then backward = pitch     <br>
 
 <br><hr>
-11 minutes 39 seconds<br><br>
+11:39<br><br>
 
 Dual-axis Accelerometer Electronic Balance System     <br>
 <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/Accelerometer.png">     <br>
 image: CC BY-SA 3.0 learn.parallax.com/KickStart/28017     <br>
 
 <br><hr>
-11 minutes 53 seconds<br>
+11:53<br>
 
 <img src="https://raw.githubusercontent.com/HelpGiveThanks/Drafts/master/Forum/ImaginationQualityManagement/PoetryOfBrainsImages/Wafer.png">     <br>
 
 <br><hr>
-13 minutes 11 seconds<br><br>
+13:11<br><br>
 
 
 Brains can learn to substitute information coming      <br>
@@ -285,7 +286,7 @@ Reports 6.2 (2005): 108 - 110. Retrieved 4/4/13 from     <br> nature.com/embor/j
 00.55.48     <br>
 
 <br><hr>
-14 minutes 21 seconds<br><br>
+14:21<br><br>
 
 
 Brains only create meaning if the stimulus      <br>
@@ -301,7 +302,7 @@ no significance to the animal.     <br>     <br>
 01.10.33     <br>
 
 <br><hr>
-14 minutes 51 seconds<br>
+14:51<br>
 
 
 Spatial pattern generated      <br>
