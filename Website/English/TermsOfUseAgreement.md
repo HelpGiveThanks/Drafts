@@ -1,5 +1,5 @@
 Draft of http://helpgivethanks.org/apps/thebuggenie/wiki/TermsOfUse
-Please feel free to add discription information for this file above this line and improve the document below this line.
+Please feel free to add description information for this file above this line and improve the document below this line.
 ***
 !HelpGiveThanks.org Terms and Conditions ("Agreement")
 
