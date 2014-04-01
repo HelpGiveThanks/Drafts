@@ -7,8 +7,11 @@ To start using GitHub you just need a GitHub account, but there are some privacy
 
 **Gmail**
 
-https://accounts.google.com/SignUp
-https://en.gravatar.com/site/login
+1. https://accounts.google.com/SignUp
+1. https://en.gravatar.com/site/login  
+1. http://commons.wikimedia.org/wiki/File%3ATomte_(gnom)_(810665390).jpg By Per Ola Wiberg from Ekerö, Sweden (tomte (gnom)) [CC-BY-2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons from Wikimedia Commons
+1. https://github.com/
+
 
 **ActionLog**
 
