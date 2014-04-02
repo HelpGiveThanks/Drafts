@@ -16,7 +16,7 @@ NOTE: These changes have been tested in 3.2.5.2 and should work in 3.2.6.  If yo
 7. **[Forum](#forum)**  
 8. **[Code Changes](#code-changes)**  
 
-HELP IMPROVE THIS POST: The working draft of this post is now on GitHub:   https://github.com/HelpGiveThanks/Documentation/blob/master/Wiki/BugGenie%20changes%20for%20HGT.md   
+HELP IMPROVE THIS POST: The working draft of this post is now on GitHub:   https://github.com/HelpGiveThanks/Drafts/blob/master/Website/BugGenie%26Vanilla-Redesign.md     
 Please do comment and make changes to it OR fork it to create your alternative skin/redesign!
 ##Preface
 The Bug Genie (TBG) 3.2.5 is the most well designed issue tracker I have found, and has enough project management tools to do the job I need done.  The fact that it is opensource (very, very much appreciated!), allowed me to redesign it to my liking.  I hope others will find my redesign ideas useful, and will improve upon them.  
