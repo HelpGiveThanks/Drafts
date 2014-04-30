@@ -159,18 +159,17 @@ Replace the logo code which is the first few lines of code with the following co
 
 
 
-Delete png tags from the word `image_tag to the period = image_tag($issuetype->getIcon() . '_tiny.png' )`.
+Delete png tags from the word `image_tag up to and including the period = image_tag('icon_savedsearch.png') .
 
 Delete this line of code for all pulldown menus.  This action gets rid of triangle to right of menu items with pulldowns:
 ```
-		<?php echo javascript_link_tag(image_tag('tabmenu_dropdown.png', array('class' => 'menu_dropdown'))); ?>
+		<?php echo javascript_link_tag(image_tag('tabmenu_dropdown.png', array('class' => 'menu_dropdown')), array('onmouseover' => "")); ?>
 ```
 
 
 Delete this line of code to remove the Frontpage menu item:
 ```
-		<li<?php if ($tbg_response->getPage() == 'home'): ?> class="selected"<?php endif; ?>>
-		<div><?php echo link_tag(make_url('home'), __('Frontpage')); ?></div></li>
+		<li<?php if ($tbg_response->getPage() == 'home'): ?> class="selected"<?php endif; ?>><div><?php echo link_tag(make_url('home'), __('Frontpage')); ?></div></li>
 ```
 
 
@@ -178,8 +177,7 @@ Change dashboard button:
 ```
 <?php // CHANGE STRING DASHBOARD TO MY DASHBOARD SO USER CAN SEE DIFFERENCE BETWEEN THEIR DASHBOARD BUTTON AND PROJECT DASHBOARD BUTTON ON BUG GENIE FRONTPAGE ?>
 				<?php if (!$tbg_user->isThisGuest() && !TBGSettings::isSingleProjectTracker() && !TBGContext::isProjectContext()): ?>
-					<li<?php if ($tbg_response->getPage() == 'dashboard'): ?> class="selected"<?php endif; ?>><div><?php echo link_tag(make_url('dashboard'),  __('My Dashboard')); ?> </div></li>
-				<?php endif; ?>
+					<li<?php if ($tbg_response->getPage() == 'dashboard'): ?> class="selected"<?php endif; ?>><div><?php echo link_tag(make_url('dashboard'), __('My Dashboard')); ?></div></li>
 ```
 
 
@@ -195,12 +193,18 @@ Add string `My Dashboard` and call it for `User Dashboard` button on main page (
 **public_html/YOURBugGenieFolder/modules/publish/templates/_menustriplinks.inc.php**  
 Remove this code from the file to get rid of wiki icon on menu header: 
 ```
-image_tag('tab_publish.png', array(), false, 'publish')  .
+image_tag('tab_publish.png', array(), false, 'publish') .
 ```
 
 
-and change the top line of code to this
+and change the top line of code from this
 ```
+<li<?php if ($selected_tab == 'wiki'): ?> class="selected"<?php endif; ?>>
+```
+
+to this stop the highlighting of the Wiki button if user is on Overview page
+```
+<?php // changed first line of code adding in the url if question to keep the Overview wiki page from higlighting the wiki button in the header menu. ?>
 <li<?php if (($_SERVER["REQUEST_URI"] != '/YOURBugGenieFolder/thebuggenie/wiki/Overview') && ($selected_tab == 'wiki')): ?> class="selected"<?php endif; ?>>
 ```
 
@@ -210,12 +214,6 @@ Delete this line of code in the file.  This action gets rid of triangle to right
 			<?php echo javascript_link_tag(image_tag('tabmenu_dropdown.png', array('class' => 'menu_dropdown'))); ?>
 ```
 
-
-Do not highlight the Wiki button if user is on Overview page
-```
-<?php // changed first line of code adding in the url if question to keep the Overview wiki page from higlighting the wiki button in the header menu. ?>
-<li<?php if (($_SERVER["REQUEST_URI"] != '/YOURBugGenieFolder/thebuggenie/wiki/Overview') && ($selected_tab == 'wiki')): ?> class="selected"<?php endif; ?>>
-```
 
 
 ###FrontPage = Project Manager Main Page###
