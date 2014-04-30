@@ -132,6 +132,8 @@ I learned a lot customizing The Bug Genie for my website.  Here is what I did to
 
 ###Top Menu Bar###
 **public_html/YOURBugGenieFolder/core/templates/headertop.inc.php**  
+SEE CODE CHANGES HERE: https://github.com/virtualdavid/thebuggenie/blob/branch-32/core/templates/headertop.inc.php
+
 Do the following in this flie:
 
 Replace the logo code which is the first few lines of code with the following code to create the Forum, Overview and Project Management buttons:
@@ -182,16 +184,10 @@ Change dashboard button:
 
 
 
-**public_html/YOURBugGenieFolder/i18n/en_US/strings.inc.php**  
-Add string `My Dashboard` and call it for `User Dashboard` button on main page (/ core / templates / headertop.inc.php) so user can see a difference between project and user dashboard buttons:
-```
- $strings['My Dashboard'] = 'My Dashboard';
-```
-
-
-
-**public_html/YOURBugGenieFolder/modules/publish/templates/_menustriplinks.inc.php**  
-Remove this code from the file to get rid of wiki icon on menu header: 
+**public_html/YOURBugGenieFolder/modules/publish/templates/_menustriplinks.inc.php** 
+SEE CODE CHANGES HERE: https://github.com/virtualdavid/thebuggenie/blob/branch-32/modules/publish/templates/_menustriplinks.inc.php
+ 
+Remove this code from the file to delete wiki icon on menu header: 
 ```
 image_tag('tab_publish.png', array(), false, 'publish') .
 ```
@@ -202,7 +198,7 @@ and change the top line of code from this
 <li<?php if ($selected_tab == 'wiki'): ?> class="selected"<?php endif; ?>>
 ```
 
-to this stop the highlighting of the Wiki button if user is on Overview page
+to this to prevent highlighting of the Wiki button if user is on Overview page
 ```
 <?php // changed first line of code adding in the url if question to keep the Overview wiki page from higlighting the wiki button in the header menu. ?>
 <li<?php if (($_SERVER["REQUEST_URI"] != '/YOURBugGenieFolder/thebuggenie/wiki/Overview') && ($selected_tab == 'wiki')): ?> class="selected"<?php endif; ?>>
@@ -466,6 +462,10 @@ $strings['Your account'] = 'My account';
 $strings['Your projects'] = 'My projects';
 
 $strings['Your saved searches for this project'] = 'My saved searches for this project';
+
+Add string `My Dashboard` and call it for `User Dashboard` button on main page (/ core / templates / headertop.inc.php) so user can see a difference between project and user dashboard buttons:
+
+$strings['My dashboard'] = 'My dashboard';
 
 $strings['Your dashboard'] = 'My dashboard';
 
