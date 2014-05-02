@@ -7,26 +7,32 @@ To start using GitHub you just need a GitHub account, but there are some privacy
 
 **Gmail**
 
+<<<<<<< Local Changes
+<<<<<<< Local Changes
 1. https://accounts.google.com/SignUp
 1. https://en.gravatar.com/site/login  
 1. http://commons.wikimedia.org/wiki/File%3ATomte_(gnom)_(810665390).jpg By Per Ola Wiberg from Ekerö, Sweden (tomte (gnom)) [CC-BY-2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons from Wikimedia Commons
 1. https://github.com/
 
+http://commons.wikimedia.org/wiki/File%3ASleepy_(5468422779).jpg By Berit from Redhill/Surrey, UK (sleepy Uploaded by russavia) [CC-BY-2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons from Wikimedia Commons
+=======
+https://accounts.google.com/SignUp
+https://en.gravatar.com/site/login
+=======
+https://accounts.google.com/SignUp
+https://en.gravatar.com/site/login
+>>>>>>> External Changes
 
+>>>>>>> External Changes
 **ActionLog**
-
-1. Copy most recent commit number from https://github.com/HelpGiveThanks/ActionLog
-2. Copy your improved ActionLog file.
-3. Paste it into your local GitHub ActionLog repository ActionLog sub folder.  The ActionLog consists of three related databases each with their own folder in the main ActionLog repository folder: ActionLog, MyData, Reference. 
-4. Replace file name with copied, most-recent commit number (only need first part of number for identification purposes). 
-5. Compress/Zip file.
-6. Delete uncompressed file.
-7. Go to GitHub App and type reason for new FileMaker file including the full, copied, commit number.
-8. Commit new file.
-9. Sync commit.
-10. Go to GitHub on the web to confirm commit. 
-  
-**Other Solutions: Help, HeartWhisperer, Budget Planner, IQ Raiser**  
-At this time, I have not created an import script and process for these solutions, which like the Library are one database containing both layouts, scripts, and user data.  So, if you improve them, please do what you can to reduce their file size such as removing user data if it will help, compress/zip them, and delete the unzipped file before making your commit.  
+http://www.hpique.com/2013/09/updating-a-fork-directly-from-github/
+https://www.youtube.com/watch?v=bTaFAqJ6bjE
+1. Open your fork on GitHub.
+2. Click on "Pull Requests".
+3. Click on "New Pull Request". By default, GitHub will compare the original with your fork, and there shouldn't be anything to compare if you didn't make any changes.
+4. Click on "switching the base". Now GitHub will compare your fork with the original, and you should see all the latest changes.
+5. Click on "Click to create a pull request for this comparison" and assign a predictable name to your pull request (e.g., "Update from original").
+6. Click on "Send pull request".
+7. Scroll down and click "Merge pull request" and finally "Confirm merge". If your fork didn't have any changes, you will be able to merge it automatically.
   
 
