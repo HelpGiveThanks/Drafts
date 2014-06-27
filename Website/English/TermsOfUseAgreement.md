@@ -4,6 +4,7 @@ Please feel free to add description information for this file above this line an
 {{TOC}}
 Please read these Terms of Use carefully before using http://helpgivethanks.org.  Except where otherwise noted, these Terms of Use come from http://opensource-template.wikidot.com/legal:terms-of-use and are licensed under a [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License] by Wikidot Inc.
 
+<<<<<<< HEAD
 Please be aware that you are legally responsible for all of your contributions, edits, and re-use of <nowiki>HelpGiveThanks.org</nowiki> content under the laws of the United States of America and other applicable laws (which may include the laws where you live or where you view or edit content). This means it is important that you use caution when posting content. In light of this responsibility, we have some rules about what you cannot post, most of which is either for your own protection or for the protection of other users like yourself. Please keep in mind that the content we host is for general informational purposes only, so if you need expert advice for a particular question (such as medical, legal, or financial issues), you should seek the help of a licensed or qualified professional. We also include other important notices and disclaimers, so please read these Terms of Use in their entirety.  <nowiki>[</nowiki>Lanuage in this paragraph comes primarly from http://wikimediafoundation.org/wiki/Terms_of_Use provided under a [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License].]
 
 === Legal Notices ===
@@ -29,6 +30,35 @@ The Websites and Services are controlled and offered by the Operators from facil
 === Permitted and Prohibited Uses ===
 You may use the the Website for the sole purpose of sharing and exchanging ideas with other Users. You may not use the the Website to violate any applicable local, state, national, or international law, including without limitation any applicable laws relating to antitrust or other illegal trade or business practices, federal and state securities laws, regulations promulgated by the U.S. Securities and Exchange Commission, any rules of any national or other securities exchange, and any U.S. laws, rules, and regulations governing the export and re-export of commodities or technical data.
 
+=======
+http://helpgivethanks.org/apps/thebuggenie/wiki/WikiFormatting#article_8_toc_4
+
+Please be aware that you are legally responsible for all of your contributions, edits, and re-use of <nowiki>HelpGiveThanks.org</nowiki> content under the laws of the United States of America and other applicable laws (which may include the laws where you live or where you view or edit content). This means it is important that you use caution when posting content. In light of this responsibility, we have some rules about what you cannot post, most of which is either for your own protection or for the protection of other users like yourself. Please keep in mind that the content we host is for general informational purposes only, so if you need expert advice for a particular question (such as medical, legal, or financial issues), you should seek the help of a licensed or qualified professional. We also include other important notices and disclaimers, so please read these Terms of Use in their entirety.  <nowiki>[</nowiki>Lanuage in this paragraph comes primarly from http://wikimediafoundation.org/wiki/Terms_of_Use provided under a [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License].]
+
+=== Legal Notices ===
+We, the Operators of this Website, provide it as a public service to our users.
+
+Please carefully review the following basic rules that govern your use of the Website. Please note that your use of the Website constitutes your unconditional agreement to follow and be bound by these Terms and Conditions of Use. If you (the "User") do not agree to them, do not use the Website, provide any materials to the Website or download any materials from them.
+
+The Operators reserve the right to update or modify these Terms and Conditions at any time without prior notice to User. Your use of the Website following any such change constitutes your unconditional agreement to follow and be bound by these Terms and Conditions as changed. For this reason, we encourage you to review these Terms and Conditions of Use whenever you use the Website.
+
+These Terms and Conditions of Use apply to the use of the Website and do not extend to any linked third party sites. These Terms and Conditions and our Privacy Policy, which are hereby incorporated by reference, contain the entire agreement (the “Agreement”) between you and the Operators with respect to the Website. Any rights not expressly granted herein are reserved.
+
+=== Your Agreement to the Terms ===
+<nowiki>[</nowiki>Language in this section comes primarily from http://creativecommons.org/terms provided under a [http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License].]
+
+YOUR ACCESS OR USE OF ANY WEBSITE OR SERVICE IN ANY WAY SIGNIFIES THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND BY THE TERMS. By accessing or using any Website or Service you also represent that you have the legal authority to accept the Terms on behalf of yourself and any party you represent in connection with your use of any Website or Service. If you do not agree to the Terms, you are not authorized to use any Website or Service.
+
+=== Location of the Websites and Services ===
+<nowiki>[</nowiki>Language in this section comes primarily from http://creativecommons.org/terms provided under a [http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License].]
+
+
+The Websites and Services are controlled and offered by the Operators from facilities in the United States of America. The Operators make no representations that the Websites or Services are appropriate or available for use in other locations. If you are accessing or using any Website or Service from other jurisdictions, you do so at your own risk and you are responsible for compliance with local law. Notwithstanding the foregoing, the Websites may contain or provide links to Content hosted on websites located outside of the United States of America.
+
+=== Permitted and Prohibited Uses ===
+You may use the the Website for the sole purpose of sharing and exchanging ideas with other Users. You may not use the the Website to violate any applicable local, state, national, or international law, including without limitation any applicable laws relating to antitrust or other illegal trade or business practices, federal and state securities laws, regulations promulgated by the U.S. Securities and Exchange Commission, any rules of any national or other securities exchange, and any U.S. laws, rules, and regulations governing the export and re-export of commodities or technical data.
+
+>>>>>>> FETCH_HEAD
 You may not upload or transmit any material that infringes or misappropriates any person's copyright, patent, trademark, or trade secret, or disclose via the the Website any information the disclosure of which would constitute a violation of any confidentiality obligations you may have.
 
 You may not upload any viruses, worms, Trojan horses, or other forms of harmful computer code, nor subject the Website's network or servers to unreasonable traffic loads, or otherwise engage in conduct deemed disruptive to the ordinary operation of the Website.
@@ -109,13 +139,21 @@ Registering for an account on the forum (located at http://helpgivethanks.org/fo
 
 Services offered to Registered Users are provided subject to these Master Terms and any Additional Terms specified on the relevant Website. The Operators reserve the right to modify or discontinue the accounts of Registered Users and related Services at any time. The Operators disclaim any and all liability to Registered Users and third parties in the event the Operators exercise this right to modify or discontinue user accounts or related Services.
 
+<<<<<<< HEAD
 ====== Registration and Security ======
+=======
+====== Registration; Security ======
+>>>>>>> FETCH_HEAD
 You agree to (a) provide accurate, current and complete information about you, if and as may be prompted by the registration process on the forum (located at http://helpgivethanks.org/forum/) and the project manager and wiki (located at http://helpgivethanks.org/apps/thebuggenie/), (b) maintain the security of your password(s) and identification, (c) maintain and promptly update your registration information and any other information you provide to this website's Operators, and to keep it accurate and complete to, among other things, allow us to contact you, and (d) be fully responsible for all use of your account and for any actions that take place using your account. It is your responsibility to ensure that this website's Operators have up-to-date contact information for you. You may not set up an account or membership on behalf of another individual or entity unless you are authorized to do so.
 
 ====== No Membership in The Help Give Thanks Research Project ======
 As used in these Master Terms, “Registered User” means a person who has registered and obtained an account on the forum (located at http://helpgivethanks.org/forum/) and/or the project manager and wiki (located at http://helpgivethanks.org/apps/thebuggenie/). Becoming a Registered User or using any of the related Websites or Services does not and shall not be deemed to make you a member, shareholder or affiliate of The Help Give Thanks Research Project for any purposes whatsoever.
 
+<<<<<<< HEAD
 ====== Termination and Inactivation of User Accounts ======
+=======
+====== Termination; Termination and Inactivation of User Accounts ======
+>>>>>>> FETCH_HEAD
 Your participation as a Registered User and use the related Services terminates automatically upon your breach of any of these Master Terms or applicable Additional Terms.
 
 If you no longer agree to be bound by these Terms and Conditions, you must cease use of the Website. If you are dissatisfied with the Website, their content, or any of these terms, conditions, and policies, your sole legal remedy is to discontinue using the Website.
@@ -167,4 +205,8 @@ If any provision or part of a provision of these Terms of Use is found unlawful,
 === Using these Terms of Use for Your Own Purposes ===
 <nowiki>[</nowiki>Language in this section comes primarily from http://creativecommons.org/terms provided under a [http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License].]
 
+<<<<<<< HEAD
 These Terms of Use except when otherwise noted, are licensed under [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License] by Wikidot Inc. at http://opensource-template.wikidot.com/legal:terms-of-use.  You are free to use and adapt these Terms of Use for your own purposes under a [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License]. However, please keep in mind that these terms, as written, may not be completely suitable for your situation. This website's Operator's strongly encourage you to seek the advice of your own attorney or counsel before using these Terms of Use.
+=======
+These Terms of Use except when otherwise noted, are licensed under [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License] by Wikidot Inc. at http://opensource-template.wikidot.com/legal:terms-of-use.  You are free to use and adapt these Terms of Use for your own purposes under a [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License]. However, please keep in mind that these terms, as written, may not be completely suitable for your situation. This website's Operator's strongly encourage you to seek the advice of your own attorney or counsel before using these Terms of Use.
+>>>>>>> FETCH_HEAD
