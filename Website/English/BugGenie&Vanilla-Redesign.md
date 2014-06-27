@@ -129,12 +129,31 @@ I learned a lot customizing The Bug Genie for my website.  Here is what I did to
 
 *NOTE: I used all caps sentences in the code to comment on what I discovered a section of code did or to comment on what my changes do.  Most of the time this all-caps text will be the only explanation provided for what I did.*
 
+To upgrade The Bug Genie, do the following:
+
+    Make a backup of your database
+    If using file storage, also make a backup of your files/ folder
+    Copy the content of the folder to your webserver
+    Clear the files in the folders /core/cache/B2DB and /core/cache
+	
+	/files
+	/core/ b2db_bootstrap.inc.php
+	/thebuggenie/ .htaccess
+
+
+headertop.inc.php 
+http://YOURSITE.COM/YOURforum/ 
+https://github.com/YOURorganization/
+
+modules/mailing/templates/_issueupdate.html.inc.php
+
+
 
 ###Top Menu Bar###
 **1) public_html/YOURBugGenieFolder/core/templates/headertop.inc.php**  
 SEE CODE HERE: https://github.com/virtualdavid/thebuggenie/blob/nitrogen/core/templates/headertop.inc.php
 
-Created toggle possibility for switching between the original and nitrogen look for The Bug Genie.  Right now this code is just a test on the first few lines of code.  I'm not sure how best to implement this toggle possibility.  Should it be done for each line of code needed to achieve nitrogen look or would it be better to just divide the code on this page into the nitrogen code and the oxygen code, essentially doubling the amount of code with the top block being original and the bottom being nitrogen?   
+Created toggle possibility for switching between the original and nitrogen look for The Bug Genie.  Right now this code is just a test on the first few lines of code.  I'm not sure how to best implement this toggle possibility.  Should it be done for each line of code needed to achieve nitrogen look or would it be better to just divide the code on this page into the nitrogen code and the oxygen code, which would essentially doubling the amount of code with the top block being original and the bottom being nitrogen?   
 
 Specifics: added code to create the Forum, GitHub, Overview and Project Management buttons, and turn off the logo and website name.
 
@@ -177,8 +196,8 @@ and changed the top line of code from this
 
 to this to prevent highlighting of the Wiki button if user is on Overview page
 ```
-<?php // changed first line of code adding in the url if question to keep the Overview wiki page from higlighting the wiki button in the header menu. ?>
-<li<?php if (($_SERVER["REQUEST_URI"] != '/YOURBugGenieFolder/thebuggenie/wiki/Overview') && ($selected_tab == 'wiki')): ?> class="selected"<?php endif; ?>>
+<?php // changed first line of code adding in the "if url?" question to keep the wiki button from being highlighted on the Overview wiki page. ?>
+<li<?php if (($tbg_response->getTitle() != 'Overview') && ($selected_tab == 'wiki')): ?> class="selected"<?php endif; ?>>
 ```
 
 
@@ -242,9 +261,9 @@ If user is guest change style of wiki and hide wiki tabs.
 
 Show custom welcome message specified in this files code.  Example: 
 
-Welcome to Your Website Name Here! 
+Welcome to Your Website Name Here!
 Feel free to look around. Website testing and content editing in progress. 
-Change this message in this file /YOURBugGenieFolder/modules/publish/templates/_header.inc.php. It's on line 40..
+Change this message in this file /YOURBugGenieFolder/modules/publish/templates/_header.inc.php. It's on line 51.
 
 
 
@@ -370,7 +389,7 @@ $strings['To auto-link to an existing issue, write "issue", "bug", "ticket" or t
 ```
 
 
-Triage Question for Prioritizing Problem Issues
+Triage Question for Prioritizing Problem Issues.  I moved these questions to the top of the file.  They where mixed in with the other strings in alpha order.  But that made them too difficult to see their relationship to each other, and make small changes to improve their usefulness.  
 ```
 	$strings['Crash: Bug causes crash or data loss / asserts in the debug release'] = '7 Total failure!  Cannot get around problem, big loss, unworkable, etc.';
   
@@ -452,6 +471,12 @@ Change label spacing for a better fit, look, etc. from 180px to 160px for first 
 UPDATE MYSLQL Database `your_buggenie TABLE tbg3_listtypes SET 'name' = 'Not a bug' TO 'Not an issue' WHERE 'tbg3_listtypes'.'id' = 26`
 
 ###Vanilla Code Additions###
+
+
+Turn of picture upload link with CSS!
+
+
+
 Add Bug Genie style header and main navigation buttons to your Vanilla Forum: Forum, Overview, Project Manager
 
 **http://YOURWEBSITE.com/YOURVanillaForumFolder/themes/EmbedFriendly/views/default.master.tpl**  
