@@ -1,6 +1,9 @@
 Issue: http://helpgivethanks.org/apps/thebuggenie/cool/issues/HI-58
+
 Purpose: Create a stuff theory document
+
 Do not change above information.  Please do change and improve everything below.
+
 ------
 
 Create stuff theory document to:
